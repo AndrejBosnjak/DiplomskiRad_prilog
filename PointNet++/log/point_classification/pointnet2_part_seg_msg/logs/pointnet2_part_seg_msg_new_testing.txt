@@ -1,0 +1,1211 @@
+2024-09-17 21:14:13,575 - Model - INFO - PARAMETERS...
+2024-09-17 21:14:13,575 - Model - INFO - Namespace(batch_size=4, decay_rate=0.0001, epoch=3, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 21:14:13,575 - Model - INFO - The number of training data is: 41
+2024-09-17 21:14:13,575 - Model - INFO - The number of test data is: 8
+2024-09-17 21:15:25,902 - Model - INFO - PARAMETERS...
+2024-09-17 21:15:25,902 - Model - INFO - Namespace(batch_size=4, decay_rate=0.0001, epoch=3, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 21:15:25,903 - Model - INFO - The number of training data is: 41
+2024-09-17 21:15:25,903 - Model - INFO - The number of test data is: 8
+2024-09-17 21:15:40,184 - Model - INFO - PARAMETERS...
+2024-09-17 21:15:40,184 - Model - INFO - Namespace(batch_size=4, decay_rate=0.0001, epoch=3, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 21:15:40,184 - Model - INFO - The number of training data is: 41
+2024-09-17 21:15:40,184 - Model - INFO - The number of test data is: 8
+2024-09-17 21:15:41,968 - Model - INFO - No existing model, starting training from scratch...
+2024-09-17 21:15:41,969 - Model - INFO - Epoch 1/3:
+2024-09-17 21:25:35,260 - Model - INFO - PARAMETERS...
+2024-09-17 21:25:35,260 - Model - INFO - Namespace(batch_size=4, decay_rate=0.0001, epoch=3, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 21:25:35,260 - Model - INFO - The number of training data is: 41
+2024-09-17 21:25:35,260 - Model - INFO - The number of test data is: 8
+2024-09-17 21:25:37,045 - Model - INFO - No existing model, starting training from scratch...
+2024-09-17 21:25:37,046 - Model - INFO - Epoch 1/3:
+2024-09-17 21:29:14,260 - Model - INFO - PARAMETERS...
+2024-09-17 21:29:14,260 - Model - INFO - Namespace(batch_size=4, decay_rate=0.0001, epoch=3, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 21:29:14,261 - Model - INFO - The number of training data is: 41
+2024-09-17 21:29:14,261 - Model - INFO - The number of test data is: 8
+2024-09-17 21:29:16,038 - Model - INFO - No existing model, starting training from scratch...
+2024-09-17 21:29:16,039 - Model - INFO - Epoch 1/3:
+2024-09-17 21:30:25,021 - Model - INFO - PARAMETERS...
+2024-09-17 21:30:25,021 - Model - INFO - Namespace(batch_size=4, decay_rate=0.0001, epoch=3, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 21:30:25,021 - Model - INFO - The number of training data is: 41
+2024-09-17 21:30:25,021 - Model - INFO - The number of test data is: 8
+2024-09-17 21:30:26,798 - Model - INFO - No existing model, starting training from scratch...
+2024-09-17 21:30:26,799 - Model - INFO - Epoch 1/3:
+2024-09-17 21:35:32,712 - Model - INFO - PARAMETERS...
+2024-09-17 21:35:32,712 - Model - INFO - Namespace(batch_size=4, decay_rate=0.0001, epoch=3, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 21:35:32,712 - Model - INFO - The number of training data is: 41
+2024-09-17 21:35:32,712 - Model - INFO - The number of test data is: 8
+2024-09-17 21:35:34,464 - Model - INFO - No existing model, starting training from scratch...
+2024-09-17 21:35:34,465 - Model - INFO - Epoch 1/3:
+2024-09-17 21:35:40,296 - Model - INFO - Train accuracy: 0.67655
+2024-09-17 21:35:54,436 - Model - INFO - PARAMETERS...
+2024-09-17 21:35:54,436 - Model - INFO - Namespace(batch_size=4, decay_rate=0.0001, epoch=3, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 21:35:54,436 - Model - INFO - The number of training data is: 41
+2024-09-17 21:35:54,436 - Model - INFO - The number of test data is: 8
+2024-09-17 21:35:56,240 - Model - INFO - No existing model, starting training from scratch...
+2024-09-17 21:35:56,242 - Model - INFO - Epoch 1/3:
+2024-09-17 21:36:02,125 - Model - INFO - Train accuracy: 0.73395
+2024-09-17 21:36:28,334 - Model - INFO - PARAMETERS...
+2024-09-17 21:36:28,334 - Model - INFO - Namespace(batch_size=4, decay_rate=0.0001, epoch=3, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 21:36:28,335 - Model - INFO - The number of training data is: 41
+2024-09-17 21:36:28,335 - Model - INFO - The number of test data is: 8
+2024-09-17 21:36:30,116 - Model - INFO - No existing model, starting training from scratch...
+2024-09-17 21:36:30,117 - Model - INFO - Epoch 1/3:
+2024-09-17 21:36:35,962 - Model - INFO - Train accuracy: 0.76689
+2024-09-17 21:36:37,636 - Model - INFO - Test accuracy: 0.00000
+2024-09-17 21:36:37,637 - Model - INFO - Best accuracy: 0.00000
+2024-09-17 21:36:37,637 - Model - INFO - Epoch 2/3:
+2024-09-17 21:36:43,236 - Model - INFO - Train accuracy: 0.85453
+2024-09-17 21:36:44,870 - Model - INFO - Test accuracy: 0.00000
+2024-09-17 21:36:44,870 - Model - INFO - Best accuracy: 0.00000
+2024-09-17 21:36:44,870 - Model - INFO - Epoch 3/3:
+2024-09-17 21:36:50,428 - Model - INFO - Train accuracy: 0.86411
+2024-09-17 21:36:52,103 - Model - INFO - Test accuracy: 0.00000
+2024-09-17 21:36:52,103 - Model - INFO - Best accuracy: 0.00000
+2024-09-17 21:38:49,593 - Model - INFO - PARAMETERS...
+2024-09-17 21:38:49,593 - Model - INFO - Namespace(batch_size=1, decay_rate=0.0001, epoch=3, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 21:38:49,593 - Model - INFO - The number of training data is: 41
+2024-09-17 21:38:49,593 - Model - INFO - The number of test data is: 8
+2024-09-17 21:38:51,377 - Model - INFO - No existing model, starting training from scratch...
+2024-09-17 21:38:51,378 - Model - INFO - Epoch 1/3:
+2024-09-17 21:39:01,759 - Model - INFO - Train accuracy: 0.82584
+2024-09-17 21:39:03,857 - Model - INFO - Test accuracy: 0.00000
+2024-09-17 21:39:03,857 - Model - INFO - Best accuracy: 0.00000
+2024-09-17 21:39:03,857 - Model - INFO - Epoch 2/3:
+2024-09-17 21:39:14,122 - Model - INFO - Train accuracy: 0.85848
+2024-09-17 21:39:16,141 - Model - INFO - Test accuracy: 0.00000
+2024-09-17 21:39:16,142 - Model - INFO - Best accuracy: 0.00000
+2024-09-17 21:39:16,142 - Model - INFO - Epoch 3/3:
+2024-09-17 21:39:45,389 - Model - INFO - PARAMETERS...
+2024-09-17 21:39:45,390 - Model - INFO - Namespace(batch_size=1, decay_rate=0.0001, epoch=3, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 21:39:45,390 - Model - INFO - The number of training data is: 41
+2024-09-17 21:39:45,390 - Model - INFO - The number of test data is: 8
+2024-09-17 21:39:47,212 - Model - INFO - No existing model, starting training from scratch...
+2024-09-17 21:39:47,213 - Model - INFO - Epoch 1/3:
+2024-09-17 21:39:57,495 - Model - INFO - Train accuracy: 0.83551
+2024-09-17 21:39:59,583 - Model - INFO - Test accuracy: 0.00000
+2024-09-17 21:39:59,583 - Model - INFO - Best accuracy: 0.00000
+2024-09-17 21:39:59,583 - Model - INFO - Epoch 2/3:
+2024-09-17 21:41:35,000 - Model - INFO - PARAMETERS...
+2024-09-17 21:41:35,000 - Model - INFO - Namespace(batch_size=1, decay_rate=0.0001, epoch=3, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 21:41:35,000 - Model - INFO - The number of training data is: 41
+2024-09-17 21:41:35,001 - Model - INFO - The number of test data is: 8
+2024-09-17 21:41:36,784 - Model - INFO - No existing model, starting training from scratch...
+2024-09-17 21:41:36,785 - Model - INFO - Epoch 1/3:
+2024-09-17 21:41:47,008 - Model - INFO - Train accuracy: 0.83936
+2024-09-17 21:44:46,755 - Model - INFO - PARAMETERS...
+2024-09-17 21:44:46,755 - Model - INFO - Namespace(batch_size=1, decay_rate=0.0001, epoch=3, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 21:44:46,756 - Model - INFO - The number of training data is: 41
+2024-09-17 21:44:46,756 - Model - INFO - The number of test data is: 8
+2024-09-17 21:44:48,526 - Model - INFO - No existing model, starting training from scratch...
+2024-09-17 21:44:48,527 - Model - INFO - Epoch 1/3:
+2024-09-17 21:44:58,750 - Model - INFO - Train accuracy: 0.82288
+2024-09-17 21:45:37,837 - Model - INFO - PARAMETERS...
+2024-09-17 21:45:37,837 - Model - INFO - Namespace(batch_size=1, decay_rate=0.0001, epoch=3, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 21:45:37,837 - Model - INFO - The number of training data is: 41
+2024-09-17 21:45:37,837 - Model - INFO - The number of test data is: 8
+2024-09-17 21:45:39,565 - Model - INFO - No existing model, starting training from scratch...
+2024-09-17 21:45:39,566 - Model - INFO - Epoch 1/3:
+2024-09-17 21:45:49,926 - Model - INFO - Train accuracy: 0.81261
+2024-09-17 21:45:52,115 - Model - INFO - Test accuracy: 0.84088
+2024-09-17 21:45:52,115 - Model - INFO - Saving best model...
+2024-09-17 21:45:52,179 - Model - INFO - Best accuracy: 0.84088
+2024-09-17 21:45:52,179 - Model - INFO - Epoch 2/3:
+2024-09-17 21:46:02,320 - Model - INFO - Train accuracy: 0.86018
+2024-09-17 21:46:04,500 - Model - INFO - Test accuracy: 0.84021
+2024-09-17 21:46:04,501 - Model - INFO - Best accuracy: 0.84088
+2024-09-17 21:46:04,501 - Model - INFO - Epoch 3/3:
+2024-09-17 21:46:14,690 - Model - INFO - Train accuracy: 0.86745
+2024-09-17 21:46:16,807 - Model - INFO - Test accuracy: 0.85724
+2024-09-17 21:46:16,807 - Model - INFO - Saving best model...
+2024-09-17 21:46:16,934 - Model - INFO - Best accuracy: 0.85724
+2024-09-17 21:50:11,707 - Model - INFO - PARAMETERS...
+2024-09-17 21:50:11,707 - Model - INFO - Namespace(batch_size=1, decay_rate=0.0001, epoch=3, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 21:50:11,707 - Model - INFO - The number of training data is: 41
+2024-09-17 21:50:11,707 - Model - INFO - The number of test data is: 8
+2024-09-17 21:50:13,508 - Model - INFO - Using pre-trained model
+2024-09-17 21:50:13,508 - Model - INFO - Epoch 3/3:
+2024-09-17 21:50:23,797 - Model - INFO - Train accuracy: 0.86127
+2024-09-17 21:50:25,907 - Model - INFO - Test accuracy: 0.86554
+2024-09-17 21:50:25,907 - Model - INFO - Saving best model...
+2024-09-17 21:50:26,034 - Model - INFO - Best accuracy: 0.86554
+2024-09-17 21:51:40,229 - Model - INFO - PARAMETERS...
+2024-09-17 21:51:40,229 - Model - INFO - Namespace(batch_size=1, decay_rate=0.0001, epoch=3, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 21:51:40,230 - Model - INFO - The number of training data is: 41
+2024-09-17 21:51:40,230 - Model - INFO - The number of test data is: 8
+2024-09-17 21:51:42,071 - Model - INFO - Using pre-trained model
+2024-09-17 21:51:42,071 - Model - INFO - Epoch 3/3:
+2024-09-17 21:51:52,547 - Model - INFO - Train accuracy: 0.86575
+2024-09-17 21:51:54,634 - Model - INFO - Test accuracy: 0.86566
+2024-09-17 21:51:54,634 - Model - INFO - Saving best model...
+2024-09-17 21:51:54,756 - Model - INFO - Best accuracy: 0.86566
+2024-09-17 21:54:40,238 - Model - INFO - PARAMETERS...
+2024-09-17 21:54:40,238 - Model - INFO - Namespace(batch_size=1, decay_rate=0.0001, epoch=3, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 21:54:40,239 - Model - INFO - The number of training data is: 41
+2024-09-17 21:54:40,239 - Model - INFO - The number of test data is: 8
+2024-09-17 21:54:42,066 - Model - INFO - Using pre-trained model
+2024-09-17 21:54:42,066 - Model - INFO - Epoch 3/3:
+2024-09-17 21:54:52,431 - Model - INFO - Train accuracy: 0.87157
+2024-09-17 21:54:54,592 - Model - INFO - Test accuracy: 0.86676
+2024-09-17 21:54:54,592 - Model - INFO - Saving best model...
+2024-09-17 21:54:54,732 - Model - INFO - Best accuracy: 0.86676
+2024-09-17 21:56:28,951 - Model - INFO - PARAMETERS...
+2024-09-17 21:56:28,952 - Model - INFO - Namespace(batch_size=1, decay_rate=0.0001, epoch=3, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 21:56:28,952 - Model - INFO - The number of training data is: 41
+2024-09-17 21:56:28,952 - Model - INFO - The number of test data is: 8
+2024-09-17 21:56:30,836 - Model - INFO - Using pre-trained model
+2024-09-17 21:56:30,836 - Model - INFO - Epoch 3/3:
+2024-09-17 21:56:41,211 - Model - INFO - Train accuracy: 0.87723
+2024-09-17 21:56:43,364 - Model - INFO - Test accuracy: 0.87048
+2024-09-17 21:56:43,364 - Model - INFO - Saving best model...
+2024-09-17 21:56:43,496 - Model - INFO - Best accuracy: 0.87048
+2024-09-17 21:58:52,212 - Model - INFO - PARAMETERS...
+2024-09-17 21:58:52,213 - Model - INFO - Namespace(batch_size=1, decay_rate=0.0001, epoch=3, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 21:58:52,213 - Model - INFO - The number of training data is: 41
+2024-09-17 21:58:52,213 - Model - INFO - The number of test data is: 8
+2024-09-17 21:58:54,050 - Model - INFO - Using pre-trained model
+2024-09-17 21:58:54,050 - Model - INFO - Epoch 3/3:
+2024-09-17 21:59:04,350 - Model - INFO - Train accuracy: 0.87343
+2024-09-17 21:59:06,545 - Model - INFO - Test accuracy: 0.86914
+2024-09-17 21:59:06,546 - Model - INFO - Saving best model...
+2024-09-17 21:59:06,700 - Model - INFO - Best accuracy: 0.86914
+2024-09-17 22:01:41,627 - Model - INFO - PARAMETERS...
+2024-09-17 22:01:41,627 - Model - INFO - Namespace(batch_size=2, decay_rate=0.0001, epoch=3, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 22:01:41,627 - Model - INFO - The number of training data is: 41
+2024-09-17 22:01:41,628 - Model - INFO - The number of test data is: 8
+2024-09-17 22:01:43,436 - Model - INFO - Using pre-trained model
+2024-09-17 22:01:43,436 - Model - INFO - Epoch 3/3:
+2024-09-17 22:01:50,517 - Model - INFO - Train accuracy: 0.87300
+2024-09-17 22:01:52,198 - Model - INFO - Test accuracy: 0.44440
+2024-09-17 22:01:52,198 - Model - INFO - Saving best model...
+2024-09-17 22:01:52,320 - Model - INFO - Best accuracy: 0.44440
+2024-09-17 22:02:02,753 - Model - INFO - PARAMETERS...
+2024-09-17 22:02:02,753 - Model - INFO - Namespace(batch_size=4, decay_rate=0.0001, epoch=3, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 22:02:02,753 - Model - INFO - The number of training data is: 41
+2024-09-17 22:02:02,753 - Model - INFO - The number of test data is: 8
+2024-09-17 22:02:04,554 - Model - INFO - Using pre-trained model
+2024-09-17 22:02:04,555 - Model - INFO - Epoch 3/3:
+2024-09-17 22:02:10,362 - Model - INFO - Train accuracy: 0.88657
+2024-09-17 22:02:12,047 - Model - INFO - Test accuracy: 0.69336
+2024-09-17 22:02:12,048 - Model - INFO - Saving best model...
+2024-09-17 22:02:12,172 - Model - INFO - Best accuracy: 0.69336
+2024-09-17 22:03:00,741 - Model - INFO - PARAMETERS...
+2024-09-17 22:03:00,741 - Model - INFO - Namespace(batch_size=1, decay_rate=0.0001, epoch=3, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 22:03:00,742 - Model - INFO - The number of training data is: 41
+2024-09-17 22:03:00,742 - Model - INFO - The number of test data is: 8
+2024-09-17 22:03:02,521 - Model - INFO - Using pre-trained model
+2024-09-17 22:03:02,522 - Model - INFO - Epoch 3/3:
+2024-09-17 22:03:12,722 - Model - INFO - Train accuracy: 0.88118
+2024-09-17 22:03:14,753 - Model - INFO - Test accuracy: 0.86963
+2024-09-17 22:03:14,753 - Model - INFO - Saving best model...
+2024-09-17 22:03:14,907 - Model - INFO - Best accuracy: 0.86963
+2024-09-17 22:04:11,508 - Model - INFO - PARAMETERS...
+2024-09-17 22:04:11,508 - Model - INFO - Namespace(batch_size=1, decay_rate=0.0001, epoch=3, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 22:04:11,508 - Model - INFO - The number of training data is: 41
+2024-09-17 22:04:11,508 - Model - INFO - The number of test data is: 8
+2024-09-17 22:04:13,255 - Model - INFO - Using pre-trained model
+2024-09-17 22:04:13,255 - Model - INFO - Epoch 3/3:
+2024-09-17 22:04:23,767 - Model - INFO - Train accuracy: 0.88197
+2024-09-17 22:04:25,879 - Model - INFO - Test accuracy: 0.87958
+2024-09-17 22:04:25,879 - Model - INFO - Saving best model...
+2024-09-17 22:04:26,025 - Model - INFO - Best accuracy: 0.87958
+2024-09-17 22:05:20,112 - Model - INFO - PARAMETERS...
+2024-09-17 22:05:20,112 - Model - INFO - Namespace(batch_size=1, decay_rate=0.0001, epoch=3, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 22:05:20,112 - Model - INFO - The number of training data is: 41
+2024-09-17 22:05:20,112 - Model - INFO - The number of test data is: 8
+2024-09-17 22:05:21,868 - Model - INFO - Using pre-trained model
+2024-09-17 22:05:21,868 - Model - INFO - Epoch 3/3:
+2024-09-17 22:05:32,014 - Model - INFO - Train accuracy: 0.88440
+2024-09-17 22:05:34,133 - Model - INFO - Test accuracy: 0.86249
+2024-09-17 22:05:34,133 - Model - INFO - Saving best model...
+2024-09-17 22:05:34,248 - Model - INFO - Best accuracy: 0.86249
+2024-09-17 22:06:53,434 - Model - INFO - PARAMETERS...
+2024-09-17 22:06:53,435 - Model - INFO - Namespace(batch_size=1, decay_rate=0.0001, epoch=3, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 22:06:53,435 - Model - INFO - The number of training data is: 41
+2024-09-17 22:06:53,435 - Model - INFO - The number of test data is: 8
+2024-09-17 22:06:55,254 - Model - INFO - Using pre-trained model
+2024-09-17 22:06:55,255 - Model - INFO - Epoch 3/3:
+2024-09-17 22:10:17,211 - Model - INFO - PARAMETERS...
+2024-09-17 22:10:17,211 - Model - INFO - Namespace(batch_size=1, decay_rate=0.0001, epoch=3, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 22:10:17,211 - Model - INFO - The number of training data is: 41
+2024-09-17 22:10:17,211 - Model - INFO - The number of test data is: 8
+2024-09-17 22:10:18,977 - Model - INFO - Using pre-trained model
+2024-09-17 22:10:18,977 - Model - INFO - Epoch 3/3:
+2024-09-17 22:10:29,342 - Model - INFO - Train accuracy: 0.89089
+2024-09-17 22:10:31,401 - Model - INFO - Test accuracy: 0.85364
+2024-09-17 22:10:31,402 - Model - INFO - Saving best model...
+2024-09-17 22:10:31,556 - Model - INFO - Best accuracy: 0.85364
+2024-09-17 22:12:13,144 - Model - INFO - PARAMETERS...
+2024-09-17 22:12:13,144 - Model - INFO - Namespace(batch_size=1, decay_rate=0.0001, epoch=3, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 22:12:13,145 - Model - INFO - The number of training data is: 41
+2024-09-17 22:12:13,145 - Model - INFO - The number of test data is: 8
+2024-09-17 22:12:14,918 - Model - INFO - Using pre-trained model
+2024-09-17 22:12:14,919 - Model - INFO - Epoch 3/3:
+2024-09-17 22:12:25,261 - Model - INFO - Train accuracy: 0.89308
+2024-09-17 22:12:27,314 - Model - INFO - Test accuracy: 0.86621
+2024-09-17 22:12:27,315 - Model - INFO - Saving best model...
+2024-09-17 22:12:27,438 - Model - INFO - Best accuracy: 0.86621
+2024-09-17 22:13:17,702 - Model - INFO - PARAMETERS...
+2024-09-17 22:13:17,702 - Model - INFO - Namespace(batch_size=1, decay_rate=0.0001, epoch=3, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 22:13:17,702 - Model - INFO - The number of training data is: 41
+2024-09-17 22:13:17,702 - Model - INFO - The number of test data is: 8
+2024-09-17 22:13:19,541 - Model - INFO - Using pre-trained model
+2024-09-17 22:13:19,542 - Model - INFO - Epoch 3/3:
+2024-09-17 22:13:29,938 - Model - INFO - Train accuracy: 0.89473
+2024-09-17 22:18:32,612 - Model - INFO - PARAMETERS...
+2024-09-17 22:18:32,612 - Model - INFO - Namespace(batch_size=1, decay_rate=0.0001, epoch=3, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 22:18:32,612 - Model - INFO - The number of training data is: 41
+2024-09-17 22:18:32,612 - Model - INFO - The number of test data is: 8
+2024-09-17 22:18:34,410 - Model - INFO - Using pre-trained model
+2024-09-17 22:18:34,411 - Model - INFO - Epoch 3/3:
+2024-09-17 22:18:44,826 - Model - INFO - Train accuracy: 0.88960
+2024-09-17 22:18:46,884 - Model - INFO - Test accuracy: 0.85236
+2024-09-17 22:18:46,884 - Model - INFO - Saving best model...
+2024-09-17 22:18:46,998 - Model - INFO - Best accuracy: 0.85236
+2024-09-17 22:19:53,994 - Model - INFO - PARAMETERS...
+2024-09-17 22:19:53,994 - Model - INFO - Namespace(batch_size=1, decay_rate=0.0001, epoch=3, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 22:19:53,995 - Model - INFO - The number of training data is: 41
+2024-09-17 22:19:53,995 - Model - INFO - The number of test data is: 8
+2024-09-17 22:19:55,767 - Model - INFO - Using pre-trained model
+2024-09-17 22:19:55,767 - Model - INFO - Epoch 3/3:
+2024-09-17 22:20:06,047 - Model - INFO - Train accuracy: 0.89340
+2024-09-17 22:20:08,091 - Model - INFO - Test accuracy: 0.83380
+2024-09-17 22:20:08,091 - Model - INFO - Saving best model...
+2024-09-17 22:20:08,247 - Model - INFO - Best accuracy: 0.83380
+2024-09-17 22:20:44,353 - Model - INFO - PARAMETERS...
+2024-09-17 22:20:44,353 - Model - INFO - Namespace(batch_size=1, decay_rate=0.0001, epoch=3, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 22:20:44,353 - Model - INFO - The number of training data is: 41
+2024-09-17 22:20:44,353 - Model - INFO - The number of test data is: 8
+2024-09-17 22:20:46,164 - Model - INFO - Using pre-trained model
+2024-09-17 22:20:46,164 - Model - INFO - Epoch 3/3:
+2024-09-17 22:21:08,928 - Model - INFO - PARAMETERS...
+2024-09-17 22:21:08,928 - Model - INFO - Namespace(batch_size=1, decay_rate=0.0001, epoch=3, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 22:21:08,929 - Model - INFO - The number of training data is: 41
+2024-09-17 22:21:08,929 - Model - INFO - The number of test data is: 8
+2024-09-17 22:21:10,704 - Model - INFO - Using pre-trained model
+2024-09-17 22:21:10,704 - Model - INFO - Epoch 3/3:
+2024-09-17 22:21:20,989 - Model - INFO - Train accuracy: 0.89520
+2024-09-17 22:21:23,049 - Model - INFO - Test accuracy: 0.86835
+2024-09-17 22:21:23,049 - Model - INFO - Saving best model...
+2024-09-17 22:21:23,175 - Model - INFO - Best accuracy: 0.86835
+2024-09-17 22:22:40,859 - Model - INFO - PARAMETERS...
+2024-09-17 22:22:40,859 - Model - INFO - Namespace(batch_size=1, decay_rate=0.0001, epoch=3, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 22:22:40,859 - Model - INFO - The number of training data is: 41
+2024-09-17 22:22:40,859 - Model - INFO - The number of test data is: 8
+2024-09-17 22:22:42,602 - Model - INFO - Using pre-trained model
+2024-09-17 22:22:42,603 - Model - INFO - Epoch 3/3:
+2024-09-17 22:22:53,003 - Model - INFO - Train accuracy: 0.89584
+2024-09-17 22:22:55,098 - Model - INFO - Test accuracy: 0.86273
+2024-09-17 22:22:55,099 - Model - INFO - Saving best model...
+2024-09-17 22:22:55,262 - Model - INFO - Best accuracy: 0.86273
+2024-09-17 22:23:19,714 - Model - INFO - PARAMETERS...
+2024-09-17 22:23:19,714 - Model - INFO - Namespace(batch_size=1, decay_rate=0.0001, epoch=3, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 22:23:19,715 - Model - INFO - The number of training data is: 41
+2024-09-17 22:23:19,715 - Model - INFO - The number of test data is: 8
+2024-09-17 22:23:21,499 - Model - INFO - Using pre-trained model
+2024-09-17 22:23:21,499 - Model - INFO - Epoch 3/3:
+2024-09-17 22:23:31,733 - Model - INFO - Train accuracy: 0.90133
+2024-09-17 22:23:33,776 - Model - INFO - Test accuracy: 0.84009
+2024-09-17 22:23:33,777 - Model - INFO - Saving best model...
+2024-09-17 22:23:33,901 - Model - INFO - Best accuracy: 0.84009
+2024-09-17 22:24:03,934 - Model - INFO - PARAMETERS...
+2024-09-17 22:24:03,934 - Model - INFO - Namespace(batch_size=1, decay_rate=0.0001, epoch=3, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 22:24:03,934 - Model - INFO - The number of training data is: 41
+2024-09-17 22:24:03,934 - Model - INFO - The number of test data is: 8
+2024-09-17 22:24:05,663 - Model - INFO - Using pre-trained model
+2024-09-17 22:24:05,663 - Model - INFO - Epoch 3/3:
+2024-09-17 22:24:15,871 - Model - INFO - Train accuracy: 0.90093
+2024-09-17 22:24:17,922 - Model - INFO - Test accuracy: 0.85907
+2024-09-17 22:24:17,922 - Model - INFO - Saving best model...
+2024-09-17 22:24:18,056 - Model - INFO - Best accuracy: 0.85907
+2024-09-17 22:25:46,793 - Model - INFO - PARAMETERS...
+2024-09-17 22:25:46,793 - Model - INFO - Namespace(batch_size=1, decay_rate=0.0001, epoch=3, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 22:25:46,794 - Model - INFO - The number of training data is: 41
+2024-09-17 22:25:46,794 - Model - INFO - The number of test data is: 8
+2024-09-17 22:25:48,593 - Model - INFO - Using pre-trained model
+2024-09-17 22:25:48,593 - Model - INFO - Epoch 3/3:
+2024-09-17 22:26:02,151 - Model - INFO - PARAMETERS...
+2024-09-17 22:26:02,151 - Model - INFO - Namespace(batch_size=1, decay_rate=0.0001, epoch=3, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 22:26:02,151 - Model - INFO - The number of training data is: 41
+2024-09-17 22:26:02,151 - Model - INFO - The number of test data is: 8
+2024-09-17 22:26:03,943 - Model - INFO - Using pre-trained model
+2024-09-17 22:26:03,944 - Model - INFO - Epoch 3/3:
+2024-09-17 22:26:14,169 - Model - INFO - Train accuracy: 0.90731
+2024-09-17 22:26:16,231 - Model - INFO - Test accuracy: 0.85425
+2024-09-17 22:26:16,231 - Model - INFO - Saving best model...
+2024-09-17 22:26:16,355 - Model - INFO - Best accuracy: 0.85425
+2024-09-17 22:26:49,027 - Model - INFO - PARAMETERS...
+2024-09-17 22:26:49,027 - Model - INFO - Namespace(batch_size=1, decay_rate=0.0001, epoch=3, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 22:26:49,027 - Model - INFO - The number of training data is: 41
+2024-09-17 22:26:49,027 - Model - INFO - The number of test data is: 8
+2024-09-17 22:26:50,798 - Model - INFO - Using pre-trained model
+2024-09-17 22:26:50,799 - Model - INFO - Epoch 3/3:
+2024-09-17 22:27:01,160 - Model - INFO - Train accuracy: 0.90072
+2024-09-17 22:27:03,166 - Model - INFO - Test accuracy: 0.85486
+2024-09-17 22:27:03,167 - Model - INFO - Saving best model...
+2024-09-17 22:27:03,291 - Model - INFO - Best accuracy: 0.85486
+2024-09-17 22:30:51,409 - Model - INFO - PARAMETERS...
+2024-09-17 22:30:51,409 - Model - INFO - Namespace(batch_size=2, decay_rate=0.0001, epoch=1, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 22:30:51,409 - Model - INFO - The number of training data is: 41
+2024-09-17 22:30:51,409 - Model - INFO - The number of test data is: 8
+2024-09-17 22:30:53,129 - Model - INFO - No existing model, starting training from scratch...
+2024-09-17 22:30:53,130 - Model - INFO - Epoch 1/1:
+2024-09-17 22:31:00,312 - Model - INFO - Train accuracy: 0.76086
+2024-09-17 22:31:01,958 - Model - INFO - Test accuracy: 0.15442
+2024-09-17 22:31:01,958 - Model - INFO - Saving best model...
+2024-09-17 22:31:02,018 - Model - INFO - Best accuracy: 0.15442
+2024-09-17 22:31:26,195 - Model - INFO - PARAMETERS...
+2024-09-17 22:31:26,195 - Model - INFO - Namespace(batch_size=2, decay_rate=0.0001, epoch=30, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 22:31:26,195 - Model - INFO - The number of training data is: 41
+2024-09-17 22:31:26,195 - Model - INFO - The number of test data is: 8
+2024-09-17 22:31:27,934 - Model - INFO - Using pre-trained model
+2024-09-17 22:31:27,934 - Model - INFO - Epoch 1/30:
+2024-09-17 22:31:34,955 - Model - INFO - Train accuracy: 0.85157
+2024-09-17 22:31:36,628 - Model - INFO - Test accuracy: 0.16547
+2024-09-17 22:31:36,628 - Model - INFO - Saving best model...
+2024-09-17 22:31:36,827 - Model - INFO - Best accuracy: 0.16547
+2024-09-17 22:31:36,827 - Model - INFO - Epoch 2/30:
+2024-09-17 22:31:43,546 - Model - INFO - Train accuracy: 0.86324
+2024-09-17 22:31:45,171 - Model - INFO - Test accuracy: 0.68719
+2024-09-17 22:31:45,172 - Model - INFO - Saving best model...
+2024-09-17 22:31:45,294 - Model - INFO - Best accuracy: 0.68719
+2024-09-17 22:31:45,294 - Model - INFO - Epoch 3/30:
+2024-09-17 22:31:52,099 - Model - INFO - Train accuracy: 0.86379
+2024-09-17 22:31:53,755 - Model - INFO - Test accuracy: 0.88275
+2024-09-17 22:31:53,755 - Model - INFO - Saving best model...
+2024-09-17 22:31:53,884 - Model - INFO - Best accuracy: 0.88275
+2024-09-17 22:31:53,885 - Model - INFO - Epoch 4/30:
+2024-09-17 22:32:00,697 - Model - INFO - Train accuracy: 0.87195
+2024-09-17 22:32:02,298 - Model - INFO - Test accuracy: 0.86133
+2024-09-17 22:32:02,298 - Model - INFO - Best accuracy: 0.88275
+2024-09-17 22:32:02,298 - Model - INFO - Epoch 5/30:
+2024-09-17 22:32:09,194 - Model - INFO - Train accuracy: 0.87227
+2024-09-17 22:32:10,835 - Model - INFO - Test accuracy: 0.76306
+2024-09-17 22:32:10,835 - Model - INFO - Best accuracy: 0.88275
+2024-09-17 22:32:10,835 - Model - INFO - Epoch 6/30:
+2024-09-17 22:32:17,691 - Model - INFO - Train accuracy: 0.87323
+2024-09-17 22:32:19,338 - Model - INFO - Test accuracy: 0.87811
+2024-09-17 22:32:19,339 - Model - INFO - Best accuracy: 0.88275
+2024-09-17 22:32:19,339 - Model - INFO - Epoch 7/30:
+2024-09-17 22:32:26,141 - Model - INFO - Train accuracy: 0.88413
+2024-09-17 22:32:27,781 - Model - INFO - Test accuracy: 0.88226
+2024-09-17 22:32:27,781 - Model - INFO - Best accuracy: 0.88275
+2024-09-17 22:32:27,781 - Model - INFO - Epoch 8/30:
+2024-09-17 22:32:34,614 - Model - INFO - Train accuracy: 0.88209
+2024-09-17 22:32:36,257 - Model - INFO - Test accuracy: 0.81323
+2024-09-17 22:32:36,258 - Model - INFO - Best accuracy: 0.88275
+2024-09-17 22:32:36,258 - Model - INFO - Epoch 9/30:
+2024-09-17 22:32:43,159 - Model - INFO - Train accuracy: 0.88179
+2024-09-17 22:32:44,806 - Model - INFO - Test accuracy: 0.87305
+2024-09-17 22:32:44,806 - Model - INFO - Best accuracy: 0.88275
+2024-09-17 22:32:44,806 - Model - INFO - Epoch 10/30:
+2024-09-17 22:32:51,596 - Model - INFO - Train accuracy: 0.88098
+2024-09-17 22:32:53,230 - Model - INFO - Test accuracy: 0.88239
+2024-09-17 22:32:53,231 - Model - INFO - Best accuracy: 0.88275
+2024-09-17 22:32:53,231 - Model - INFO - Epoch 11/30:
+2024-09-17 22:33:00,007 - Model - INFO - Train accuracy: 0.89005
+2024-09-17 22:33:01,694 - Model - INFO - Test accuracy: 0.87683
+2024-09-17 22:33:01,694 - Model - INFO - Best accuracy: 0.88275
+2024-09-17 22:33:01,695 - Model - INFO - Epoch 12/30:
+2024-09-17 22:33:08,490 - Model - INFO - Train accuracy: 0.88920
+2024-09-17 22:33:10,150 - Model - INFO - Test accuracy: 0.88818
+2024-09-17 22:33:10,151 - Model - INFO - Saving best model...
+2024-09-17 22:33:10,270 - Model - INFO - Best accuracy: 0.88818
+2024-09-17 22:33:10,270 - Model - INFO - Epoch 13/30:
+2024-09-17 22:33:17,281 - Model - INFO - Train accuracy: 0.88658
+2024-09-17 22:33:18,924 - Model - INFO - Test accuracy: 0.89172
+2024-09-17 22:33:18,924 - Model - INFO - Saving best model...
+2024-09-17 22:33:19,042 - Model - INFO - Best accuracy: 0.89172
+2024-09-17 22:33:19,042 - Model - INFO - Epoch 14/30:
+2024-09-17 22:33:25,779 - Model - INFO - Train accuracy: 0.89543
+2024-09-17 22:33:27,412 - Model - INFO - Test accuracy: 0.87408
+2024-09-17 22:33:27,413 - Model - INFO - Best accuracy: 0.89172
+2024-09-17 22:33:27,413 - Model - INFO - Epoch 15/30:
+2024-09-17 22:33:34,177 - Model - INFO - Train accuracy: 0.88872
+2024-09-17 22:33:35,808 - Model - INFO - Test accuracy: 0.87854
+2024-09-17 22:33:35,808 - Model - INFO - Best accuracy: 0.89172
+2024-09-17 22:33:35,808 - Model - INFO - Epoch 16/30:
+2024-09-17 22:33:42,672 - Model - INFO - Train accuracy: 0.89885
+2024-09-17 22:33:44,288 - Model - INFO - Test accuracy: 0.85480
+2024-09-17 22:33:44,288 - Model - INFO - Best accuracy: 0.89172
+2024-09-17 22:33:44,288 - Model - INFO - Epoch 17/30:
+2024-09-17 22:33:51,216 - Model - INFO - Train accuracy: 0.89402
+2024-09-17 22:33:52,853 - Model - INFO - Test accuracy: 0.84967
+2024-09-17 22:33:52,853 - Model - INFO - Best accuracy: 0.89172
+2024-09-17 22:33:52,854 - Model - INFO - Epoch 18/30:
+2024-09-17 22:33:59,835 - Model - INFO - Train accuracy: 0.89626
+2024-09-17 22:34:01,423 - Model - INFO - Test accuracy: 0.81628
+2024-09-17 22:34:01,423 - Model - INFO - Best accuracy: 0.89172
+2024-09-17 22:34:01,423 - Model - INFO - Epoch 19/30:
+2024-09-17 22:34:08,505 - Model - INFO - Train accuracy: 0.89713
+2024-09-17 22:34:10,141 - Model - INFO - Test accuracy: 0.88464
+2024-09-17 22:34:10,141 - Model - INFO - Best accuracy: 0.89172
+2024-09-17 22:34:10,141 - Model - INFO - Epoch 20/30:
+2024-09-17 22:37:55,656 - Model - INFO - PARAMETERS...
+2024-09-17 22:37:55,656 - Model - INFO - Namespace(batch_size=2, decay_rate=0.0001, epoch=30, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 22:37:55,656 - Model - INFO - The number of training data is: 41
+2024-09-17 22:37:55,657 - Model - INFO - The number of test data is: 8
+2024-09-17 22:37:57,436 - Model - INFO - Using pre-trained model
+2024-09-17 22:37:57,437 - Model - INFO - Epoch 13/30:
+2024-09-17 22:38:04,772 - Model - INFO - Train accuracy: 0.88256
+2024-09-17 22:38:06,366 - Model - INFO - Test accuracy: 0.87732
+2024-09-17 22:38:06,366 - Model - INFO - Saving best model...
+2024-09-17 22:38:06,492 - Model - INFO - Best accuracy: 0.87732
+2024-09-17 22:38:06,492 - Model - INFO - Epoch 14/30:
+2024-09-17 22:38:13,524 - Model - INFO - Train accuracy: 0.89032
+2024-09-17 22:38:15,107 - Model - INFO - Test accuracy: 0.87671
+2024-09-17 22:38:15,108 - Model - INFO - Best accuracy: 0.87732
+2024-09-17 22:38:15,108 - Model - INFO - Epoch 15/30:
+2024-09-17 22:38:21,789 - Model - INFO - Train accuracy: 0.89355
+2024-09-17 22:38:23,398 - Model - INFO - Test accuracy: 0.81677
+2024-09-17 22:38:23,398 - Model - INFO - Best accuracy: 0.87732
+2024-09-17 22:38:23,398 - Model - INFO - Epoch 16/30:
+2024-09-17 22:38:30,252 - Model - INFO - Train accuracy: 0.89152
+2024-09-17 22:38:31,876 - Model - INFO - Test accuracy: 0.88770
+2024-09-17 22:38:31,877 - Model - INFO - Saving best model...
+2024-09-17 22:38:32,040 - Model - INFO - Best accuracy: 0.88770
+2024-09-17 22:38:32,040 - Model - INFO - Epoch 17/30:
+2024-09-17 22:38:38,858 - Model - INFO - Train accuracy: 0.89452
+2024-09-17 22:38:40,455 - Model - INFO - Test accuracy: 0.88452
+2024-09-17 22:38:40,455 - Model - INFO - Best accuracy: 0.88770
+2024-09-17 22:38:40,455 - Model - INFO - Epoch 18/30:
+2024-09-17 22:38:47,306 - Model - INFO - Train accuracy: 0.89778
+2024-09-17 22:38:48,907 - Model - INFO - Test accuracy: 0.88531
+2024-09-17 22:38:48,907 - Model - INFO - Best accuracy: 0.88770
+2024-09-17 22:38:48,907 - Model - INFO - Epoch 19/30:
+2024-09-17 22:38:55,703 - Model - INFO - Train accuracy: 0.89879
+2024-09-17 22:38:57,319 - Model - INFO - Test accuracy: 0.85504
+2024-09-17 22:38:57,319 - Model - INFO - Best accuracy: 0.88770
+2024-09-17 22:38:57,319 - Model - INFO - Epoch 20/30:
+2024-09-17 22:39:04,118 - Model - INFO - Train accuracy: 0.89891
+2024-09-17 22:39:05,723 - Model - INFO - Test accuracy: 0.87427
+2024-09-17 22:39:05,724 - Model - INFO - Best accuracy: 0.88770
+2024-09-17 22:39:05,724 - Model - INFO - Epoch 21/30:
+2024-09-17 22:39:12,538 - Model - INFO - Train accuracy: 0.90052
+2024-09-17 22:39:14,155 - Model - INFO - Test accuracy: 0.87836
+2024-09-17 22:39:14,155 - Model - INFO - Best accuracy: 0.88770
+2024-09-17 22:39:14,155 - Model - INFO - Epoch 22/30:
+2024-09-17 22:39:21,145 - Model - INFO - Train accuracy: 0.89447
+2024-09-17 22:39:22,780 - Model - INFO - Test accuracy: 0.88422
+2024-09-17 22:39:22,780 - Model - INFO - Best accuracy: 0.88770
+2024-09-17 22:39:22,780 - Model - INFO - Epoch 23/30:
+2024-09-17 22:39:29,605 - Model - INFO - Train accuracy: 0.90173
+2024-09-17 22:39:31,215 - Model - INFO - Test accuracy: 0.87415
+2024-09-17 22:39:31,215 - Model - INFO - Best accuracy: 0.88770
+2024-09-17 22:39:31,215 - Model - INFO - Epoch 24/30:
+2024-09-17 22:39:38,047 - Model - INFO - Train accuracy: 0.90438
+2024-09-17 22:39:39,677 - Model - INFO - Test accuracy: 0.85126
+2024-09-17 22:39:39,678 - Model - INFO - Best accuracy: 0.88770
+2024-09-17 22:39:39,678 - Model - INFO - Epoch 25/30:
+2024-09-17 22:39:46,573 - Model - INFO - Train accuracy: 0.90887
+2024-09-17 22:39:48,181 - Model - INFO - Test accuracy: 0.88135
+2024-09-17 22:39:48,181 - Model - INFO - Best accuracy: 0.88770
+2024-09-17 22:39:48,182 - Model - INFO - Epoch 26/30:
+2024-09-17 22:39:55,006 - Model - INFO - Train accuracy: 0.90907
+2024-09-17 22:39:56,604 - Model - INFO - Test accuracy: 0.86664
+2024-09-17 22:39:56,604 - Model - INFO - Best accuracy: 0.88770
+2024-09-17 22:39:56,604 - Model - INFO - Epoch 27/30:
+2024-09-17 22:40:03,430 - Model - INFO - Train accuracy: 0.90883
+2024-09-17 22:40:05,044 - Model - INFO - Test accuracy: 0.88287
+2024-09-17 22:40:05,044 - Model - INFO - Best accuracy: 0.88770
+2024-09-17 22:40:05,044 - Model - INFO - Epoch 28/30:
+2024-09-17 22:40:11,889 - Model - INFO - Train accuracy: 0.91133
+2024-09-17 22:40:13,483 - Model - INFO - Test accuracy: 0.87158
+2024-09-17 22:40:13,484 - Model - INFO - Best accuracy: 0.88770
+2024-09-17 22:40:13,484 - Model - INFO - Epoch 29/30:
+2024-09-17 22:40:20,309 - Model - INFO - Train accuracy: 0.91095
+2024-09-17 22:40:21,922 - Model - INFO - Test accuracy: 0.87274
+2024-09-17 22:40:21,922 - Model - INFO - Best accuracy: 0.88770
+2024-09-17 22:40:21,922 - Model - INFO - Epoch 30/30:
+2024-09-17 22:40:28,738 - Model - INFO - Train accuracy: 0.91211
+2024-09-17 22:40:30,328 - Model - INFO - Test accuracy: 0.87793
+2024-09-17 22:40:30,328 - Model - INFO - Best accuracy: 0.88770
+2024-09-17 22:43:14,870 - Model - INFO - PARAMETERS...
+2024-09-17 22:43:14,870 - Model - INFO - Namespace(batch_size=2, decay_rate=0.0001, epoch=30, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 22:43:14,870 - Model - INFO - The number of training data is: 41
+2024-09-17 22:43:14,870 - Model - INFO - The number of test data is: 8
+2024-09-17 22:43:16,641 - Model - INFO - Using pre-trained model
+2024-09-17 22:43:16,641 - Model - INFO - Epoch 16/30:
+2024-09-17 22:43:49,450 - Model - INFO - PARAMETERS...
+2024-09-17 22:43:49,450 - Model - INFO - Namespace(batch_size=2, decay_rate=0.0001, epoch=30, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 22:43:49,450 - Model - INFO - The number of training data is: 41
+2024-09-17 22:43:49,450 - Model - INFO - The number of test data is: 8
+2024-09-17 22:43:51,250 - Model - INFO - Using pre-trained model
+2024-09-17 22:43:51,250 - Model - INFO - Epoch 16/30:
+2024-09-17 22:43:58,462 - Model - INFO - Train accuracy: 0.88146
+2024-09-17 22:44:00,083 - Model - INFO - Test accuracy: 0.88123
+2024-09-17 22:44:00,084 - Model - INFO - Saving best model...
+2024-09-17 22:44:00,203 - Model - INFO - Best accuracy: 0.88123
+2024-09-17 22:44:00,204 - Model - INFO - Epoch 17/30:
+2024-09-17 22:44:26,253 - Model - INFO - PARAMETERS...
+2024-09-17 22:44:26,253 - Model - INFO - Namespace(batch_size=2, decay_rate=0.0001, epoch=30, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 22:44:26,253 - Model - INFO - The number of training data is: 41
+2024-09-17 22:44:26,253 - Model - INFO - The number of test data is: 8
+2024-09-17 22:44:28,026 - Model - INFO - Using pre-trained model
+2024-09-17 22:44:28,027 - Model - INFO - Epoch 16/30:
+2024-09-17 22:45:09,922 - Model - INFO - PARAMETERS...
+2024-09-17 22:45:09,922 - Model - INFO - Namespace(batch_size=2, decay_rate=0.0001, epoch=30, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 22:45:09,922 - Model - INFO - The number of training data is: 41
+2024-09-17 22:45:09,922 - Model - INFO - The number of test data is: 8
+2024-09-17 22:45:11,724 - Model - INFO - Using pre-trained model
+2024-09-17 22:45:11,724 - Model - INFO - Epoch 16/30:
+2024-09-17 22:45:18,964 - Model - INFO - Train accuracy: 0.88900
+2024-09-17 22:45:20,549 - Model - INFO - Test accuracy: 0.88641
+2024-09-17 22:45:20,549 - Model - INFO - Saving best model...
+2024-09-17 22:45:20,675 - Model - INFO - Best accuracy: 0.88641
+2024-09-17 22:45:20,675 - Model - INFO - Epoch 17/30:
+2024-09-17 22:45:43,583 - Model - INFO - PARAMETERS...
+2024-09-17 22:45:43,584 - Model - INFO - Namespace(batch_size=2, decay_rate=0.0001, epoch=30, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 22:45:43,584 - Model - INFO - The number of training data is: 41
+2024-09-17 22:45:43,584 - Model - INFO - The number of test data is: 8
+2024-09-17 22:45:45,304 - Model - INFO - Using pre-trained model
+2024-09-17 22:45:45,305 - Model - INFO - Epoch 16/30:
+2024-09-17 22:45:52,602 - Model - INFO - Train accuracy: 0.88876
+2024-09-17 22:45:54,221 - Model - INFO - Test accuracy: 0.88275
+2024-09-17 22:45:54,222 - Model - INFO - Saving best model...
+2024-09-17 22:45:54,353 - Model - INFO - Best accuracy: 0.88275
+2024-09-17 22:45:54,353 - Model - INFO - Epoch 17/30:
+2024-09-17 22:46:28,976 - Model - INFO - PARAMETERS...
+2024-09-17 22:46:28,976 - Model - INFO - Namespace(batch_size=2, decay_rate=0.0001, epoch=1, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 22:46:28,976 - Model - INFO - The number of training data is: 41
+2024-09-17 22:46:28,976 - Model - INFO - The number of test data is: 8
+2024-09-17 22:46:30,747 - Model - INFO - Using pre-trained model
+2024-09-17 22:46:50,973 - Model - INFO - PARAMETERS...
+2024-09-17 22:46:50,973 - Model - INFO - Namespace(batch_size=2, decay_rate=0.0001, epoch=1, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 22:46:50,973 - Model - INFO - The number of training data is: 41
+2024-09-17 22:46:50,973 - Model - INFO - The number of test data is: 8
+2024-09-17 22:46:52,763 - Model - INFO - Using pre-trained model
+2024-09-17 22:48:58,265 - Model - INFO - PARAMETERS...
+2024-09-17 22:48:58,265 - Model - INFO - Namespace(batch_size=2, decay_rate=0.0001, epoch=1, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 22:48:58,265 - Model - INFO - The number of training data is: 41
+2024-09-17 22:48:58,265 - Model - INFO - The number of test data is: 8
+2024-09-17 22:49:00,043 - Model - INFO - Using pre-trained model
+2024-09-17 22:49:22,752 - Model - INFO - PARAMETERS...
+2024-09-17 22:49:22,752 - Model - INFO - Namespace(batch_size=2, decay_rate=0.0001, epoch=1, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 22:49:22,752 - Model - INFO - The number of training data is: 41
+2024-09-17 22:49:22,752 - Model - INFO - The number of test data is: 8
+2024-09-17 22:49:24,622 - Model - INFO - Using pre-trained model
+2024-09-17 22:49:43,457 - Model - INFO - PARAMETERS...
+2024-09-17 22:49:43,458 - Model - INFO - Namespace(batch_size=2, decay_rate=0.0001, epoch=1, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 22:49:43,458 - Model - INFO - The number of training data is: 41
+2024-09-17 22:49:43,458 - Model - INFO - The number of test data is: 8
+2024-09-17 22:49:45,312 - Model - INFO - Using pre-trained model
+2024-09-17 22:50:19,685 - Model - INFO - PARAMETERS...
+2024-09-17 22:50:19,686 - Model - INFO - Namespace(batch_size=2, decay_rate=0.0001, epoch=1, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 22:50:19,686 - Model - INFO - The number of training data is: 41
+2024-09-17 22:50:19,686 - Model - INFO - The number of test data is: 8
+2024-09-17 22:50:21,488 - Model - INFO - Using pre-trained model
+2024-09-17 22:50:30,018 - Model - INFO - PARAMETERS...
+2024-09-17 22:50:30,018 - Model - INFO - Namespace(batch_size=2, decay_rate=0.0001, epoch=30, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 22:50:30,018 - Model - INFO - The number of training data is: 41
+2024-09-17 22:50:30,018 - Model - INFO - The number of test data is: 8
+2024-09-17 22:50:31,892 - Model - INFO - Using pre-trained model
+2024-09-17 22:50:31,892 - Model - INFO - Epoch 16/30:
+2024-09-17 22:51:12,388 - Model - INFO - PARAMETERS...
+2024-09-17 22:51:12,388 - Model - INFO - Namespace(batch_size=2, decay_rate=0.0001, epoch=30, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 22:51:12,388 - Model - INFO - The number of training data is: 41
+2024-09-17 22:51:12,389 - Model - INFO - The number of test data is: 8
+2024-09-17 22:51:14,208 - Model - INFO - Using pre-trained model
+2024-09-17 22:51:14,208 - Model - INFO - Epoch 16/30:
+2024-09-17 22:51:50,609 - Model - INFO - PARAMETERS...
+2024-09-17 22:51:50,609 - Model - INFO - Namespace(batch_size=2, decay_rate=0.0001, epoch=30, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 22:51:50,610 - Model - INFO - The number of training data is: 41
+2024-09-17 22:51:50,610 - Model - INFO - The number of test data is: 8
+2024-09-17 22:51:52,417 - Model - INFO - Using pre-trained model
+2024-09-17 22:51:52,417 - Model - INFO - Epoch 16/30:
+2024-09-17 22:52:19,543 - Model - INFO - PARAMETERS...
+2024-09-17 22:52:19,543 - Model - INFO - Namespace(batch_size=2, decay_rate=0.0001, epoch=30, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 22:52:19,544 - Model - INFO - The number of training data is: 41
+2024-09-17 22:52:19,544 - Model - INFO - The number of test data is: 8
+2024-09-17 22:52:21,381 - Model - INFO - Using pre-trained model
+2024-09-17 22:52:21,381 - Model - INFO - Epoch 16/30:
+2024-09-17 22:52:43,126 - Model - INFO - PARAMETERS...
+2024-09-17 22:52:43,126 - Model - INFO - Namespace(batch_size=2, decay_rate=0.0001, epoch=30, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 22:52:43,126 - Model - INFO - The number of training data is: 41
+2024-09-17 22:52:43,126 - Model - INFO - The number of test data is: 8
+2024-09-17 22:52:44,947 - Model - INFO - Using pre-trained model
+2024-09-17 22:52:44,947 - Model - INFO - Epoch 16/30:
+2024-09-17 22:53:08,101 - Model - INFO - PARAMETERS...
+2024-09-17 22:53:08,102 - Model - INFO - Namespace(batch_size=2, decay_rate=0.0001, epoch=30, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 22:53:08,102 - Model - INFO - The number of training data is: 41
+2024-09-17 22:53:08,102 - Model - INFO - The number of test data is: 8
+2024-09-17 22:53:09,863 - Model - INFO - Using pre-trained model
+2024-09-17 22:53:09,863 - Model - INFO - Epoch 16/30:
+2024-09-17 22:53:45,268 - Model - INFO - PARAMETERS...
+2024-09-17 22:53:45,268 - Model - INFO - Namespace(batch_size=2, decay_rate=0.0001, epoch=30, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 22:53:45,269 - Model - INFO - The number of training data is: 41
+2024-09-17 22:53:45,269 - Model - INFO - The number of test data is: 8
+2024-09-17 22:53:47,044 - Model - INFO - Using pre-trained model
+2024-09-17 22:53:47,045 - Model - INFO - Epoch 16/30:
+2024-09-17 22:54:26,460 - Model - INFO - PARAMETERS...
+2024-09-17 22:54:26,460 - Model - INFO - Namespace(batch_size=2, decay_rate=0.0001, epoch=30, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 22:54:26,461 - Model - INFO - The number of training data is: 41
+2024-09-17 22:54:26,461 - Model - INFO - The number of test data is: 8
+2024-09-17 22:54:28,379 - Model - INFO - Using pre-trained model
+2024-09-17 22:54:28,379 - Model - INFO - Epoch 16/30:
+2024-09-17 23:03:38,286 - Model - INFO - PARAMETERS...
+2024-09-17 23:03:38,287 - Model - INFO - Namespace(batch_size=2, decay_rate=0.0001, epoch=30, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 23:03:38,287 - Model - INFO - The number of training data is: 41
+2024-09-17 23:03:38,287 - Model - INFO - The number of test data is: 8
+2024-09-17 23:03:40,061 - Model - INFO - Using pre-trained model
+2024-09-17 23:03:40,062 - Model - INFO - Epoch 16/30:
+2024-09-17 23:04:26,271 - Model - INFO - PARAMETERS...
+2024-09-17 23:04:26,271 - Model - INFO - Namespace(batch_size=2, decay_rate=0.0001, epoch=30, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 23:04:26,271 - Model - INFO - The number of training data is: 41
+2024-09-17 23:04:26,271 - Model - INFO - The number of test data is: 8
+2024-09-17 23:04:28,085 - Model - INFO - Using pre-trained model
+2024-09-17 23:04:28,086 - Model - INFO - Epoch 16/30:
+2024-09-17 23:06:50,744 - Model - INFO - PARAMETERS...
+2024-09-17 23:06:50,744 - Model - INFO - Namespace(batch_size=2, decay_rate=0.0001, epoch=30, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 23:06:50,744 - Model - INFO - The number of training data is: 41
+2024-09-17 23:06:50,744 - Model - INFO - The number of test data is: 8
+2024-09-17 23:06:52,586 - Model - INFO - Using pre-trained model
+2024-09-17 23:06:52,587 - Model - INFO - Epoch 16/30:
+2024-09-17 23:08:42,472 - Model - INFO - PARAMETERS...
+2024-09-17 23:08:42,472 - Model - INFO - Namespace(batch_size=2, decay_rate=0.0001, epoch=30, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 23:08:42,472 - Model - INFO - The number of training data is: 41
+2024-09-17 23:08:42,472 - Model - INFO - The number of test data is: 8
+2024-09-17 23:08:44,316 - Model - INFO - Using pre-trained model
+2024-09-17 23:08:44,316 - Model - INFO - Epoch 16/30:
+2024-09-17 23:08:51,439 - Model - INFO - Train accuracy: 0.87136
+2024-09-17 23:08:53,109 - Model - INFO - Test accuracy: 0.87439
+2024-09-17 23:08:53,109 - Model - INFO - Saving best model...
+2024-09-17 23:08:53,229 - Model - INFO - Best accuracy: 0.87439
+2024-09-17 23:08:53,230 - Model - INFO - Epoch 17/30:
+2024-09-17 23:14:23,264 - Model - INFO - PARAMETERS...
+2024-09-17 23:14:23,264 - Model - INFO - Namespace(batch_size=2, decay_rate=0.0001, epoch=20, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 23:14:23,265 - Model - INFO - The number of training data is: 41
+2024-09-17 23:14:23,265 - Model - INFO - The number of test data is: 8
+2024-09-17 23:14:25,151 - Model - INFO - Using pre-trained model
+2024-09-17 23:14:25,152 - Model - INFO - Epoch 16/20:
+2024-09-17 23:14:32,558 - Model - INFO - Train accuracy: 0.88854
+2024-09-17 23:14:34,248 - Model - INFO - Test accuracy: 0.88043
+2024-09-17 23:14:34,249 - Model - INFO - Saving best model...
+2024-09-17 23:14:34,408 - Model - INFO - Best accuracy: 0.88043
+2024-09-17 23:14:34,408 - Model - INFO - Epoch 17/20:
+2024-09-17 23:14:41,233 - Model - INFO - Train accuracy: 0.88993
+2024-09-17 23:14:42,929 - Model - INFO - Test accuracy: 0.87012
+2024-09-17 23:14:42,929 - Model - INFO - Best accuracy: 0.88043
+2024-09-17 23:14:42,929 - Model - INFO - Epoch 18/20:
+2024-09-17 23:14:49,695 - Model - INFO - Train accuracy: 0.89508
+2024-09-17 23:14:51,371 - Model - INFO - Test accuracy: 0.87878
+2024-09-17 23:14:51,371 - Model - INFO - Best accuracy: 0.88043
+2024-09-17 23:14:51,372 - Model - INFO - Epoch 19/20:
+2024-09-17 23:14:58,224 - Model - INFO - Train accuracy: 0.89768
+2024-09-17 23:14:59,961 - Model - INFO - Test accuracy: 0.86322
+2024-09-17 23:14:59,961 - Model - INFO - Best accuracy: 0.88043
+2024-09-17 23:14:59,961 - Model - INFO - Epoch 20/20:
+2024-09-17 23:15:06,787 - Model - INFO - Train accuracy: 0.89664
+2024-09-17 23:15:08,515 - Model - INFO - Test accuracy: 0.88214
+2024-09-17 23:15:08,515 - Model - INFO - Saving best model...
+2024-09-17 23:15:08,635 - Model - INFO - Best accuracy: 0.88214
+2024-09-17 23:15:29,484 - Model - INFO - PARAMETERS...
+2024-09-17 23:15:29,484 - Model - INFO - Namespace(batch_size=2, decay_rate=0.0001, epoch=20, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 23:15:29,485 - Model - INFO - The number of training data is: 41
+2024-09-17 23:15:29,485 - Model - INFO - The number of test data is: 8
+2024-09-17 23:15:31,378 - Model - INFO - Using pre-trained model
+2024-09-17 23:15:31,378 - Model - INFO - Epoch 20/20:
+2024-09-17 23:15:38,501 - Model - INFO - Train accuracy: 0.90046
+2024-09-17 23:15:40,200 - Model - INFO - Test accuracy: 0.89038
+2024-09-17 23:15:40,200 - Model - INFO - Saving best model...
+2024-09-17 23:15:40,323 - Model - INFO - Best accuracy: 0.89038
+2024-09-17 23:23:22,084 - Model - INFO - PARAMETERS...
+2024-09-17 23:23:22,084 - Model - INFO - Namespace(batch_size=2, decay_rate=0.0001, epoch=20, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 23:23:22,084 - Model - INFO - The number of training data is: 41
+2024-09-17 23:23:22,084 - Model - INFO - The number of test data is: 8
+2024-09-17 23:23:23,953 - Model - INFO - Using pre-trained model
+2024-09-17 23:23:23,953 - Model - INFO - Epoch 20/20:
+2024-09-17 23:23:31,084 - Model - INFO - Train accuracy: 0.89530
+2024-09-17 23:23:32,800 - Model - INFO - Test accuracy: 0.83765
+2024-09-17 23:23:32,800 - Model - INFO - Saving best model...
+2024-09-17 23:23:32,918 - Model - INFO - Best accuracy: 0.83765
+2024-09-17 23:25:08,959 - Model - INFO - PARAMETERS...
+2024-09-17 23:25:08,959 - Model - INFO - Namespace(batch_size=2, decay_rate=0.0001, epoch=20, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 23:25:08,959 - Model - INFO - The number of training data is: 41
+2024-09-17 23:25:08,959 - Model - INFO - The number of test data is: 8
+2024-09-17 23:25:10,783 - Model - INFO - Using pre-trained model
+2024-09-17 23:25:10,783 - Model - INFO - Epoch 20/20:
+2024-09-17 23:25:17,854 - Model - INFO - Train accuracy: 0.89556
+2024-09-17 23:25:19,572 - Model - INFO - Test accuracy: 0.78790
+2024-09-17 23:25:19,572 - Model - INFO - Saving best model...
+2024-09-17 23:25:19,760 - Model - INFO - Best accuracy: 0.78790
+2024-09-17 23:25:28,342 - Model - INFO - PARAMETERS...
+2024-09-17 23:25:28,342 - Model - INFO - Namespace(batch_size=2, decay_rate=0.0001, epoch=20, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 23:25:28,342 - Model - INFO - The number of training data is: 41
+2024-09-17 23:25:28,342 - Model - INFO - The number of test data is: 8
+2024-09-17 23:25:30,192 - Model - INFO - Using pre-trained model
+2024-09-17 23:25:30,192 - Model - INFO - Epoch 20/20:
+2024-09-17 23:25:37,392 - Model - INFO - Train accuracy: 0.89905
+2024-09-17 23:25:39,131 - Model - INFO - Test accuracy: 0.88379
+2024-09-17 23:25:39,131 - Model - INFO - Saving best model...
+2024-09-17 23:25:39,254 - Model - INFO - Best accuracy: 0.88379
+2024-09-17 23:26:19,680 - Model - INFO - PARAMETERS...
+2024-09-17 23:26:19,680 - Model - INFO - Namespace(batch_size=2, decay_rate=0.0001, epoch=20, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 23:26:19,680 - Model - INFO - The number of training data is: 41
+2024-09-17 23:26:19,680 - Model - INFO - The number of test data is: 8
+2024-09-17 23:26:21,539 - Model - INFO - Using pre-trained model
+2024-09-17 23:26:21,539 - Model - INFO - Epoch 20/20:
+2024-09-17 23:26:28,563 - Model - INFO - Train accuracy: 0.89923
+2024-09-17 23:26:30,288 - Model - INFO - Test accuracy: 0.87781
+2024-09-17 23:26:30,289 - Model - INFO - Saving best model...
+2024-09-17 23:26:30,422 - Model - INFO - Best accuracy: 0.87781
+2024-09-17 23:28:35,842 - Model - INFO - PARAMETERS...
+2024-09-17 23:28:35,842 - Model - INFO - Namespace(batch_size=2, decay_rate=0.0001, epoch=20, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 23:28:35,842 - Model - INFO - The number of training data is: 41
+2024-09-17 23:28:35,842 - Model - INFO - The number of test data is: 8
+2024-09-17 23:28:37,756 - Model - INFO - Using pre-trained model
+2024-09-17 23:28:37,757 - Model - INFO - Epoch 20/20:
+2024-09-17 23:28:45,015 - Model - INFO - Train accuracy: 0.89572
+2024-09-17 23:28:46,713 - Model - INFO - Test accuracy: 0.88184
+2024-09-17 23:28:46,713 - Model - INFO - Saving best model...
+2024-09-17 23:28:46,841 - Model - INFO - Best accuracy: 0.88184
+2024-09-17 23:30:32,905 - Model - INFO - PARAMETERS...
+2024-09-17 23:30:32,905 - Model - INFO - Namespace(batch_size=2, decay_rate=0.0001, epoch=20, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 23:30:32,905 - Model - INFO - The number of training data is: 41
+2024-09-17 23:30:32,905 - Model - INFO - The number of test data is: 8
+2024-09-17 23:30:34,755 - Model - INFO - Using pre-trained model
+2024-09-17 23:30:34,756 - Model - INFO - Epoch 20/20:
+2024-09-17 23:30:41,915 - Model - INFO - Train accuracy: 0.89559
+2024-09-17 23:30:43,636 - Model - INFO - Test accuracy: 0.00000
+2024-09-17 23:30:43,636 - Model - INFO - Best accuracy: 0.00000
+2024-09-17 23:31:02,660 - Model - INFO - PARAMETERS...
+2024-09-17 23:31:02,660 - Model - INFO - Namespace(batch_size=2, decay_rate=0.0001, epoch=20, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 23:31:02,660 - Model - INFO - The number of training data is: 41
+2024-09-17 23:31:02,660 - Model - INFO - The number of test data is: 8
+2024-09-17 23:31:04,569 - Model - INFO - Using pre-trained model
+2024-09-17 23:31:04,569 - Model - INFO - Epoch 20/20:
+2024-09-17 23:31:11,592 - Model - INFO - Train accuracy: 0.90242
+2024-09-17 23:32:38,742 - Model - INFO - Test accuracy: 0.86792
+2024-09-17 23:32:38,742 - Model - INFO - Saving best model...
+2024-09-17 23:32:38,864 - Model - INFO - Best accuracy: 0.86792
+2024-09-17 23:33:18,674 - Model - INFO - PARAMETERS...
+2024-09-17 23:33:18,674 - Model - INFO - Namespace(batch_size=2, decay_rate=0.0001, epoch=20, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 23:33:18,674 - Model - INFO - The number of training data is: 41
+2024-09-17 23:33:18,674 - Model - INFO - The number of test data is: 8
+2024-09-17 23:33:20,566 - Model - INFO - Using pre-trained model
+2024-09-17 23:33:20,567 - Model - INFO - Epoch 20/20:
+2024-09-17 23:33:27,739 - Model - INFO - Train accuracy: 0.90480
+2024-09-17 23:34:19,941 - Model - INFO - Test accuracy: 0.84448
+2024-09-17 23:34:19,941 - Model - INFO - Saving best model...
+2024-09-17 23:34:20,062 - Model - INFO - Best accuracy: 0.84448
+2024-09-17 23:37:06,853 - Model - INFO - PARAMETERS...
+2024-09-17 23:37:06,853 - Model - INFO - Namespace(batch_size=2, decay_rate=0.0001, epoch=20, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 23:37:06,854 - Model - INFO - The number of training data is: 41
+2024-09-17 23:37:06,854 - Model - INFO - The number of test data is: 8
+2024-09-17 23:37:08,681 - Model - INFO - Using pre-trained model
+2024-09-17 23:37:08,682 - Model - INFO - Epoch 20/20:
+2024-09-17 23:37:15,619 - Model - INFO - Train accuracy: 0.89901
+2024-09-17 23:37:28,920 - Model - INFO - Test accuracy: 0.85498
+2024-09-17 23:37:28,920 - Model - INFO - Saving best model...
+2024-09-17 23:37:29,086 - Model - INFO - Best accuracy: 0.85498
+2024-09-17 23:38:49,565 - Model - INFO - PARAMETERS...
+2024-09-17 23:38:49,565 - Model - INFO - Namespace(batch_size=2, decay_rate=0.0001, epoch=20, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 23:38:49,566 - Model - INFO - The number of training data is: 41
+2024-09-17 23:38:49,566 - Model - INFO - The number of test data is: 8
+2024-09-17 23:38:51,390 - Model - INFO - Using pre-trained model
+2024-09-17 23:38:51,390 - Model - INFO - Epoch 20/20:
+2024-09-17 23:38:58,537 - Model - INFO - Train accuracy: 0.90111
+2024-09-17 23:39:07,284 - Model - INFO - Test accuracy: 0.88055
+2024-09-17 23:39:07,285 - Model - INFO - Saving best model...
+2024-09-17 23:39:07,411 - Model - INFO - Best accuracy: 0.88055
+2024-09-17 23:39:59,770 - Model - INFO - PARAMETERS...
+2024-09-17 23:39:59,770 - Model - INFO - Namespace(batch_size=2, decay_rate=0.0001, epoch=20, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 23:39:59,771 - Model - INFO - The number of training data is: 41
+2024-09-17 23:39:59,771 - Model - INFO - The number of test data is: 8
+2024-09-17 23:40:01,636 - Model - INFO - Using pre-trained model
+2024-09-17 23:40:01,636 - Model - INFO - Epoch 20/20:
+2024-09-17 23:40:08,766 - Model - INFO - Train accuracy: 0.90178
+2024-09-17 23:41:17,007 - Model - INFO - PARAMETERS...
+2024-09-17 23:41:17,007 - Model - INFO - Namespace(batch_size=2, decay_rate=0.0001, epoch=20, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 23:41:17,008 - Model - INFO - The number of training data is: 41
+2024-09-17 23:41:17,008 - Model - INFO - The number of test data is: 8
+2024-09-17 23:41:18,872 - Model - INFO - Using pre-trained model
+2024-09-17 23:41:18,872 - Model - INFO - Epoch 20/20:
+2024-09-17 23:41:26,119 - Model - INFO - Train accuracy: 0.90253
+2024-09-17 23:44:03,976 - Model - INFO - PARAMETERS...
+2024-09-17 23:44:03,976 - Model - INFO - Namespace(batch_size=2, decay_rate=0.0001, epoch=20, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 23:44:03,976 - Model - INFO - The number of training data is: 41
+2024-09-17 23:44:03,976 - Model - INFO - The number of test data is: 8
+2024-09-17 23:44:05,811 - Model - INFO - Using pre-trained model
+2024-09-17 23:44:05,812 - Model - INFO - Epoch 20/20:
+2024-09-17 23:44:17,794 - Model - INFO - PARAMETERS...
+2024-09-17 23:44:17,794 - Model - INFO - Namespace(batch_size=2, decay_rate=0.0001, epoch=20, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 23:44:17,794 - Model - INFO - The number of training data is: 41
+2024-09-17 23:44:17,794 - Model - INFO - The number of test data is: 8
+2024-09-17 23:44:19,650 - Model - INFO - Using pre-trained model
+2024-09-17 23:44:19,651 - Model - INFO - Epoch 20/20:
+2024-09-17 23:44:26,704 - Model - INFO - Train accuracy: 0.90353
+2024-09-17 23:44:57,092 - Model - INFO - Test accuracy: 0.85455
+2024-09-17 23:44:57,092 - Model - INFO - Saving best model...
+2024-09-17 23:44:57,204 - Model - INFO - Best accuracy: 0.85455
+2024-09-17 23:47:32,739 - Model - INFO - PARAMETERS...
+2024-09-17 23:47:32,739 - Model - INFO - Namespace(batch_size=2, decay_rate=0.0001, epoch=20, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=2048, optimizer='Adam', step_size=20)
+2024-09-17 23:47:32,740 - Model - INFO - The number of training data is: 41
+2024-09-17 23:47:32,740 - Model - INFO - The number of test data is: 8
+2024-09-17 23:47:34,589 - Model - INFO - Using pre-trained model
+2024-09-17 23:47:34,589 - Model - INFO - Epoch 20/20:
+2024-09-17 23:47:41,780 - Model - INFO - Train accuracy: 0.90237
+2024-09-17 23:48:35,770 - Model - INFO - PARAMETERS...
+2024-09-17 23:48:35,770 - Model - INFO - Namespace(batch_size=2, decay_rate=0.0001, epoch=20, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=15000, optimizer='Adam', step_size=20)
+2024-09-17 23:48:35,770 - Model - INFO - The number of training data is: 41
+2024-09-17 23:48:35,770 - Model - INFO - The number of test data is: 8
+2024-09-17 23:48:37,610 - Model - INFO - Using pre-trained model
+2024-09-17 23:48:37,610 - Model - INFO - Epoch 20/20:
+2024-09-17 23:48:51,022 - Model - INFO - Train accuracy: 0.89491
+2024-09-17 23:50:09,119 - Model - INFO - PARAMETERS...
+2024-09-17 23:50:09,120 - Model - INFO - Namespace(batch_size=2, decay_rate=0.0001, epoch=10, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=15000, optimizer='Adam', step_size=20)
+2024-09-17 23:50:09,120 - Model - INFO - The number of training data is: 41
+2024-09-17 23:50:09,120 - Model - INFO - The number of test data is: 8
+2024-09-17 23:50:11,055 - Model - INFO - No existing model, starting training from scratch...
+2024-09-17 23:50:11,056 - Model - INFO - Epoch 1/10:
+2024-09-17 23:50:24,732 - Model - INFO - Train accuracy: 0.82268
+2024-09-17 23:52:00,491 - Model - INFO - PARAMETERS...
+2024-09-17 23:52:00,491 - Model - INFO - Namespace(batch_size=2, decay_rate=0.0001, epoch=10, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=15000, optimizer='Adam', step_size=20)
+2024-09-17 23:52:00,491 - Model - INFO - The number of training data is: 41
+2024-09-17 23:52:00,491 - Model - INFO - The number of test data is: 8
+2024-09-17 23:52:02,294 - Model - INFO - No existing model, starting training from scratch...
+2024-09-17 23:52:02,295 - Model - INFO - Epoch 1/10:
+2024-09-17 23:52:15,691 - Model - INFO - Train accuracy: 0.77302
+2024-09-17 23:52:18,650 - Model - INFO - Test accuracy: 0.17949
+2024-09-17 23:52:18,650 - Model - INFO - Saving best model...
+2024-09-17 23:52:18,701 - Model - INFO - Best accuracy: 0.17949
+2024-09-17 23:52:18,701 - Model - INFO - Epoch 2/10:
+2024-09-17 23:52:32,078 - Model - INFO - Train accuracy: 0.85361
+2024-09-17 23:52:35,032 - Model - INFO - Test accuracy: 0.86845
+2024-09-17 23:52:35,032 - Model - INFO - Saving best model...
+2024-09-17 23:52:35,151 - Model - INFO - Best accuracy: 0.86845
+2024-09-17 23:52:35,151 - Model - INFO - Epoch 3/10:
+2024-09-17 23:52:48,220 - Model - INFO - Train accuracy: 0.86662
+2024-09-17 23:52:51,169 - Model - INFO - Test accuracy: 0.87635
+2024-09-17 23:52:51,169 - Model - INFO - Saving best model...
+2024-09-17 23:52:51,296 - Model - INFO - Best accuracy: 0.87635
+2024-09-17 23:52:51,297 - Model - INFO - Epoch 4/10:
+2024-09-17 23:53:04,569 - Model - INFO - Train accuracy: 0.86785
+2024-09-17 23:53:07,561 - Model - INFO - Test accuracy: 0.85088
+2024-09-17 23:53:07,561 - Model - INFO - Best accuracy: 0.87635
+2024-09-17 23:53:07,561 - Model - INFO - Epoch 5/10:
+2024-09-17 23:53:20,944 - Model - INFO - Train accuracy: 0.86139
+2024-09-17 23:53:23,940 - Model - INFO - Test accuracy: 0.38598
+2024-09-17 23:53:23,940 - Model - INFO - Best accuracy: 0.87635
+2024-09-17 23:53:23,940 - Model - INFO - Epoch 6/10:
+2024-09-17 23:53:37,166 - Model - INFO - Train accuracy: 0.87597
+2024-09-17 23:53:40,169 - Model - INFO - Test accuracy: 0.76252
+2024-09-17 23:53:40,169 - Model - INFO - Best accuracy: 0.87635
+2024-09-17 23:53:40,169 - Model - INFO - Epoch 7/10:
+2024-09-17 23:53:53,277 - Model - INFO - Train accuracy: 0.87761
+2024-09-17 23:53:56,259 - Model - INFO - Test accuracy: 0.46730
+2024-09-17 23:53:56,259 - Model - INFO - Best accuracy: 0.87635
+2024-09-17 23:53:56,259 - Model - INFO - Epoch 8/10:
+2024-09-17 23:54:09,437 - Model - INFO - Train accuracy: 0.87740
+2024-09-17 23:54:12,293 - Model - INFO - Test accuracy: 0.78778
+2024-09-17 23:54:12,293 - Model - INFO - Best accuracy: 0.87635
+2024-09-17 23:54:12,293 - Model - INFO - Epoch 9/10:
+2024-09-17 23:54:25,443 - Model - INFO - Train accuracy: 0.88299
+2024-09-17 23:54:28,301 - Model - INFO - Test accuracy: 0.86824
+2024-09-17 23:54:28,302 - Model - INFO - Best accuracy: 0.87635
+2024-09-17 23:54:28,302 - Model - INFO - Epoch 10/10:
+2024-09-17 23:54:41,377 - Model - INFO - Train accuracy: 0.88761
+2024-09-17 23:54:44,283 - Model - INFO - Test accuracy: 0.77536
+2024-09-17 23:54:44,283 - Model - INFO - Best accuracy: 0.87635
+2024-09-17 23:54:57,863 - Model - INFO - PARAMETERS...
+2024-09-17 23:54:57,863 - Model - INFO - Namespace(batch_size=2, decay_rate=0.0001, epoch=10, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=15000, optimizer='Adam', step_size=20)
+2024-09-17 23:54:57,863 - Model - INFO - The number of training data is: 41
+2024-09-17 23:54:57,863 - Model - INFO - The number of test data is: 8
+2024-09-17 23:54:59,635 - Model - INFO - Using pre-trained model
+2024-09-17 23:54:59,636 - Model - INFO - Epoch 3/10:
+2024-09-17 23:55:13,132 - Model - INFO - Train accuracy: 0.85803
+2024-09-17 23:55:16,016 - Model - INFO - Test accuracy: 0.59601
+2024-09-17 23:55:16,016 - Model - INFO - Saving best model...
+2024-09-17 23:55:16,131 - Model - INFO - Best accuracy: 0.59601
+2024-09-17 23:55:16,132 - Model - INFO - Epoch 4/10:
+2024-09-17 23:55:28,458 - Model - INFO - PARAMETERS...
+2024-09-17 23:55:28,458 - Model - INFO - Namespace(batch_size=2, decay_rate=0.0001, epoch=10, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=15000, optimizer='Adam', step_size=20)
+2024-09-17 23:55:28,458 - Model - INFO - The number of training data is: 41
+2024-09-17 23:55:28,458 - Model - INFO - The number of test data is: 8
+2024-09-17 23:55:30,278 - Model - INFO - Using pre-trained model
+2024-09-17 23:55:30,278 - Model - INFO - Epoch 3/10:
+2024-09-17 23:55:43,645 - Model - INFO - Train accuracy: 0.85295
+2024-09-17 23:57:04,432 - Model - INFO - Test accuracy: 0.86015
+2024-09-17 23:57:04,432 - Model - INFO - Saving best model...
+2024-09-17 23:57:04,550 - Model - INFO - Best accuracy: 0.86015
+2024-09-17 23:57:04,551 - Model - INFO - Epoch 4/10:
+2024-09-17 23:58:12,264 - Model - INFO - PARAMETERS...
+2024-09-17 23:58:12,264 - Model - INFO - Namespace(batch_size=2, decay_rate=0.0001, epoch=10, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=15000, optimizer='Adam', step_size=20)
+2024-09-17 23:58:12,264 - Model - INFO - The number of training data is: 41
+2024-09-17 23:58:12,264 - Model - INFO - The number of test data is: 8
+2024-09-17 23:58:14,071 - Model - INFO - Using pre-trained model
+2024-09-17 23:58:14,071 - Model - INFO - Epoch 3/10:
+2024-09-17 23:58:27,396 - Model - INFO - Train accuracy: 0.86325
+2024-09-17 23:58:51,718 - Model - INFO - PARAMETERS...
+2024-09-17 23:58:51,718 - Model - INFO - Namespace(batch_size=2, decay_rate=0.0001, epoch=10, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=15000, optimizer='Adam', step_size=20)
+2024-09-17 23:58:51,718 - Model - INFO - The number of training data is: 41
+2024-09-17 23:58:51,718 - Model - INFO - The number of test data is: 8
+2024-09-17 23:58:53,550 - Model - INFO - Using pre-trained model
+2024-09-17 23:58:53,550 - Model - INFO - Epoch 3/10:
+2024-09-18 00:03:02,315 - Model - INFO - PARAMETERS...
+2024-09-18 00:03:02,315 - Model - INFO - Namespace(batch_size=2, decay_rate=0.0001, epoch=10, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=15000, optimizer='Adam', step_size=20)
+2024-09-18 00:03:02,316 - Model - INFO - The number of training data is: 41
+2024-09-18 00:03:02,316 - Model - INFO - The number of test data is: 8
+2024-09-18 00:03:13,177 - Model - INFO - PARAMETERS...
+2024-09-18 00:03:13,177 - Model - INFO - Namespace(batch_size=2, decay_rate=0.0001, epoch=10, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=15000, optimizer='Adam', step_size=20)
+2024-09-18 00:03:13,178 - Model - INFO - The number of training data is: 41
+2024-09-18 00:03:13,178 - Model - INFO - The number of test data is: 8
+2024-09-18 00:03:14,972 - Model - INFO - Using pre-trained model
+2024-09-18 00:03:14,972 - Model - INFO - Epoch 3/10:
+2024-09-18 00:03:51,239 - Model - INFO - Train accuracy: 0.86348
+2024-09-18 00:05:34,519 - Model - INFO - PARAMETERS...
+2024-09-18 00:05:34,519 - Model - INFO - Namespace(batch_size=2, decay_rate=0.0001, epoch=10, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=15000, optimizer='Adam', step_size=20)
+2024-09-18 00:05:34,519 - Model - INFO - The number of training data is: 41
+2024-09-18 00:05:34,519 - Model - INFO - The number of test data is: 8
+2024-09-18 00:05:36,329 - Model - INFO - Using pre-trained model
+2024-09-18 00:05:36,330 - Model - INFO - Epoch 3/10:
+2024-09-18 00:06:54,346 - Model - INFO - PARAMETERS...
+2024-09-18 00:06:54,346 - Model - INFO - Namespace(batch_size=2, decay_rate=0.0001, epoch=10, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=15000, optimizer='Adam', step_size=20)
+2024-09-18 00:06:54,347 - Model - INFO - The number of training data is: 41
+2024-09-18 00:06:54,347 - Model - INFO - The number of test data is: 8
+2024-09-18 00:06:56,128 - Model - INFO - Using pre-trained model
+2024-09-18 00:06:56,128 - Model - INFO - Epoch 3/10:
+2024-09-18 00:07:24,777 - Model - INFO - PARAMETERS...
+2024-09-18 00:07:24,777 - Model - INFO - Namespace(batch_size=2, decay_rate=0.0001, epoch=10, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=15000, optimizer='Adam', step_size=20)
+2024-09-18 00:07:24,778 - Model - INFO - The number of training data is: 41
+2024-09-18 00:07:24,778 - Model - INFO - The number of test data is: 8
+2024-09-18 00:07:26,563 - Model - INFO - Using pre-trained model
+2024-09-18 00:07:26,563 - Model - INFO - Epoch 3/10:
+2024-09-18 00:07:40,236 - Model - INFO - Train accuracy: 0.86077
+2024-09-18 00:10:55,187 - Model - INFO - PARAMETERS...
+2024-09-18 00:10:55,187 - Model - INFO - Namespace(batch_size=2, decay_rate=0.0001, epoch=10, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=15000, optimizer='Adam', step_size=20)
+2024-09-18 00:10:55,187 - Model - INFO - The number of training data is: 41
+2024-09-18 00:10:55,187 - Model - INFO - The number of test data is: 8
+2024-09-18 00:10:57,036 - Model - INFO - Using pre-trained model
+2024-09-18 00:10:57,036 - Model - INFO - Epoch 3/10:
+2024-09-18 00:11:10,258 - Model - INFO - Train accuracy: 0.85419
+2024-09-18 00:11:38,689 - Model - INFO - PARAMETERS...
+2024-09-18 00:11:38,689 - Model - INFO - Namespace(batch_size=2, decay_rate=0.0001, epoch=10, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=15000, optimizer='Adam', step_size=20)
+2024-09-18 00:11:38,690 - Model - INFO - The number of training data is: 41
+2024-09-18 00:11:38,690 - Model - INFO - The number of test data is: 8
+2024-09-18 00:11:40,496 - Model - INFO - Using pre-trained model
+2024-09-18 00:11:40,496 - Model - INFO - Epoch 3/10:
+2024-09-18 00:11:53,970 - Model - INFO - Train accuracy: 0.86550
+2024-09-18 00:14:08,940 - Model - INFO - Test accuracy: 0.87487
+2024-09-18 00:14:08,940 - Model - INFO - Saving best model...
+2024-09-18 00:14:09,064 - Model - INFO - Best accuracy: 0.87487
+2024-09-18 00:14:09,064 - Model - INFO - Epoch 4/10:
+2024-09-18 00:17:12,812 - Model - INFO - PARAMETERS...
+2024-09-18 00:17:12,812 - Model - INFO - Namespace(batch_size=2, decay_rate=0.0001, epoch=10, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=15000, optimizer='Adam', step_size=20)
+2024-09-18 00:17:12,813 - Model - INFO - The number of training data is: 41
+2024-09-18 00:17:12,813 - Model - INFO - The number of test data is: 8
+2024-09-18 00:17:14,618 - Model - INFO - Using pre-trained model
+2024-09-18 00:17:14,619 - Model - INFO - Epoch 3/10:
+2024-09-18 00:21:56,959 - Model - INFO - PARAMETERS...
+2024-09-18 00:21:56,959 - Model - INFO - Namespace(batch_size=4, decay_rate=0.0001, epoch=10, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=15000, optimizer='Adam', step_size=20)
+2024-09-18 00:21:56,959 - Model - INFO - The number of training data is: 41
+2024-09-18 00:21:56,959 - Model - INFO - The number of test data is: 8
+2024-09-18 00:22:04,899 - Model - INFO - PARAMETERS...
+2024-09-18 00:22:04,899 - Model - INFO - Namespace(batch_size=4, decay_rate=0.0001, epoch=10, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=15000, optimizer='Adam', step_size=20)
+2024-09-18 00:22:04,899 - Model - INFO - The number of training data is: 41
+2024-09-18 00:22:04,899 - Model - INFO - The number of test data is: 8
+2024-09-18 00:22:06,677 - Model - INFO - Using pre-trained model
+2024-09-18 00:22:06,678 - Model - INFO - Epoch 3/10:
+2024-09-18 00:22:19,058 - Model - INFO - Train accuracy: 0.86886
+2024-09-18 00:22:22,007 - Model - INFO - Test accuracy: 0.87902
+2024-09-18 00:22:22,007 - Model - INFO - Saving best model...
+2024-09-18 00:22:22,138 - Model - INFO - Best accuracy: 0.87902
+2024-09-18 00:22:22,138 - Model - INFO - Epoch 4/10:
+2024-09-18 00:22:34,150 - Model - INFO - Train accuracy: 0.87627
+2024-09-18 00:22:37,166 - Model - INFO - Test accuracy: 0.88649
+2024-09-18 00:22:37,166 - Model - INFO - Saving best model...
+2024-09-18 00:22:37,315 - Model - INFO - Best accuracy: 0.88649
+2024-09-18 00:22:37,316 - Model - INFO - Epoch 5/10:
+2024-09-18 00:22:49,915 - Model - INFO - Train accuracy: 0.88426
+2024-09-18 00:22:53,154 - Model - INFO - Test accuracy: 0.87625
+2024-09-18 00:22:53,154 - Model - INFO - Best accuracy: 0.88649
+2024-09-18 00:22:53,154 - Model - INFO - Epoch 6/10:
+2024-09-18 00:23:05,663 - Model - INFO - Train accuracy: 0.88149
+2024-09-18 00:23:08,689 - Model - INFO - Test accuracy: 0.88423
+2024-09-18 00:23:08,690 - Model - INFO - Best accuracy: 0.88649
+2024-09-18 00:23:08,690 - Model - INFO - Epoch 7/10:
+2024-09-18 00:23:21,095 - Model - INFO - Train accuracy: 0.88663
+2024-09-18 00:23:24,177 - Model - INFO - Test accuracy: 0.85583
+2024-09-18 00:23:24,177 - Model - INFO - Best accuracy: 0.88649
+2024-09-18 00:23:24,177 - Model - INFO - Epoch 8/10:
+2024-09-18 00:23:36,543 - Model - INFO - Train accuracy: 0.89436
+2024-09-18 00:23:39,508 - Model - INFO - Test accuracy: 0.85676
+2024-09-18 00:23:39,508 - Model - INFO - Best accuracy: 0.88649
+2024-09-18 00:23:39,508 - Model - INFO - Epoch 9/10:
+2024-09-18 00:23:51,953 - Model - INFO - Train accuracy: 0.88798
+2024-09-18 00:23:55,114 - Model - INFO - Test accuracy: 0.84386
+2024-09-18 00:23:55,115 - Model - INFO - Best accuracy: 0.88649
+2024-09-18 00:23:55,115 - Model - INFO - Epoch 10/10:
+2024-09-18 00:24:07,360 - Model - INFO - Train accuracy: 0.89356
+2024-09-18 00:24:10,372 - Model - INFO - Test accuracy: 0.85842
+2024-09-18 00:24:10,373 - Model - INFO - Best accuracy: 0.88649
+2024-09-18 00:25:06,875 - Model - INFO - PARAMETERS...
+2024-09-18 00:25:06,875 - Model - INFO - Namespace(batch_size=4, decay_rate=0.0001, epoch=20, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=15000, optimizer='Adam', step_size=20)
+2024-09-18 00:25:06,875 - Model - INFO - The number of training data is: 41
+2024-09-18 00:25:06,875 - Model - INFO - The number of test data is: 8
+2024-09-18 00:25:08,658 - Model - INFO - Using pre-trained model
+2024-09-18 00:25:08,658 - Model - INFO - Epoch 4/20:
+2024-09-18 00:25:21,228 - Model - INFO - Train accuracy: 0.87584
+2024-09-18 00:25:24,182 - Model - INFO - Test accuracy: 0.84223
+2024-09-18 00:25:24,183 - Model - INFO - Saving best model...
+2024-09-18 00:25:24,306 - Model - INFO - Best accuracy: 0.84223
+2024-09-18 00:25:24,307 - Model - INFO - Epoch 5/20:
+2024-09-18 00:25:36,741 - Model - INFO - Train accuracy: 0.87937
+2024-09-18 00:25:39,738 - Model - INFO - Test accuracy: 0.84507
+2024-09-18 00:25:39,738 - Model - INFO - Saving best model...
+2024-09-18 00:25:39,862 - Model - INFO - Best accuracy: 0.84507
+2024-09-18 00:25:39,862 - Model - INFO - Epoch 6/20:
+2024-09-18 00:25:52,181 - Model - INFO - Train accuracy: 0.89105
+2024-09-18 00:25:55,254 - Model - INFO - Test accuracy: 0.85884
+2024-09-18 00:25:55,254 - Model - INFO - Saving best model...
+2024-09-18 00:25:55,375 - Model - INFO - Best accuracy: 0.85884
+2024-09-18 00:25:55,375 - Model - INFO - Epoch 7/20:
+2024-09-18 00:26:07,734 - Model - INFO - Train accuracy: 0.89233
+2024-09-18 00:26:10,769 - Model - INFO - Test accuracy: 0.88304
+2024-09-18 00:26:10,769 - Model - INFO - Saving best model...
+2024-09-18 00:26:10,884 - Model - INFO - Best accuracy: 0.88304
+2024-09-18 00:26:10,884 - Model - INFO - Epoch 8/20:
+2024-09-18 00:26:23,398 - Model - INFO - Train accuracy: 0.88914
+2024-09-18 00:26:26,553 - Model - INFO - Test accuracy: 0.87801
+2024-09-18 00:26:26,553 - Model - INFO - Best accuracy: 0.88304
+2024-09-18 00:26:26,553 - Model - INFO - Epoch 9/20:
+2024-09-18 00:26:38,891 - Model - INFO - Train accuracy: 0.89535
+2024-09-18 00:26:41,946 - Model - INFO - Test accuracy: 0.87663
+2024-09-18 00:26:41,947 - Model - INFO - Best accuracy: 0.88304
+2024-09-18 00:26:41,947 - Model - INFO - Epoch 10/20:
+2024-09-18 00:26:54,208 - Model - INFO - Train accuracy: 0.90099
+2024-09-18 00:26:57,230 - Model - INFO - Test accuracy: 0.88018
+2024-09-18 00:26:57,230 - Model - INFO - Best accuracy: 0.88304
+2024-09-18 00:26:57,230 - Model - INFO - Epoch 11/20:
+2024-09-18 00:27:09,977 - Model - INFO - Train accuracy: 0.89903
+2024-09-18 00:27:13,025 - Model - INFO - Test accuracy: 0.87673
+2024-09-18 00:27:13,025 - Model - INFO - Best accuracy: 0.88304
+2024-09-18 00:27:13,025 - Model - INFO - Epoch 12/20:
+2024-09-18 00:27:25,813 - Model - INFO - Train accuracy: 0.89279
+2024-09-18 00:29:45,152 - Model - INFO - PARAMETERS...
+2024-09-18 00:29:45,152 - Model - INFO - Namespace(batch_size=4, decay_rate=0.0001, epoch=20, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=15000, optimizer='Adam', step_size=20)
+2024-09-18 00:29:45,152 - Model - INFO - The number of training data is: 41
+2024-09-18 00:29:45,152 - Model - INFO - The number of test data is: 8
+2024-09-18 00:29:46,935 - Model - INFO - Using pre-trained model
+2024-09-18 00:29:46,935 - Model - INFO - Epoch 7/20:
+2024-09-18 00:35:20,150 - Model - INFO - PARAMETERS...
+2024-09-18 00:35:20,150 - Model - INFO - Namespace(batch_size=4, decay_rate=0.0001, epoch=20, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=15000, optimizer='Adam', step_size=20)
+2024-09-18 00:35:20,150 - Model - INFO - The number of training data is: 41
+2024-09-18 00:35:20,150 - Model - INFO - The number of test data is: 8
+2024-09-18 00:35:21,952 - Model - INFO - Using pre-trained model
+2024-09-18 00:35:21,952 - Model - INFO - Epoch 7/20:
+2024-09-18 00:35:34,244 - Model - INFO - Train accuracy: 0.88204
+2024-09-18 00:35:37,285 - Model - INFO - Test accuracy: 0.86382
+2024-09-18 00:35:37,394 - Model - INFO - Precision: 0.60748
+2024-09-18 00:35:37,395 - Model - INFO - Recall: 0.42068
+2024-09-18 00:35:37,395 - Model - INFO - F1 Score: 0.49711
+2024-09-18 00:35:37,395 - Model - INFO - Saving best model...
+2024-09-18 00:35:37,504 - Model - INFO - Best accuracy: 0.86382
+2024-09-18 00:35:37,504 - Model - INFO - Epoch 8/20:
+2024-09-18 00:35:49,791 - Model - INFO - Train accuracy: 0.88669
+2024-09-18 00:35:52,838 - Model - INFO - Test accuracy: 0.87916
+2024-09-18 00:35:52,946 - Model - INFO - Precision: 0.65283
+2024-09-18 00:35:52,946 - Model - INFO - Recall: 0.52271
+2024-09-18 00:35:52,946 - Model - INFO - F1 Score: 0.58057
+2024-09-18 00:35:52,946 - Model - INFO - Saving best model...
+2024-09-18 00:35:53,095 - Model - INFO - Best accuracy: 0.87916
+2024-09-18 00:35:53,096 - Model - INFO - Epoch 9/20:
+2024-09-18 00:49:56,467 - Model - INFO - PARAMETERS...
+2024-09-18 00:49:56,467 - Model - INFO - Namespace(batch_size=4, decay_rate=0.0001, epoch=20, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=15000, optimizer='Adam', step_size=20)
+2024-09-18 00:49:56,467 - Model - INFO - The number of training data is: 41
+2024-09-18 00:49:56,467 - Model - INFO - The number of test data is: 8
+2024-09-18 00:49:58,352 - Model - INFO - Using pre-trained model
+2024-09-18 00:49:58,352 - Model - INFO - Epoch 8/20:
+2024-09-18 00:50:10,779 - Model - INFO - Train accuracy: 0.88791
+2024-09-18 00:50:13,791 - Model - INFO - Test accuracy: 0.84885
+2024-09-18 00:50:13,901 - Model - INFO - Precision: 0.52174
+2024-09-18 00:50:13,901 - Model - INFO - Recall: 0.60619
+2024-09-18 00:50:13,901 - Model - INFO - F1 Score: 0.56080
+2024-09-18 00:50:13,901 - Model - INFO - Saving best model...
+2024-09-18 00:50:14,027 - Model - INFO - Best accuracy: 0.84885
+2024-09-18 00:50:14,027 - Model - INFO - Epoch 9/20:
+2024-09-18 00:50:24,537 - Model - INFO - PARAMETERS...
+2024-09-18 00:50:24,537 - Model - INFO - Namespace(batch_size=4, decay_rate=0.0001, epoch=20, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=20000, optimizer='Adam', step_size=20)
+2024-09-18 00:50:24,537 - Model - INFO - The number of training data is: 41
+2024-09-18 00:50:24,537 - Model - INFO - The number of test data is: 8
+2024-09-18 00:50:26,343 - Model - INFO - Using pre-trained model
+2024-09-18 00:50:26,343 - Model - INFO - Epoch 8/20:
+2024-09-18 00:50:49,905 - Model - INFO - PARAMETERS...
+2024-09-18 00:50:49,905 - Model - INFO - Namespace(batch_size=4, decay_rate=0.0001, epoch=20, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=10000, optimizer='Adam', step_size=20)
+2024-09-18 00:50:49,906 - Model - INFO - The number of training data is: 41
+2024-09-18 00:50:49,906 - Model - INFO - The number of test data is: 8
+2024-09-18 00:50:51,734 - Model - INFO - Using pre-trained model
+2024-09-18 00:50:51,734 - Model - INFO - Epoch 8/20:
+2024-09-18 00:51:01,808 - Model - INFO - Train accuracy: 0.88599
+2024-09-18 00:51:04,405 - Model - INFO - Test accuracy: 0.88356
+2024-09-18 00:51:04,475 - Model - INFO - Precision: 0.72430
+2024-09-18 00:51:04,475 - Model - INFO - Recall: 0.43044
+2024-09-18 00:51:04,475 - Model - INFO - F1 Score: 0.53998
+2024-09-18 00:51:04,475 - Model - INFO - Saving best model...
+2024-09-18 00:51:04,590 - Model - INFO - Best accuracy: 0.88356
+2024-09-18 00:51:04,590 - Model - INFO - Epoch 9/20:
+2024-09-18 00:51:46,720 - Model - INFO - PARAMETERS...
+2024-09-18 00:51:46,720 - Model - INFO - Namespace(batch_size=8, decay_rate=0.0001, epoch=20, gpu='0', learning_rate=0.001, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=10000, optimizer='Adam', step_size=20)
+2024-09-18 00:51:46,720 - Model - INFO - The number of training data is: 41
+2024-09-18 00:51:46,720 - Model - INFO - The number of test data is: 8
+2024-09-18 00:51:48,532 - Model - INFO - Using pre-trained model
+2024-09-18 00:51:48,533 - Model - INFO - Epoch 8/20:
+2024-09-18 00:52:12,111 - Model - INFO - PARAMETERS...
+2024-09-18 00:52:12,111 - Model - INFO - Namespace(batch_size=4, decay_rate=0.0001, epoch=20, gpu='0', learning_rate=0.005, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=10000, optimizer='Adam', step_size=20)
+2024-09-18 00:52:12,112 - Model - INFO - The number of training data is: 41
+2024-09-18 00:52:12,112 - Model - INFO - The number of test data is: 8
+2024-09-18 00:52:13,910 - Model - INFO - Using pre-trained model
+2024-09-18 00:52:13,911 - Model - INFO - Epoch 8/20:
+2024-09-18 00:52:23,753 - Model - INFO - Train accuracy: 0.85267
+2024-09-18 00:52:26,347 - Model - INFO - Test accuracy: 0.16644
+2024-09-18 00:52:26,421 - Model - INFO - Precision: 0.16137
+2024-09-18 00:52:26,421 - Model - INFO - Recall: 0.99984
+2024-09-18 00:52:26,421 - Model - INFO - F1 Score: 0.27789
+2024-09-18 00:52:26,421 - Model - INFO - Saving best model...
+2024-09-18 00:52:26,566 - Model - INFO - Best accuracy: 0.16644
+2024-09-18 00:52:26,566 - Model - INFO - Epoch 9/20:
+2024-09-18 00:52:36,484 - Model - INFO - Train accuracy: 0.86599
+2024-09-18 00:52:39,095 - Model - INFO - Test accuracy: 0.31230
+2024-09-18 00:52:39,169 - Model - INFO - Precision: 0.18125
+2024-09-18 00:52:39,169 - Model - INFO - Recall: 0.93454
+2024-09-18 00:52:39,169 - Model - INFO - F1 Score: 0.30361
+2024-09-18 00:52:39,169 - Model - INFO - Saving best model...
+2024-09-18 00:52:39,296 - Model - INFO - Best accuracy: 0.31230
+2024-09-18 00:52:39,296 - Model - INFO - Epoch 10/20:
+2024-09-18 00:52:49,280 - Model - INFO - Train accuracy: 0.86927
+2024-09-18 00:52:51,955 - Model - INFO - Test accuracy: 0.87769
+2024-09-18 00:52:52,029 - Model - INFO - Precision: 0.63093
+2024-09-18 00:52:52,029 - Model - INFO - Recall: 0.57227
+2024-09-18 00:52:52,029 - Model - INFO - F1 Score: 0.60017
+2024-09-18 00:52:52,029 - Model - INFO - Saving best model...
+2024-09-18 00:52:52,174 - Model - INFO - Best accuracy: 0.87769
+2024-09-18 00:52:52,174 - Model - INFO - Epoch 11/20:
+2024-09-18 00:53:01,910 - Model - INFO - Train accuracy: 0.87597
+2024-09-18 00:53:04,546 - Model - INFO - Test accuracy: 0.87899
+2024-09-18 00:53:04,622 - Model - INFO - Precision: 0.75378
+2024-09-18 00:53:04,622 - Model - INFO - Recall: 0.36476
+2024-09-18 00:53:04,622 - Model - INFO - F1 Score: 0.49162
+2024-09-18 00:53:04,622 - Model - INFO - Saving best model...
+2024-09-18 00:53:04,732 - Model - INFO - Best accuracy: 0.87899
+2024-09-18 00:53:04,732 - Model - INFO - Epoch 12/20:
+2024-09-18 00:53:14,799 - Model - INFO - Train accuracy: 0.87385
+2024-09-18 00:53:17,582 - Model - INFO - Test accuracy: 0.88861
+2024-09-18 00:53:17,655 - Model - INFO - Precision: 0.70212
+2024-09-18 00:53:17,655 - Model - INFO - Recall: 0.53082
+2024-09-18 00:53:17,655 - Model - INFO - F1 Score: 0.60457
+2024-09-18 00:53:17,655 - Model - INFO - Saving best model...
+2024-09-18 00:53:17,773 - Model - INFO - Best accuracy: 0.88861
+2024-09-18 00:53:17,773 - Model - INFO - Epoch 13/20:
+2024-09-18 00:53:27,729 - Model - INFO - Train accuracy: 0.87875
+2024-09-18 00:53:30,524 - Model - INFO - Test accuracy: 0.87560
+2024-09-18 00:53:30,599 - Model - INFO - Precision: 0.77412
+2024-09-18 00:53:30,599 - Model - INFO - Recall: 0.31700
+2024-09-18 00:53:30,599 - Model - INFO - F1 Score: 0.44980
+2024-09-18 00:53:30,599 - Model - INFO - Best accuracy: 0.88861
+2024-09-18 00:53:30,599 - Model - INFO - Epoch 14/20:
+2024-09-18 00:53:40,886 - Model - INFO - Train accuracy: 0.88747
+2024-09-18 00:53:43,718 - Model - INFO - Test accuracy: 0.86630
+2024-09-18 00:53:43,798 - Model - INFO - Precision: 0.90829
+2024-09-18 00:53:43,799 - Model - INFO - Recall: 0.18523
+2024-09-18 00:53:43,799 - Model - INFO - F1 Score: 0.30770
+2024-09-18 00:53:43,799 - Model - INFO - Best accuracy: 0.88861
+2024-09-18 00:53:43,799 - Model - INFO - Epoch 15/20:

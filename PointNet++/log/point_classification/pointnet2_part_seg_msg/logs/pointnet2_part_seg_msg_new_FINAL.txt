@@ -1,0 +1,918 @@
+2024-09-18 02:06:07,847 - Model - INFO - PARAMETERS...
+2024-09-18 02:06:07,847 - Model - INFO - Namespace(batch_size=4, decay_rate=0.0001, epoch=100, gpu='0', learning_rate=0.005, log_dir='pointnet2_part_seg_msg', lr_decay=0.5, model='pointnet2_part_seg_msg_new', normal=False, npoint=10000, optimizer='Adam', step_size=20)
+2024-09-18 02:06:07,848 - Model - INFO - The number of training data is: 41
+2024-09-18 02:06:07,848 - Model - INFO - The number of test data is: 8
+2024-09-18 02:06:09,687 - Model - INFO - No existing model, starting training from scratch...
+2024-09-18 02:06:09,688 - Model - INFO - Epoch 1/100:
+2024-09-18 02:06:21,102 - Model - INFO - Accuracy: 0.78624
+2024-09-18 02:06:21,103 - Model - INFO - Average Loss: 0.46005
+2024-09-18 02:06:21,103 - Model - INFO - Train accuracy: 0.78624
+2024-09-18 02:06:23,993 - Model - INFO - Test accuracy: 0.16034
+2024-09-18 02:06:23,993 - Model - INFO - Test loss: 0.21212
+2024-09-18 02:06:24,070 - Model - INFO - Precision: 0.16034
+2024-09-18 02:06:24,070 - Model - INFO - Recall: 1.00000
+2024-09-18 02:06:24,070 - Model - INFO - F1 Score: 0.27636
+2024-09-18 02:06:24,070 - Model - INFO - Saving best model...
+2024-09-18 02:06:24,124 - Model - INFO - Epoch 2/100:
+2024-09-18 02:06:35,247 - Model - INFO - Accuracy: 0.85052
+2024-09-18 02:06:35,248 - Model - INFO - Average Loss: 0.35689
+2024-09-18 02:06:35,248 - Model - INFO - Train accuracy: 0.85052
+2024-09-18 02:06:38,115 - Model - INFO - Test accuracy: 0.84190
+2024-09-18 02:06:38,115 - Model - INFO - Test loss: 0.08549
+2024-09-18 02:06:38,193 - Model - INFO - Precision: 0.72544
+2024-09-18 02:06:38,193 - Model - INFO - Recall: 0.02245
+2024-09-18 02:06:38,193 - Model - INFO - F1 Score: 0.04356
+2024-09-18 02:06:38,193 - Model - INFO - Saving best model...
+2024-09-18 02:06:38,319 - Model - INFO - Epoch 3/100:
+2024-09-18 02:06:49,424 - Model - INFO - Accuracy: 0.86539
+2024-09-18 02:06:49,425 - Model - INFO - Average Loss: 0.32437
+2024-09-18 02:06:49,425 - Model - INFO - Train accuracy: 0.86539
+2024-09-18 02:06:52,316 - Model - INFO - Test accuracy: 0.85862
+2024-09-18 02:06:52,317 - Model - INFO - Test loss: 0.09362
+2024-09-18 02:06:52,393 - Model - INFO - Precision: 0.59301
+2024-09-18 02:06:52,393 - Model - INFO - Recall: 0.37702
+2024-09-18 02:06:52,393 - Model - INFO - F1 Score: 0.46097
+2024-09-18 02:06:52,393 - Model - INFO - Saving best model...
+2024-09-18 02:06:52,543 - Model - INFO - Epoch 4/100:
+2024-09-18 02:07:03,701 - Model - INFO - Accuracy: 0.87050
+2024-09-18 02:07:03,701 - Model - INFO - Average Loss: 0.32301
+2024-09-18 02:07:03,701 - Model - INFO - Train accuracy: 0.87050
+2024-09-18 02:07:06,645 - Model - INFO - Test accuracy: 0.86655
+2024-09-18 02:07:06,645 - Model - INFO - Test loss: 0.06748
+2024-09-18 02:07:06,724 - Model - INFO - Precision: 0.78596
+2024-09-18 02:07:06,724 - Model - INFO - Recall: 0.23045
+2024-09-18 02:07:06,724 - Model - INFO - F1 Score: 0.35640
+2024-09-18 02:07:06,724 - Model - INFO - Saving best model...
+2024-09-18 02:07:06,844 - Model - INFO - Epoch 5/100:
+2024-09-18 02:07:17,974 - Model - INFO - Accuracy: 0.87531
+2024-09-18 02:07:17,974 - Model - INFO - Average Loss: 0.30996
+2024-09-18 02:07:17,974 - Model - INFO - Train accuracy: 0.87531
+2024-09-18 02:07:20,886 - Model - INFO - Test accuracy: 0.86994
+2024-09-18 02:07:20,886 - Model - INFO - Test loss: 0.06333
+2024-09-18 02:07:20,961 - Model - INFO - Precision: 0.85534
+2024-09-18 02:07:20,961 - Model - INFO - Recall: 0.22726
+2024-09-18 02:07:20,961 - Model - INFO - F1 Score: 0.35910
+2024-09-18 02:07:20,961 - Model - INFO - Saving best model...
+2024-09-18 02:07:21,088 - Model - INFO - Epoch 6/100:
+2024-09-18 02:07:32,149 - Model - INFO - Accuracy: 0.87624
+2024-09-18 02:07:32,149 - Model - INFO - Average Loss: 0.31199
+2024-09-18 02:07:32,149 - Model - INFO - Train accuracy: 0.87624
+2024-09-18 02:07:35,075 - Model - INFO - Test accuracy: 0.87710
+2024-09-18 02:07:35,075 - Model - INFO - Test loss: 0.05814
+2024-09-18 02:07:35,154 - Model - INFO - Precision: 0.77696
+2024-09-18 02:07:35,154 - Model - INFO - Recall: 0.32751
+2024-09-18 02:07:35,154 - Model - INFO - F1 Score: 0.46079
+2024-09-18 02:07:35,154 - Model - INFO - Saving best model...
+2024-09-18 02:07:35,312 - Model - INFO - Epoch 7/100:
+2024-09-18 02:07:46,512 - Model - INFO - Accuracy: 0.87924
+2024-09-18 02:07:46,513 - Model - INFO - Average Loss: 0.30579
+2024-09-18 02:07:46,513 - Model - INFO - Train accuracy: 0.87924
+2024-09-18 02:07:49,467 - Model - INFO - Test accuracy: 0.89045
+2024-09-18 02:07:49,468 - Model - INFO - Test loss: 0.05374
+2024-09-18 02:07:49,549 - Model - INFO - Precision: 0.82108
+2024-09-18 02:07:49,549 - Model - INFO - Recall: 0.40501
+2024-09-18 02:07:49,549 - Model - INFO - F1 Score: 0.54245
+2024-09-18 02:07:49,550 - Model - INFO - Saving best model...
+2024-09-18 02:07:49,662 - Model - INFO - Epoch 8/100:
+2024-09-18 02:08:00,522 - Model - INFO - Accuracy: 0.87535
+2024-09-18 02:08:00,522 - Model - INFO - Average Loss: 0.30568
+2024-09-18 02:08:00,522 - Model - INFO - Train accuracy: 0.87535
+2024-09-18 02:08:03,442 - Model - INFO - Test accuracy: 0.88325
+2024-09-18 02:08:03,443 - Model - INFO - Test loss: 0.05605
+2024-09-18 02:08:03,521 - Model - INFO - Precision: 0.79288
+2024-09-18 02:08:03,521 - Model - INFO - Recall: 0.36797
+2024-09-18 02:08:03,521 - Model - INFO - F1 Score: 0.50266
+2024-09-18 02:08:03,521 - Model - INFO - Epoch 9/100:
+2024-09-18 02:08:14,533 - Model - INFO - Accuracy: 0.88101
+2024-09-18 02:08:14,533 - Model - INFO - Average Loss: 0.29039
+2024-09-18 02:08:14,533 - Model - INFO - Train accuracy: 0.88101
+2024-09-18 02:08:17,438 - Model - INFO - Test accuracy: 0.87888
+2024-09-18 02:08:17,438 - Model - INFO - Test loss: 0.05976
+2024-09-18 02:08:17,519 - Model - INFO - Precision: 0.63371
+2024-09-18 02:08:17,519 - Model - INFO - Recall: 0.57956
+2024-09-18 02:08:17,519 - Model - INFO - F1 Score: 0.60542
+2024-09-18 02:08:17,519 - Model - INFO - Epoch 10/100:
+2024-09-18 02:08:28,634 - Model - INFO - Accuracy: 0.88496
+2024-09-18 02:08:28,634 - Model - INFO - Average Loss: 0.28710
+2024-09-18 02:08:28,635 - Model - INFO - Train accuracy: 0.88496
+2024-09-18 02:08:31,531 - Model - INFO - Test accuracy: 0.89085
+2024-09-18 02:08:31,531 - Model - INFO - Test loss: 0.05669
+2024-09-18 02:08:31,606 - Model - INFO - Precision: 0.76852
+2024-09-18 02:08:31,606 - Model - INFO - Recall: 0.45685
+2024-09-18 02:08:31,606 - Model - INFO - F1 Score: 0.57305
+2024-09-18 02:08:31,606 - Model - INFO - Saving best model...
+2024-09-18 02:08:31,758 - Model - INFO - Epoch 11/100:
+2024-09-18 02:08:42,887 - Model - INFO - Accuracy: 0.88980
+2024-09-18 02:08:42,887 - Model - INFO - Average Loss: 0.27656
+2024-09-18 02:08:42,887 - Model - INFO - Train accuracy: 0.88980
+2024-09-18 02:08:45,770 - Model - INFO - Test accuracy: 0.88340
+2024-09-18 02:08:45,770 - Model - INFO - Test loss: 0.05775
+2024-09-18 02:08:45,843 - Model - INFO - Precision: 0.64017
+2024-09-18 02:08:45,843 - Model - INFO - Recall: 0.62290
+2024-09-18 02:08:45,843 - Model - INFO - F1 Score: 0.63142
+2024-09-18 02:08:45,843 - Model - INFO - Epoch 12/100:
+2024-09-18 02:08:57,007 - Model - INFO - Accuracy: 0.88933
+2024-09-18 02:08:57,007 - Model - INFO - Average Loss: 0.27749
+2024-09-18 02:08:57,007 - Model - INFO - Train accuracy: 0.88933
+2024-09-18 02:08:59,891 - Model - INFO - Test accuracy: 0.89150
+2024-09-18 02:08:59,891 - Model - INFO - Test loss: 0.05429
+2024-09-18 02:08:59,967 - Model - INFO - Precision: 0.78016
+2024-09-18 02:08:59,967 - Model - INFO - Recall: 0.45014
+2024-09-18 02:08:59,967 - Model - INFO - F1 Score: 0.57089
+2024-09-18 02:08:59,967 - Model - INFO - Saving best model...
+2024-09-18 02:09:00,085 - Model - INFO - Epoch 13/100:
+2024-09-18 02:09:11,263 - Model - INFO - Accuracy: 0.88879
+2024-09-18 02:09:11,263 - Model - INFO - Average Loss: 0.27593
+2024-09-18 02:09:11,263 - Model - INFO - Train accuracy: 0.88879
+2024-09-18 02:09:14,203 - Model - INFO - Test accuracy: 0.88793
+2024-09-18 02:09:14,204 - Model - INFO - Test loss: 0.05856
+2024-09-18 02:09:14,285 - Model - INFO - Precision: 0.66687
+2024-09-18 02:09:14,285 - Model - INFO - Recall: 0.60147
+2024-09-18 02:09:14,285 - Model - INFO - F1 Score: 0.63248
+2024-09-18 02:09:14,285 - Model - INFO - Epoch 14/100:
+2024-09-18 02:09:25,368 - Model - INFO - Accuracy: 0.88854
+2024-09-18 02:09:25,369 - Model - INFO - Average Loss: 0.28081
+2024-09-18 02:09:25,369 - Model - INFO - Train accuracy: 0.88854
+2024-09-18 02:09:28,268 - Model - INFO - Test accuracy: 0.88974
+2024-09-18 02:09:28,269 - Model - INFO - Test loss: 0.05659
+2024-09-18 02:09:28,343 - Model - INFO - Precision: 0.73581
+2024-09-18 02:09:28,343 - Model - INFO - Recall: 0.48725
+2024-09-18 02:09:28,343 - Model - INFO - F1 Score: 0.58628
+2024-09-18 02:09:28,343 - Model - INFO - Epoch 15/100:
+2024-09-18 02:09:39,576 - Model - INFO - Accuracy: 0.88862
+2024-09-18 02:09:39,576 - Model - INFO - Average Loss: 0.27794
+2024-09-18 02:09:39,576 - Model - INFO - Train accuracy: 0.88862
+2024-09-18 02:09:42,487 - Model - INFO - Test accuracy: 0.89531
+2024-09-18 02:09:42,488 - Model - INFO - Test loss: 0.05567
+2024-09-18 02:09:42,564 - Model - INFO - Precision: 0.77742
+2024-09-18 02:09:42,564 - Model - INFO - Recall: 0.48632
+2024-09-18 02:09:42,564 - Model - INFO - F1 Score: 0.59834
+2024-09-18 02:09:42,564 - Model - INFO - Saving best model...
+2024-09-18 02:09:42,685 - Model - INFO - Epoch 16/100:
+2024-09-18 02:09:53,596 - Model - INFO - Accuracy: 0.88866
+2024-09-18 02:09:53,597 - Model - INFO - Average Loss: 0.28032
+2024-09-18 02:09:53,597 - Model - INFO - Train accuracy: 0.88866
+2024-09-18 02:09:56,223 - Model - INFO - Test accuracy: 0.88479
+2024-09-18 02:09:56,223 - Model - INFO - Test loss: 0.05565
+2024-09-18 02:09:56,306 - Model - INFO - Precision: 0.77373
+2024-09-18 02:09:56,306 - Model - INFO - Recall: 0.39775
+2024-09-18 02:09:56,306 - Model - INFO - F1 Score: 0.52541
+2024-09-18 02:09:56,306 - Model - INFO - Epoch 17/100:
+2024-09-18 02:10:06,857 - Model - INFO - Accuracy: 0.89089
+2024-09-18 02:10:06,857 - Model - INFO - Average Loss: 0.27793
+2024-09-18 02:10:06,857 - Model - INFO - Train accuracy: 0.89089
+2024-09-18 02:10:09,637 - Model - INFO - Test accuracy: 0.86744
+2024-09-18 02:10:09,637 - Model - INFO - Test loss: 0.06122
+2024-09-18 02:10:09,711 - Model - INFO - Precision: 0.56770
+2024-09-18 02:10:09,711 - Model - INFO - Recall: 0.72628
+2024-09-18 02:10:09,711 - Model - INFO - F1 Score: 0.63727
+2024-09-18 02:10:09,711 - Model - INFO - Epoch 18/100:
+2024-09-18 02:10:19,863 - Model - INFO - Accuracy: 0.89086
+2024-09-18 02:10:19,863 - Model - INFO - Average Loss: 0.27336
+2024-09-18 02:10:19,863 - Model - INFO - Train accuracy: 0.89086
+2024-09-18 02:10:22,530 - Model - INFO - Test accuracy: 0.83375
+2024-09-18 02:10:22,530 - Model - INFO - Test loss: 0.07208
+2024-09-18 02:10:22,607 - Model - INFO - Precision: 0.48704
+2024-09-18 02:10:22,607 - Model - INFO - Recall: 0.69315
+2024-09-18 02:10:22,607 - Model - INFO - F1 Score: 0.57210
+2024-09-18 02:10:22,607 - Model - INFO - Epoch 19/100:
+2024-09-18 02:10:32,505 - Model - INFO - Accuracy: 0.89144
+2024-09-18 02:10:32,506 - Model - INFO - Average Loss: 0.26910
+2024-09-18 02:10:32,506 - Model - INFO - Train accuracy: 0.89144
+2024-09-18 02:10:35,109 - Model - INFO - Test accuracy: 0.88994
+2024-09-18 02:10:35,109 - Model - INFO - Test loss: 0.05414
+2024-09-18 02:10:35,183 - Model - INFO - Precision: 0.72206
+2024-09-18 02:10:35,183 - Model - INFO - Recall: 0.50978
+2024-09-18 02:10:35,183 - Model - INFO - F1 Score: 0.59763
+2024-09-18 02:10:35,183 - Model - INFO - Epoch 20/100:
+2024-09-18 02:10:45,007 - Model - INFO - Accuracy: 0.89550
+2024-09-18 02:10:45,007 - Model - INFO - Average Loss: 0.26482
+2024-09-18 02:10:45,008 - Model - INFO - Train accuracy: 0.89550
+2024-09-18 02:10:47,641 - Model - INFO - Test accuracy: 0.89496
+2024-09-18 02:10:47,641 - Model - INFO - Test loss: 0.05317
+2024-09-18 02:10:47,714 - Model - INFO - Precision: 0.75119
+2024-09-18 02:10:47,714 - Model - INFO - Recall: 0.51571
+2024-09-18 02:10:47,714 - Model - INFO - F1 Score: 0.61157
+2024-09-18 02:10:47,715 - Model - INFO - Epoch 21/100:
+2024-09-18 02:10:58,467 - Model - INFO - Accuracy: 0.89575
+2024-09-18 02:10:58,468 - Model - INFO - Average Loss: 0.26536
+2024-09-18 02:10:58,468 - Model - INFO - Train accuracy: 0.89575
+2024-09-18 02:11:01,366 - Model - INFO - Test accuracy: 0.88187
+2024-09-18 02:11:01,366 - Model - INFO - Test loss: 0.05819
+2024-09-18 02:11:01,441 - Model - INFO - Precision: 0.79319
+2024-09-18 02:11:01,441 - Model - INFO - Recall: 0.35612
+2024-09-18 02:11:01,441 - Model - INFO - F1 Score: 0.49155
+2024-09-18 02:11:01,442 - Model - INFO - Epoch 22/100:
+2024-09-18 02:11:12,627 - Model - INFO - Accuracy: 0.89955
+2024-09-18 02:11:12,627 - Model - INFO - Average Loss: 0.25419
+2024-09-18 02:11:12,627 - Model - INFO - Train accuracy: 0.89955
+2024-09-18 02:11:15,500 - Model - INFO - Test accuracy: 0.89080
+2024-09-18 02:11:15,500 - Model - INFO - Test loss: 0.05647
+2024-09-18 02:11:15,577 - Model - INFO - Precision: 0.81397
+2024-09-18 02:11:15,577 - Model - INFO - Recall: 0.41342
+2024-09-18 02:11:15,577 - Model - INFO - F1 Score: 0.54834
+2024-09-18 02:11:15,577 - Model - INFO - Epoch 23/100:
+2024-09-18 02:11:26,722 - Model - INFO - Accuracy: 0.89717
+2024-09-18 02:11:26,722 - Model - INFO - Average Loss: 0.25681
+2024-09-18 02:11:26,722 - Model - INFO - Train accuracy: 0.89717
+2024-09-18 02:11:29,705 - Model - INFO - Test accuracy: 0.88694
+2024-09-18 02:11:29,705 - Model - INFO - Test loss: 0.05620
+2024-09-18 02:11:29,787 - Model - INFO - Precision: 0.77533
+2024-09-18 02:11:29,787 - Model - INFO - Recall: 0.41514
+2024-09-18 02:11:29,787 - Model - INFO - F1 Score: 0.54075
+2024-09-18 02:11:29,787 - Model - INFO - Epoch 24/100:
+2024-09-18 02:11:41,009 - Model - INFO - Accuracy: 0.90218
+2024-09-18 02:11:41,009 - Model - INFO - Average Loss: 0.24840
+2024-09-18 02:11:41,010 - Model - INFO - Train accuracy: 0.90218
+2024-09-18 02:11:43,877 - Model - INFO - Test accuracy: 0.88905
+2024-09-18 02:11:43,877 - Model - INFO - Test loss: 0.05379
+2024-09-18 02:11:43,961 - Model - INFO - Precision: 0.71821
+2024-09-18 02:11:43,961 - Model - INFO - Recall: 0.50690
+2024-09-18 02:11:43,961 - Model - INFO - F1 Score: 0.59433
+2024-09-18 02:11:43,961 - Model - INFO - Epoch 25/100:
+2024-09-18 02:11:55,149 - Model - INFO - Accuracy: 0.89923
+2024-09-18 02:11:55,150 - Model - INFO - Average Loss: 0.25407
+2024-09-18 02:11:55,150 - Model - INFO - Train accuracy: 0.89923
+2024-09-18 02:11:58,060 - Model - INFO - Test accuracy: 0.88499
+2024-09-18 02:11:58,061 - Model - INFO - Test loss: 0.05525
+2024-09-18 02:11:58,136 - Model - INFO - Precision: 0.67091
+2024-09-18 02:11:58,136 - Model - INFO - Recall: 0.55485
+2024-09-18 02:11:58,136 - Model - INFO - F1 Score: 0.60738
+2024-09-18 02:11:58,136 - Model - INFO - Epoch 26/100:
+2024-09-18 02:12:09,071 - Model - INFO - Accuracy: 0.90542
+2024-09-18 02:12:09,071 - Model - INFO - Average Loss: 0.24955
+2024-09-18 02:12:09,072 - Model - INFO - Train accuracy: 0.90542
+2024-09-18 02:12:11,867 - Model - INFO - Test accuracy: 0.89276
+2024-09-18 02:12:11,868 - Model - INFO - Test loss: 0.05325
+2024-09-18 02:12:11,943 - Model - INFO - Precision: 0.73264
+2024-09-18 02:12:11,943 - Model - INFO - Recall: 0.52148
+2024-09-18 02:12:11,943 - Model - INFO - F1 Score: 0.60928
+2024-09-18 02:12:11,943 - Model - INFO - Epoch 27/100:
+2024-09-18 02:12:23,139 - Model - INFO - Accuracy: 0.89892
+2024-09-18 02:12:23,139 - Model - INFO - Average Loss: 0.25688
+2024-09-18 02:12:23,139 - Model - INFO - Train accuracy: 0.89892
+2024-09-18 02:12:26,018 - Model - INFO - Test accuracy: 0.89377
+2024-09-18 02:12:26,018 - Model - INFO - Test loss: 0.05301
+2024-09-18 02:12:26,093 - Model - INFO - Precision: 0.80252
+2024-09-18 02:12:26,093 - Model - INFO - Recall: 0.44765
+2024-09-18 02:12:26,094 - Model - INFO - F1 Score: 0.57472
+2024-09-18 02:12:26,094 - Model - INFO - Epoch 28/100:
+2024-09-18 02:12:37,125 - Model - INFO - Accuracy: 0.90184
+2024-09-18 02:12:37,125 - Model - INFO - Average Loss: 0.25163
+2024-09-18 02:12:37,125 - Model - INFO - Train accuracy: 0.90184
+2024-09-18 02:12:40,011 - Model - INFO - Test accuracy: 0.85931
+2024-09-18 02:12:40,011 - Model - INFO - Test loss: 0.06466
+2024-09-18 02:12:40,083 - Model - INFO - Precision: 0.54443
+2024-09-18 02:12:40,083 - Model - INFO - Recall: 0.75084
+2024-09-18 02:12:40,083 - Model - INFO - F1 Score: 0.63119
+2024-09-18 02:12:40,083 - Model - INFO - Epoch 29/100:
+2024-09-18 02:12:51,218 - Model - INFO - Accuracy: 0.90226
+2024-09-18 02:12:51,218 - Model - INFO - Average Loss: 0.24699
+2024-09-18 02:12:51,219 - Model - INFO - Train accuracy: 0.90226
+2024-09-18 02:12:54,109 - Model - INFO - Test accuracy: 0.89276
+2024-09-18 02:12:54,109 - Model - INFO - Test loss: 0.05173
+2024-09-18 02:12:54,179 - Model - INFO - Precision: 0.71956
+2024-09-18 02:12:54,179 - Model - INFO - Recall: 0.54268
+2024-09-18 02:12:54,179 - Model - INFO - F1 Score: 0.61873
+2024-09-18 02:12:54,179 - Model - INFO - Epoch 30/100:
+2024-09-18 02:13:05,451 - Model - INFO - Accuracy: 0.89767
+2024-09-18 02:13:05,451 - Model - INFO - Average Loss: 0.25110
+2024-09-18 02:13:05,451 - Model - INFO - Train accuracy: 0.89767
+2024-09-18 02:13:08,374 - Model - INFO - Test accuracy: 0.87336
+2024-09-18 02:13:08,374 - Model - INFO - Test loss: 0.06201
+2024-09-18 02:13:08,449 - Model - INFO - Precision: 0.59486
+2024-09-18 02:13:08,450 - Model - INFO - Recall: 0.65900
+2024-09-18 02:13:08,450 - Model - INFO - F1 Score: 0.62529
+2024-09-18 02:13:08,450 - Model - INFO - Epoch 31/100:
+2024-09-18 02:13:19,657 - Model - INFO - Accuracy: 0.89893
+2024-09-18 02:13:19,657 - Model - INFO - Average Loss: 0.25630
+2024-09-18 02:13:19,657 - Model - INFO - Train accuracy: 0.89893
+2024-09-18 02:13:22,574 - Model - INFO - Test accuracy: 0.89499
+2024-09-18 02:13:22,575 - Model - INFO - Test loss: 0.05596
+2024-09-18 02:13:22,649 - Model - INFO - Precision: 0.73533
+2024-09-18 02:13:22,650 - Model - INFO - Recall: 0.53910
+2024-09-18 02:13:22,650 - Model - INFO - F1 Score: 0.62210
+2024-09-18 02:13:22,650 - Model - INFO - Epoch 32/100:
+2024-09-18 02:13:33,746 - Model - INFO - Accuracy: 0.89965
+2024-09-18 02:13:33,746 - Model - INFO - Average Loss: 0.25081
+2024-09-18 02:13:33,746 - Model - INFO - Train accuracy: 0.89965
+2024-09-18 02:13:36,653 - Model - INFO - Test accuracy: 0.88806
+2024-09-18 02:13:36,653 - Model - INFO - Test loss: 0.06023
+2024-09-18 02:13:36,729 - Model - INFO - Precision: 0.65144
+2024-09-18 02:13:36,730 - Model - INFO - Recall: 0.64926
+2024-09-18 02:13:36,730 - Model - INFO - F1 Score: 0.65035
+2024-09-18 02:13:36,730 - Model - INFO - Epoch 33/100:
+2024-09-18 02:13:47,757 - Model - INFO - Accuracy: 0.90743
+2024-09-18 02:13:47,758 - Model - INFO - Average Loss: 0.23758
+2024-09-18 02:13:47,758 - Model - INFO - Train accuracy: 0.90743
+2024-09-18 02:13:50,640 - Model - INFO - Test accuracy: 0.89442
+2024-09-18 02:13:50,641 - Model - INFO - Test loss: 0.05321
+2024-09-18 02:13:50,723 - Model - INFO - Precision: 0.67562
+2024-09-18 02:13:50,723 - Model - INFO - Recall: 0.65697
+2024-09-18 02:13:50,723 - Model - INFO - F1 Score: 0.66617
+2024-09-18 02:13:50,723 - Model - INFO - Epoch 34/100:
+2024-09-18 02:14:01,859 - Model - INFO - Accuracy: 0.90762
+2024-09-18 02:14:01,859 - Model - INFO - Average Loss: 0.23467
+2024-09-18 02:14:01,859 - Model - INFO - Train accuracy: 0.90762
+2024-09-18 02:14:04,753 - Model - INFO - Test accuracy: 0.88836
+2024-09-18 02:14:04,754 - Model - INFO - Test loss: 0.05636
+2024-09-18 02:14:04,833 - Model - INFO - Precision: 0.64946
+2024-09-18 02:14:04,834 - Model - INFO - Recall: 0.65994
+2024-09-18 02:14:04,834 - Model - INFO - F1 Score: 0.65465
+2024-09-18 02:14:04,834 - Model - INFO - Epoch 35/100:
+2024-09-18 02:14:15,917 - Model - INFO - Accuracy: 0.90802
+2024-09-18 02:14:15,917 - Model - INFO - Average Loss: 0.23746
+2024-09-18 02:14:15,918 - Model - INFO - Train accuracy: 0.90802
+2024-09-18 02:14:18,809 - Model - INFO - Test accuracy: 0.89777
+2024-09-18 02:14:18,809 - Model - INFO - Test loss: 0.05305
+2024-09-18 02:14:18,889 - Model - INFO - Precision: 0.74353
+2024-09-18 02:14:18,889 - Model - INFO - Recall: 0.55329
+2024-09-18 02:14:18,889 - Model - INFO - F1 Score: 0.63445
+2024-09-18 02:14:18,889 - Model - INFO - Saving best model...
+2024-09-18 02:14:19,010 - Model - INFO - Epoch 36/100:
+2024-09-18 02:14:30,235 - Model - INFO - Accuracy: 0.90570
+2024-09-18 02:14:30,236 - Model - INFO - Average Loss: 0.23483
+2024-09-18 02:14:30,236 - Model - INFO - Train accuracy: 0.90570
+2024-09-18 02:14:33,164 - Model - INFO - Test accuracy: 0.88945
+2024-09-18 02:14:33,165 - Model - INFO - Test loss: 0.05936
+2024-09-18 02:14:33,241 - Model - INFO - Precision: 0.74626
+2024-09-18 02:14:33,241 - Model - INFO - Recall: 0.47049
+2024-09-18 02:14:33,241 - Model - INFO - F1 Score: 0.57713
+2024-09-18 02:14:33,241 - Model - INFO - Epoch 37/100:
+2024-09-18 02:14:44,366 - Model - INFO - Accuracy: 0.90380
+2024-09-18 02:14:44,367 - Model - INFO - Average Loss: 0.23878
+2024-09-18 02:14:44,367 - Model - INFO - Train accuracy: 0.90380
+2024-09-18 02:14:47,344 - Model - INFO - Test accuracy: 0.85927
+2024-09-18 02:14:47,344 - Model - INFO - Test loss: 0.06606
+2024-09-18 02:14:47,423 - Model - INFO - Precision: 0.54491
+2024-09-18 02:14:47,423 - Model - INFO - Recall: 0.74203
+2024-09-18 02:14:47,423 - Model - INFO - F1 Score: 0.62838
+2024-09-18 02:14:47,423 - Model - INFO - Epoch 38/100:
+2024-09-18 02:14:58,502 - Model - INFO - Accuracy: 0.90876
+2024-09-18 02:14:58,503 - Model - INFO - Average Loss: 0.23217
+2024-09-18 02:14:58,503 - Model - INFO - Train accuracy: 0.90876
+2024-09-18 02:15:01,419 - Model - INFO - Test accuracy: 0.88807
+2024-09-18 02:15:01,419 - Model - INFO - Test loss: 0.05754
+2024-09-18 02:15:01,494 - Model - INFO - Precision: 0.67774
+2024-09-18 02:15:01,494 - Model - INFO - Recall: 0.57566
+2024-09-18 02:15:01,494 - Model - INFO - F1 Score: 0.62254
+2024-09-18 02:15:01,494 - Model - INFO - Epoch 39/100:
+2024-09-18 02:15:12,661 - Model - INFO - Accuracy: 0.91209
+2024-09-18 02:15:12,661 - Model - INFO - Average Loss: 0.22150
+2024-09-18 02:15:12,662 - Model - INFO - Train accuracy: 0.91209
+2024-09-18 02:15:15,579 - Model - INFO - Test accuracy: 0.89342
+2024-09-18 02:15:15,579 - Model - INFO - Test loss: 0.05606
+2024-09-18 02:15:15,657 - Model - INFO - Precision: 0.68388
+2024-09-18 02:15:15,657 - Model - INFO - Recall: 0.62353
+2024-09-18 02:15:15,657 - Model - INFO - F1 Score: 0.65231
+2024-09-18 02:15:15,657 - Model - INFO - Epoch 40/100:
+2024-09-18 02:15:26,854 - Model - INFO - Accuracy: 0.91518
+2024-09-18 02:15:26,854 - Model - INFO - Average Loss: 0.21556
+2024-09-18 02:15:26,854 - Model - INFO - Train accuracy: 0.91518
+2024-09-18 02:15:29,716 - Model - INFO - Test accuracy: 0.89851
+2024-09-18 02:15:29,716 - Model - INFO - Test loss: 0.05058
+2024-09-18 02:15:29,796 - Model - INFO - Precision: 0.72062
+2024-09-18 02:15:29,796 - Model - INFO - Recall: 0.59944
+2024-09-18 02:15:29,796 - Model - INFO - F1 Score: 0.65447
+2024-09-18 02:15:29,796 - Model - INFO - Saving best model...
+2024-09-18 02:15:29,951 - Model - INFO - Epoch 41/100:
+2024-09-18 02:15:41,084 - Model - INFO - Accuracy: 0.91214
+2024-09-18 02:15:41,085 - Model - INFO - Average Loss: 0.21784
+2024-09-18 02:15:41,085 - Model - INFO - Train accuracy: 0.91214
+2024-09-18 02:15:44,034 - Model - INFO - Test accuracy: 0.89657
+2024-09-18 02:15:44,034 - Model - INFO - Test loss: 0.05332
+2024-09-18 02:15:44,104 - Model - INFO - Precision: 0.71976
+2024-09-18 02:15:44,105 - Model - INFO - Recall: 0.58127
+2024-09-18 02:15:44,105 - Model - INFO - F1 Score: 0.64315
+2024-09-18 02:15:44,105 - Model - INFO - Epoch 42/100:
+2024-09-18 02:15:55,219 - Model - INFO - Accuracy: 0.91726
+2024-09-18 02:15:55,219 - Model - INFO - Average Loss: 0.21373
+2024-09-18 02:15:55,219 - Model - INFO - Train accuracy: 0.91726
+2024-09-18 02:15:58,087 - Model - INFO - Test accuracy: 0.89565
+2024-09-18 02:15:58,087 - Model - INFO - Test loss: 0.05327
+2024-09-18 02:15:58,165 - Model - INFO - Precision: 0.67146
+2024-09-18 02:15:58,165 - Model - INFO - Recall: 0.68371
+2024-09-18 02:15:58,165 - Model - INFO - F1 Score: 0.67753
+2024-09-18 02:15:58,165 - Model - INFO - Epoch 43/100:
+2024-09-18 02:16:09,057 - Model - INFO - Accuracy: 0.91289
+2024-09-18 02:16:09,057 - Model - INFO - Average Loss: 0.22303
+2024-09-18 02:16:09,057 - Model - INFO - Train accuracy: 0.91289
+2024-09-18 02:16:11,932 - Model - INFO - Test accuracy: 0.89702
+2024-09-18 02:16:11,932 - Model - INFO - Test loss: 0.05242
+2024-09-18 02:16:12,009 - Model - INFO - Precision: 0.76752
+2024-09-18 02:16:12,009 - Model - INFO - Recall: 0.51321
+2024-09-18 02:16:12,009 - Model - INFO - F1 Score: 0.61512
+2024-09-18 02:16:12,010 - Model - INFO - Epoch 44/100:
+2024-09-18 02:16:23,183 - Model - INFO - Accuracy: 0.91001
+2024-09-18 02:16:23,183 - Model - INFO - Average Loss: 0.22973
+2024-09-18 02:16:23,184 - Model - INFO - Train accuracy: 0.91001
+2024-09-18 02:16:26,074 - Model - INFO - Test accuracy: 0.89296
+2024-09-18 02:16:26,074 - Model - INFO - Test loss: 0.05502
+2024-09-18 02:16:26,171 - Model - INFO - Precision: 0.71105
+2024-09-18 02:16:26,171 - Model - INFO - Recall: 0.55999
+2024-09-18 02:16:26,172 - Model - INFO - F1 Score: 0.62654
+2024-09-18 02:16:26,172 - Model - INFO - Epoch 45/100:
+2024-09-18 02:16:37,341 - Model - INFO - Accuracy: 0.90895
+2024-09-18 02:16:37,341 - Model - INFO - Average Loss: 0.22880
+2024-09-18 02:16:37,342 - Model - INFO - Train accuracy: 0.90895
+2024-09-18 02:16:40,233 - Model - INFO - Test accuracy: 0.88519
+2024-09-18 02:16:40,233 - Model - INFO - Test loss: 0.05642
+2024-09-18 02:16:40,304 - Model - INFO - Precision: 0.70484
+2024-09-18 02:16:40,304 - Model - INFO - Recall: 0.48850
+2024-09-18 02:16:40,304 - Model - INFO - F1 Score: 0.57706
+2024-09-18 02:16:40,305 - Model - INFO - Epoch 46/100:
+2024-09-18 02:16:51,410 - Model - INFO - Accuracy: 0.90690
+2024-09-18 02:16:51,411 - Model - INFO - Average Loss: 0.23233
+2024-09-18 02:16:51,411 - Model - INFO - Train accuracy: 0.90690
+2024-09-18 02:16:54,323 - Model - INFO - Test accuracy: 0.88500
+2024-09-18 02:16:54,324 - Model - INFO - Test loss: 0.05859
+2024-09-18 02:16:54,399 - Model - INFO - Precision: 0.65417
+2024-09-18 02:16:54,400 - Model - INFO - Recall: 0.59991
+2024-09-18 02:16:54,400 - Model - INFO - F1 Score: 0.62586
+2024-09-18 02:16:54,400 - Model - INFO - Epoch 47/100:
+2024-09-18 02:17:05,728 - Model - INFO - Accuracy: 0.91090
+2024-09-18 02:17:05,728 - Model - INFO - Average Loss: 0.22705
+2024-09-18 02:17:05,728 - Model - INFO - Train accuracy: 0.91090
+2024-09-18 02:17:08,625 - Model - INFO - Test accuracy: 0.85281
+2024-09-18 02:17:08,625 - Model - INFO - Test loss: 0.06740
+2024-09-18 02:17:08,701 - Model - INFO - Precision: 0.52886
+2024-09-18 02:17:08,701 - Model - INFO - Recall: 0.75146
+2024-09-18 02:17:08,701 - Model - INFO - F1 Score: 0.62081
+2024-09-18 02:17:08,701 - Model - INFO - Epoch 48/100:
+2024-09-18 02:17:19,713 - Model - INFO - Accuracy: 0.91467
+2024-09-18 02:17:19,713 - Model - INFO - Average Loss: 0.21958
+2024-09-18 02:17:19,713 - Model - INFO - Train accuracy: 0.91467
+2024-09-18 02:17:22,592 - Model - INFO - Test accuracy: 0.87068
+2024-09-18 02:17:22,592 - Model - INFO - Test loss: 0.06799
+2024-09-18 02:17:22,670 - Model - INFO - Precision: 0.57265
+2024-09-18 02:17:22,671 - Model - INFO - Recall: 0.76230
+2024-09-18 02:17:22,671 - Model - INFO - F1 Score: 0.65400
+2024-09-18 02:17:22,671 - Model - INFO - Epoch 49/100:
+2024-09-18 02:17:33,888 - Model - INFO - Accuracy: 0.91755
+2024-09-18 02:17:33,889 - Model - INFO - Average Loss: 0.21379
+2024-09-18 02:17:33,889 - Model - INFO - Train accuracy: 0.91755
+2024-09-18 02:17:36,799 - Model - INFO - Test accuracy: 0.87762
+2024-09-18 02:17:36,800 - Model - INFO - Test loss: 0.06181
+2024-09-18 02:17:36,879 - Model - INFO - Precision: 0.69541
+2024-09-18 02:17:36,879 - Model - INFO - Recall: 0.42130
+2024-09-18 02:17:36,879 - Model - INFO - F1 Score: 0.52471
+2024-09-18 02:17:36,879 - Model - INFO - Epoch 50/100:
+2024-09-18 02:17:48,008 - Model - INFO - Accuracy: 0.91252
+2024-09-18 02:17:48,008 - Model - INFO - Average Loss: 0.22335
+2024-09-18 02:17:48,008 - Model - INFO - Train accuracy: 0.91252
+2024-09-18 02:17:50,927 - Model - INFO - Test accuracy: 0.88526
+2024-09-18 02:17:50,928 - Model - INFO - Test loss: 0.05905
+2024-09-18 02:17:51,008 - Model - INFO - Precision: 0.66327
+2024-09-18 02:17:51,008 - Model - INFO - Recall: 0.57769
+2024-09-18 02:17:51,008 - Model - INFO - F1 Score: 0.61753
+2024-09-18 02:17:51,008 - Model - INFO - Epoch 51/100:
+2024-09-18 02:18:02,125 - Model - INFO - Accuracy: 0.91930
+2024-09-18 02:18:02,126 - Model - INFO - Average Loss: 0.21023
+2024-09-18 02:18:02,126 - Model - INFO - Train accuracy: 0.91930
+2024-09-18 02:18:05,011 - Model - INFO - Test accuracy: 0.88449
+2024-09-18 02:18:05,011 - Model - INFO - Test loss: 0.05577
+2024-09-18 02:18:05,089 - Model - INFO - Precision: 0.63004
+2024-09-18 02:18:05,089 - Model - INFO - Recall: 0.67724
+2024-09-18 02:18:05,089 - Model - INFO - F1 Score: 0.65279
+2024-09-18 02:18:05,089 - Model - INFO - Epoch 52/100:
+2024-09-18 02:18:15,848 - Model - INFO - Accuracy: 0.92206
+2024-09-18 02:18:15,848 - Model - INFO - Average Loss: 0.20256
+2024-09-18 02:18:15,848 - Model - INFO - Train accuracy: 0.92206
+2024-09-18 02:18:18,638 - Model - INFO - Test accuracy: 0.87883
+2024-09-18 02:18:18,638 - Model - INFO - Test loss: 0.06626
+2024-09-18 02:18:18,716 - Model - INFO - Precision: 0.59779
+2024-09-18 02:18:18,716 - Model - INFO - Recall: 0.74655
+2024-09-18 02:18:18,716 - Model - INFO - F1 Score: 0.66394
+2024-09-18 02:18:18,716 - Model - INFO - Epoch 53/100:
+2024-09-18 02:18:28,630 - Model - INFO - Accuracy: 0.91678
+2024-09-18 02:18:28,630 - Model - INFO - Average Loss: 0.21206
+2024-09-18 02:18:28,630 - Model - INFO - Train accuracy: 0.91678
+2024-09-18 02:18:31,225 - Model - INFO - Test accuracy: 0.88549
+2024-09-18 02:18:31,225 - Model - INFO - Test loss: 0.05609
+2024-09-18 02:18:31,301 - Model - INFO - Precision: 0.65267
+2024-09-18 02:18:31,301 - Model - INFO - Recall: 0.61090
+2024-09-18 02:18:31,301 - Model - INFO - F1 Score: 0.63110
+2024-09-18 02:18:31,301 - Model - INFO - Epoch 54/100:
+2024-09-18 02:18:41,134 - Model - INFO - Accuracy: 0.91665
+2024-09-18 02:18:41,134 - Model - INFO - Average Loss: 0.21272
+2024-09-18 02:18:41,134 - Model - INFO - Train accuracy: 0.91665
+2024-09-18 02:18:44,017 - Model - INFO - Test accuracy: 0.89084
+2024-09-18 02:18:44,017 - Model - INFO - Test loss: 0.05688
+2024-09-18 02:18:44,089 - Model - INFO - Precision: 0.69812
+2024-09-18 02:18:44,089 - Model - INFO - Recall: 0.56233
+2024-09-18 02:18:44,089 - Model - INFO - F1 Score: 0.62291
+2024-09-18 02:18:44,089 - Model - INFO - Epoch 55/100:
+2024-09-18 02:18:55,241 - Model - INFO - Accuracy: 0.91474
+2024-09-18 02:18:55,241 - Model - INFO - Average Loss: 0.22007
+2024-09-18 02:18:55,242 - Model - INFO - Train accuracy: 0.91474
+2024-09-18 02:18:58,131 - Model - INFO - Test accuracy: 0.90369
+2024-09-18 02:18:58,132 - Model - INFO - Test loss: 0.05116
+2024-09-18 02:18:58,212 - Model - INFO - Precision: 0.73076
+2024-09-18 02:18:58,212 - Model - INFO - Recall: 0.63226
+2024-09-18 02:18:58,212 - Model - INFO - F1 Score: 0.67795
+2024-09-18 02:18:58,212 - Model - INFO - Saving best model...
+2024-09-18 02:18:58,421 - Model - INFO - Epoch 56/100:
+2024-09-18 02:19:09,688 - Model - INFO - Accuracy: 0.92146
+2024-09-18 02:19:09,688 - Model - INFO - Average Loss: 0.20559
+2024-09-18 02:19:09,688 - Model - INFO - Train accuracy: 0.92146
+2024-09-18 02:19:12,587 - Model - INFO - Test accuracy: 0.87710
+2024-09-18 02:19:12,587 - Model - INFO - Test loss: 0.06575
+2024-09-18 02:19:12,670 - Model - INFO - Precision: 0.59083
+2024-09-18 02:19:12,670 - Model - INFO - Recall: 0.75941
+2024-09-18 02:19:12,670 - Model - INFO - F1 Score: 0.66460
+2024-09-18 02:19:12,670 - Model - INFO - Epoch 57/100:
+2024-09-18 02:19:23,833 - Model - INFO - Accuracy: 0.91398
+2024-09-18 02:19:23,834 - Model - INFO - Average Loss: 0.21848
+2024-09-18 02:19:23,834 - Model - INFO - Train accuracy: 0.91398
+2024-09-18 02:19:26,742 - Model - INFO - Test accuracy: 0.89280
+2024-09-18 02:19:26,743 - Model - INFO - Test loss: 0.05662
+2024-09-18 02:19:26,823 - Model - INFO - Precision: 0.70330
+2024-09-18 02:19:26,823 - Model - INFO - Recall: 0.57324
+2024-09-18 02:19:26,823 - Model - INFO - F1 Score: 0.63165
+2024-09-18 02:19:26,823 - Model - INFO - Epoch 58/100:
+2024-09-18 02:19:38,045 - Model - INFO - Accuracy: 0.91236
+2024-09-18 02:19:38,045 - Model - INFO - Average Loss: 0.22672
+2024-09-18 02:19:38,045 - Model - INFO - Train accuracy: 0.91236
+2024-09-18 02:19:40,932 - Model - INFO - Test accuracy: 0.89419
+2024-09-18 02:19:40,933 - Model - INFO - Test loss: 0.05413
+2024-09-18 02:19:41,004 - Model - INFO - Precision: 0.74611
+2024-09-18 02:19:41,004 - Model - INFO - Recall: 0.51548
+2024-09-18 02:19:41,004 - Model - INFO - F1 Score: 0.60971
+2024-09-18 02:19:41,004 - Model - INFO - Epoch 59/100:
+2024-09-18 02:19:52,095 - Model - INFO - Accuracy: 0.91701
+2024-09-18 02:19:52,095 - Model - INFO - Average Loss: 0.21241
+2024-09-18 02:19:52,095 - Model - INFO - Train accuracy: 0.91701
+2024-09-18 02:19:54,957 - Model - INFO - Test accuracy: 0.89364
+2024-09-18 02:19:54,957 - Model - INFO - Test loss: 0.05527
+2024-09-18 02:19:55,033 - Model - INFO - Precision: 0.67778
+2024-09-18 02:19:55,033 - Model - INFO - Recall: 0.64169
+2024-09-18 02:19:55,033 - Model - INFO - F1 Score: 0.65924
+2024-09-18 02:19:55,033 - Model - INFO - Epoch 60/100:
+2024-09-18 02:20:06,100 - Model - INFO - Accuracy: 0.91839
+2024-09-18 02:20:06,100 - Model - INFO - Average Loss: 0.21008
+2024-09-18 02:20:06,100 - Model - INFO - Train accuracy: 0.91839
+2024-09-18 02:20:08,998 - Model - INFO - Test accuracy: 0.85995
+2024-09-18 02:20:08,998 - Model - INFO - Test loss: 0.07578
+2024-09-18 02:20:09,071 - Model - INFO - Precision: 0.54532
+2024-09-18 02:20:09,071 - Model - INFO - Recall: 0.76121
+2024-09-18 02:20:09,071 - Model - INFO - F1 Score: 0.63543
+2024-09-18 02:20:09,071 - Model - INFO - Epoch 61/100:
+2024-09-18 02:20:20,396 - Model - INFO - Accuracy: 0.92291
+2024-09-18 02:20:20,397 - Model - INFO - Average Loss: 0.19757
+2024-09-18 02:20:20,397 - Model - INFO - Train accuracy: 0.92291
+2024-09-18 02:20:23,325 - Model - INFO - Test accuracy: 0.89208
+2024-09-18 02:20:23,325 - Model - INFO - Test loss: 0.05335
+2024-09-18 02:20:23,407 - Model - INFO - Precision: 0.67525
+2024-09-18 02:20:23,407 - Model - INFO - Recall: 0.62977
+2024-09-18 02:20:23,407 - Model - INFO - F1 Score: 0.65171
+2024-09-18 02:20:23,408 - Model - INFO - Epoch 62/100:
+2024-09-18 02:20:34,519 - Model - INFO - Accuracy: 0.92130
+2024-09-18 02:20:34,519 - Model - INFO - Average Loss: 0.20104
+2024-09-18 02:20:34,519 - Model - INFO - Train accuracy: 0.92130
+2024-09-18 02:20:37,482 - Model - INFO - Test accuracy: 0.83064
+2024-09-18 02:20:37,482 - Model - INFO - Test loss: 0.09538
+2024-09-18 02:20:37,557 - Model - INFO - Precision: 0.48294
+2024-09-18 02:20:37,558 - Model - INFO - Recall: 0.79668
+2024-09-18 02:20:37,558 - Model - INFO - F1 Score: 0.60135
+2024-09-18 02:20:37,558 - Model - INFO - Epoch 63/100:
+2024-09-18 02:20:48,687 - Model - INFO - Accuracy: 0.91462
+2024-09-18 02:20:48,688 - Model - INFO - Average Loss: 0.21631
+2024-09-18 02:20:48,688 - Model - INFO - Train accuracy: 0.91462
+2024-09-18 02:20:51,629 - Model - INFO - Test accuracy: 0.87811
+2024-09-18 02:20:51,629 - Model - INFO - Test loss: 0.06297
+2024-09-18 02:20:51,705 - Model - INFO - Precision: 0.78025
+2024-09-18 02:20:51,705 - Model - INFO - Recall: 0.33383
+2024-09-18 02:20:51,705 - Model - INFO - F1 Score: 0.46759
+2024-09-18 02:20:51,705 - Model - INFO - Epoch 64/100:
+2024-09-18 02:21:02,807 - Model - INFO - Accuracy: 0.92193
+2024-09-18 02:21:02,807 - Model - INFO - Average Loss: 0.20365
+2024-09-18 02:21:02,807 - Model - INFO - Train accuracy: 0.92193
+2024-09-18 02:21:05,767 - Model - INFO - Test accuracy: 0.84132
+2024-09-18 02:21:05,767 - Model - INFO - Test loss: 0.07688
+2024-09-18 02:21:05,844 - Model - INFO - Precision: 0.50325
+2024-09-18 02:21:05,845 - Model - INFO - Recall: 0.80229
+2024-09-18 02:21:05,845 - Model - INFO - F1 Score: 0.61852
+2024-09-18 02:21:05,845 - Model - INFO - Epoch 65/100:
+2024-09-18 02:21:17,038 - Model - INFO - Accuracy: 0.92445
+2024-09-18 02:21:17,038 - Model - INFO - Average Loss: 0.20151
+2024-09-18 02:21:17,039 - Model - INFO - Train accuracy: 0.92445
+2024-09-18 02:21:19,993 - Model - INFO - Test accuracy: 0.89477
+2024-09-18 02:21:19,993 - Model - INFO - Test loss: 0.05435
+2024-09-18 02:21:20,067 - Model - INFO - Precision: 0.70906
+2024-09-18 02:21:20,067 - Model - INFO - Recall: 0.58291
+2024-09-18 02:21:20,067 - Model - INFO - F1 Score: 0.63983
+2024-09-18 02:21:20,067 - Model - INFO - Epoch 66/100:
+2024-09-18 02:21:31,298 - Model - INFO - Accuracy: 0.92700
+2024-09-18 02:21:31,299 - Model - INFO - Average Loss: 0.18951
+2024-09-18 02:21:31,299 - Model - INFO - Train accuracy: 0.92700
+2024-09-18 02:21:34,245 - Model - INFO - Test accuracy: 0.89745
+2024-09-18 02:21:34,246 - Model - INFO - Test loss: 0.05646
+2024-09-18 02:21:34,320 - Model - INFO - Precision: 0.66712
+2024-09-18 02:21:34,320 - Model - INFO - Recall: 0.71934
+2024-09-18 02:21:34,320 - Model - INFO - F1 Score: 0.69225
+2024-09-18 02:21:34,320 - Model - INFO - Epoch 67/100:
+2024-09-18 02:21:45,562 - Model - INFO - Accuracy: 0.92396
+2024-09-18 02:21:45,562 - Model - INFO - Average Loss: 0.19759
+2024-09-18 02:21:45,563 - Model - INFO - Train accuracy: 0.92396
+2024-09-18 02:21:48,526 - Model - INFO - Test accuracy: 0.89796
+2024-09-18 02:21:48,526 - Model - INFO - Test loss: 0.05321
+2024-09-18 02:21:48,603 - Model - INFO - Precision: 0.69590
+2024-09-18 02:21:48,604 - Model - INFO - Recall: 0.64583
+2024-09-18 02:21:48,604 - Model - INFO - F1 Score: 0.66993
+2024-09-18 02:21:48,604 - Model - INFO - Epoch 68/100:
+2024-09-18 02:21:59,811 - Model - INFO - Accuracy: 0.91250
+2024-09-18 02:21:59,812 - Model - INFO - Average Loss: 0.22389
+2024-09-18 02:21:59,812 - Model - INFO - Train accuracy: 0.91250
+2024-09-18 02:22:02,715 - Model - INFO - Test accuracy: 0.84721
+2024-09-18 02:22:02,716 - Model - INFO - Test loss: 0.07731
+2024-09-18 02:22:02,793 - Model - INFO - Precision: 0.51590
+2024-09-18 02:22:02,793 - Model - INFO - Recall: 0.76401
+2024-09-18 02:22:02,793 - Model - INFO - F1 Score: 0.61591
+2024-09-18 02:22:02,793 - Model - INFO - Epoch 69/100:
+2024-09-18 02:22:14,097 - Model - INFO - Accuracy: 0.91212
+2024-09-18 02:22:14,098 - Model - INFO - Average Loss: 0.21874
+2024-09-18 02:22:14,098 - Model - INFO - Train accuracy: 0.91212
+2024-09-18 02:22:17,069 - Model - INFO - Test accuracy: 0.84158
+2024-09-18 02:22:17,069 - Model - INFO - Test loss: 0.07790
+2024-09-18 02:22:17,145 - Model - INFO - Precision: 0.50402
+2024-09-18 02:22:17,145 - Model - INFO - Recall: 0.74733
+2024-09-18 02:22:17,145 - Model - INFO - F1 Score: 0.60202
+2024-09-18 02:22:17,145 - Model - INFO - Epoch 70/100:
+2024-09-18 02:22:28,374 - Model - INFO - Accuracy: 0.93032
+2024-09-18 02:22:28,374 - Model - INFO - Average Loss: 0.18790
+2024-09-18 02:22:28,374 - Model - INFO - Train accuracy: 0.93032
+2024-09-18 02:22:31,312 - Model - INFO - Test accuracy: 0.86953
+2024-09-18 02:22:31,313 - Model - INFO - Test loss: 0.06603
+2024-09-18 02:22:31,384 - Model - INFO - Precision: 0.56674
+2024-09-18 02:22:31,385 - Model - INFO - Recall: 0.79075
+2024-09-18 02:22:31,385 - Model - INFO - F1 Score: 0.66027
+2024-09-18 02:22:31,385 - Model - INFO - Epoch 71/100:
+2024-09-18 02:22:42,686 - Model - INFO - Accuracy: 0.92614
+2024-09-18 02:22:42,686 - Model - INFO - Average Loss: 0.19316
+2024-09-18 02:22:42,686 - Model - INFO - Train accuracy: 0.92614
+2024-09-18 02:22:45,634 - Model - INFO - Test accuracy: 0.71463
+2024-09-18 02:22:45,634 - Model - INFO - Test loss: 0.14341
+2024-09-18 02:22:45,721 - Model - INFO - Precision: 0.34716
+2024-09-18 02:22:45,721 - Model - INFO - Recall: 0.88563
+2024-09-18 02:22:45,721 - Model - INFO - F1 Score: 0.49879
+2024-09-18 02:22:45,721 - Model - INFO - Epoch 72/100:
+2024-09-18 02:22:57,024 - Model - INFO - Accuracy: 0.92088
+2024-09-18 02:22:57,024 - Model - INFO - Average Loss: 0.20457
+2024-09-18 02:22:57,024 - Model - INFO - Train accuracy: 0.92088
+2024-09-18 02:22:59,963 - Model - INFO - Test accuracy: 0.88888
+2024-09-18 02:22:59,964 - Model - INFO - Test loss: 0.05853
+2024-09-18 02:23:00,046 - Model - INFO - Precision: 0.80791
+2024-09-18 02:23:00,046 - Model - INFO - Recall: 0.40267
+2024-09-18 02:23:00,046 - Model - INFO - F1 Score: 0.53746
+2024-09-18 02:23:00,047 - Model - INFO - Epoch 73/100:
+2024-09-18 02:23:11,157 - Model - INFO - Accuracy: 0.92675
+2024-09-18 02:23:11,158 - Model - INFO - Average Loss: 0.19341
+2024-09-18 02:23:11,158 - Model - INFO - Train accuracy: 0.92675
+2024-09-18 02:23:14,103 - Model - INFO - Test accuracy: 0.88290
+2024-09-18 02:23:14,103 - Model - INFO - Test loss: 0.06151
+2024-09-18 02:23:14,173 - Model - INFO - Precision: 0.63515
+2024-09-18 02:23:14,174 - Model - INFO - Recall: 0.63366
+2024-09-18 02:23:14,174 - Model - INFO - F1 Score: 0.63441
+2024-09-18 02:23:14,174 - Model - INFO - Epoch 74/100:
+2024-09-18 02:23:25,482 - Model - INFO - Accuracy: 0.92876
+2024-09-18 02:23:25,483 - Model - INFO - Average Loss: 0.18659
+2024-09-18 02:23:25,483 - Model - INFO - Train accuracy: 0.92876
+2024-09-18 02:23:28,512 - Model - INFO - Test accuracy: 0.89285
+2024-09-18 02:23:28,512 - Model - INFO - Test loss: 0.05508
+2024-09-18 02:23:28,590 - Model - INFO - Precision: 0.68595
+2024-09-18 02:23:28,590 - Model - INFO - Recall: 0.61183
+2024-09-18 02:23:28,590 - Model - INFO - F1 Score: 0.64678
+2024-09-18 02:23:28,590 - Model - INFO - Epoch 75/100:
+2024-09-18 02:23:39,967 - Model - INFO - Accuracy: 0.92398
+2024-09-18 02:23:39,967 - Model - INFO - Average Loss: 0.19388
+2024-09-18 02:23:39,968 - Model - INFO - Train accuracy: 0.92398
+2024-09-18 02:23:42,938 - Model - INFO - Test accuracy: 0.89335
+2024-09-18 02:23:42,938 - Model - INFO - Test loss: 0.05448
+2024-09-18 02:23:43,012 - Model - INFO - Precision: 0.67407
+2024-09-18 02:23:43,012 - Model - INFO - Recall: 0.64832
+2024-09-18 02:23:43,012 - Model - INFO - F1 Score: 0.66094
+2024-09-18 02:23:43,012 - Model - INFO - Epoch 76/100:
+2024-09-18 02:23:54,277 - Model - INFO - Accuracy: 0.92184
+2024-09-18 02:23:54,277 - Model - INFO - Average Loss: 0.20369
+2024-09-18 02:23:54,277 - Model - INFO - Train accuracy: 0.92184
+2024-09-18 02:23:57,224 - Model - INFO - Test accuracy: 0.89117
+2024-09-18 02:23:57,225 - Model - INFO - Test loss: 0.05528
+2024-09-18 02:23:57,299 - Model - INFO - Precision: 0.72268
+2024-09-18 02:23:57,299 - Model - INFO - Recall: 0.52132
+2024-09-18 02:23:57,299 - Model - INFO - F1 Score: 0.60571
+2024-09-18 02:23:57,299 - Model - INFO - Epoch 77/100:
+2024-09-18 02:24:08,577 - Model - INFO - Accuracy: 0.92134
+2024-09-18 02:24:08,577 - Model - INFO - Average Loss: 0.20402
+2024-09-18 02:24:08,578 - Model - INFO - Train accuracy: 0.92134
+2024-09-18 02:24:11,590 - Model - INFO - Test accuracy: 0.76426
+2024-09-18 02:24:11,591 - Model - INFO - Test loss: 0.13840
+2024-09-18 02:24:11,667 - Model - INFO - Precision: 0.39177
+2024-09-18 02:24:11,667 - Model - INFO - Recall: 0.85110
+2024-09-18 02:24:11,667 - Model - INFO - F1 Score: 0.53655
+2024-09-18 02:24:11,667 - Model - INFO - Epoch 78/100:
+2024-09-18 02:24:22,964 - Model - INFO - Accuracy: 0.91828
+2024-09-18 02:24:22,964 - Model - INFO - Average Loss: 0.20771
+2024-09-18 02:24:22,964 - Model - INFO - Train accuracy: 0.91828
+2024-09-18 02:24:25,891 - Model - INFO - Test accuracy: 0.89730
+2024-09-18 02:24:25,891 - Model - INFO - Test loss: 0.05072
+2024-09-18 02:24:25,963 - Model - INFO - Precision: 0.83187
+2024-09-18 02:24:25,963 - Model - INFO - Recall: 0.45053
+2024-09-18 02:24:25,963 - Model - INFO - F1 Score: 0.58450
+2024-09-18 02:24:25,964 - Model - INFO - Epoch 79/100:
+2024-09-18 02:24:37,343 - Model - INFO - Accuracy: 0.92622
+2024-09-18 02:24:37,344 - Model - INFO - Average Loss: 0.19292
+2024-09-18 02:24:37,344 - Model - INFO - Train accuracy: 0.92622
+2024-09-18 02:24:40,375 - Model - INFO - Test accuracy: 0.90341
+2024-09-18 02:24:40,376 - Model - INFO - Test loss: 0.05213
+2024-09-18 02:24:40,452 - Model - INFO - Precision: 0.73249
+2024-09-18 02:24:40,452 - Model - INFO - Recall: 0.62634
+2024-09-18 02:24:40,452 - Model - INFO - F1 Score: 0.67527
+2024-09-18 02:24:40,453 - Model - INFO - Epoch 80/100:
+2024-09-18 02:24:51,895 - Model - INFO - Accuracy: 0.92907
+2024-09-18 02:24:51,895 - Model - INFO - Average Loss: 0.18532
+2024-09-18 02:24:51,895 - Model - INFO - Train accuracy: 0.92907
+2024-09-18 02:24:54,823 - Model - INFO - Test accuracy: 0.84465
+2024-09-18 02:24:54,823 - Model - INFO - Test loss: 0.08214
+2024-09-18 02:24:54,897 - Model - INFO - Precision: 0.51159
+2024-09-18 02:24:54,898 - Model - INFO - Recall: 0.68675
+2024-09-18 02:24:54,898 - Model - INFO - F1 Score: 0.58637
+2024-09-18 02:24:54,898 - Model - INFO - Epoch 81/100:
+2024-09-18 02:25:05,992 - Model - INFO - Accuracy: 0.93399
+2024-09-18 02:25:05,992 - Model - INFO - Average Loss: 0.17729
+2024-09-18 02:25:05,992 - Model - INFO - Train accuracy: 0.93399
+2024-09-18 02:25:08,920 - Model - INFO - Test accuracy: 0.87019
+2024-09-18 02:25:08,921 - Model - INFO - Test loss: 0.07484
+2024-09-18 02:25:08,997 - Model - INFO - Precision: 0.57711
+2024-09-18 02:25:08,997 - Model - INFO - Recall: 0.71240
+2024-09-18 02:25:08,997 - Model - INFO - F1 Score: 0.63766
+2024-09-18 02:25:08,997 - Model - INFO - Epoch 82/100:
+2024-09-18 02:25:20,410 - Model - INFO - Accuracy: 0.93270
+2024-09-18 02:25:20,410 - Model - INFO - Average Loss: 0.17945
+2024-09-18 02:25:20,410 - Model - INFO - Train accuracy: 0.93270
+2024-09-18 02:25:23,363 - Model - INFO - Test accuracy: 0.87979
+2024-09-18 02:25:23,363 - Model - INFO - Test loss: 0.06920
+2024-09-18 02:25:23,440 - Model - INFO - Precision: 0.60126
+2024-09-18 02:25:23,440 - Model - INFO - Recall: 0.74296
+2024-09-18 02:25:23,440 - Model - INFO - F1 Score: 0.66464
+2024-09-18 02:25:23,440 - Model - INFO - Epoch 83/100:
+2024-09-18 02:25:34,675 - Model - INFO - Accuracy: 0.93139
+2024-09-18 02:25:34,675 - Model - INFO - Average Loss: 0.18054
+2024-09-18 02:25:34,675 - Model - INFO - Train accuracy: 0.93139
+2024-09-18 02:25:37,642 - Model - INFO - Test accuracy: 0.88256
+2024-09-18 02:25:37,642 - Model - INFO - Test loss: 0.05933
+2024-09-18 02:25:37,720 - Model - INFO - Precision: 0.66061
+2024-09-18 02:25:37,720 - Model - INFO - Recall: 0.55025
+2024-09-18 02:25:37,720 - Model - INFO - F1 Score: 0.60040
+2024-09-18 02:25:37,720 - Model - INFO - Epoch 84/100:
+2024-09-18 02:25:48,884 - Model - INFO - Accuracy: 0.92927
+2024-09-18 02:25:48,884 - Model - INFO - Average Loss: 0.18256
+2024-09-18 02:25:48,884 - Model - INFO - Train accuracy: 0.92927
+2024-09-18 02:25:51,808 - Model - INFO - Test accuracy: 0.87975
+2024-09-18 02:25:51,808 - Model - INFO - Test loss: 0.06679
+2024-09-18 02:25:51,886 - Model - INFO - Precision: 0.60640
+2024-09-18 02:25:51,886 - Model - INFO - Recall: 0.71248
+2024-09-18 02:25:51,886 - Model - INFO - F1 Score: 0.65517
+2024-09-18 02:25:51,886 - Model - INFO - Epoch 85/100:
+2024-09-18 02:26:03,252 - Model - INFO - Accuracy: 0.93329
+2024-09-18 02:26:03,252 - Model - INFO - Average Loss: 0.17649
+2024-09-18 02:26:03,252 - Model - INFO - Train accuracy: 0.93329
+2024-09-18 02:26:06,174 - Model - INFO - Test accuracy: 0.81082
+2024-09-18 02:26:06,174 - Model - INFO - Test loss: 0.10700
+2024-09-18 02:26:06,247 - Model - INFO - Precision: 0.44811
+2024-09-18 02:26:06,247 - Model - INFO - Recall: 0.77657
+2024-09-18 02:26:06,247 - Model - INFO - F1 Score: 0.56829
+2024-09-18 02:26:06,247 - Model - INFO - Epoch 86/100:
+2024-09-18 02:26:17,455 - Model - INFO - Accuracy: 0.92985
+2024-09-18 02:26:17,455 - Model - INFO - Average Loss: 0.18479
+2024-09-18 02:26:17,456 - Model - INFO - Train accuracy: 0.92985
+2024-09-18 02:26:20,386 - Model - INFO - Test accuracy: 0.88655
+2024-09-18 02:26:20,386 - Model - INFO - Test loss: 0.06200
+2024-09-18 02:26:20,460 - Model - INFO - Precision: 0.65180
+2024-09-18 02:26:20,460 - Model - INFO - Recall: 0.62782
+2024-09-18 02:26:20,460 - Model - INFO - F1 Score: 0.63958
+2024-09-18 02:26:20,460 - Model - INFO - Epoch 87/100:
+2024-09-18 02:26:31,715 - Model - INFO - Accuracy: 0.93016
+2024-09-18 02:26:31,715 - Model - INFO - Average Loss: 0.17969
+2024-09-18 02:26:31,716 - Model - INFO - Train accuracy: 0.93016
+2024-09-18 02:26:34,686 - Model - INFO - Test accuracy: 0.77065
+2024-09-18 02:26:34,686 - Model - INFO - Test loss: 0.11540
+2024-09-18 02:26:34,766 - Model - INFO - Precision: 0.40204
+2024-09-18 02:26:34,766 - Model - INFO - Recall: 0.88329
+2024-09-18 02:26:34,766 - Model - INFO - F1 Score: 0.55258
+2024-09-18 02:26:34,766 - Model - INFO - Epoch 88/100:
+2024-09-18 02:26:45,945 - Model - INFO - Accuracy: 0.92974
+2024-09-18 02:26:45,945 - Model - INFO - Average Loss: 0.18262
+2024-09-18 02:26:45,945 - Model - INFO - Train accuracy: 0.92974
+2024-09-18 02:26:48,867 - Model - INFO - Test accuracy: 0.90188
+2024-09-18 02:26:48,868 - Model - INFO - Test loss: 0.05442
+2024-09-18 02:26:48,942 - Model - INFO - Precision: 0.73082
+2024-09-18 02:26:48,942 - Model - INFO - Recall: 0.61425
+2024-09-18 02:26:48,942 - Model - INFO - F1 Score: 0.66749
+2024-09-18 02:26:48,942 - Model - INFO - Epoch 89/100:
+2024-09-18 02:27:00,156 - Model - INFO - Accuracy: 0.92958
+2024-09-18 02:27:00,156 - Model - INFO - Average Loss: 0.18276
+2024-09-18 02:27:00,156 - Model - INFO - Train accuracy: 0.92958
+2024-09-18 02:27:03,102 - Model - INFO - Test accuracy: 0.87035
+2024-09-18 02:27:03,102 - Model - INFO - Test loss: 0.06974
+2024-09-18 02:27:03,187 - Model - INFO - Precision: 0.58051
+2024-09-18 02:27:03,187 - Model - INFO - Recall: 0.69003
+2024-09-18 02:27:03,187 - Model - INFO - F1 Score: 0.63055
+2024-09-18 02:27:03,187 - Model - INFO - Epoch 90/100:
+2024-09-18 02:27:14,506 - Model - INFO - Accuracy: 0.93179
+2024-09-18 02:27:14,506 - Model - INFO - Average Loss: 0.18345
+2024-09-18 02:27:14,507 - Model - INFO - Train accuracy: 0.93179
+2024-09-18 02:27:17,408 - Model - INFO - Test accuracy: 0.88806
+2024-09-18 02:27:17,408 - Model - INFO - Test loss: 0.05628
+2024-09-18 02:27:17,488 - Model - INFO - Precision: 0.70853
+2024-09-18 02:27:17,488 - Model - INFO - Recall: 0.51282
+2024-09-18 02:27:17,488 - Model - INFO - F1 Score: 0.59500
+2024-09-18 02:27:17,488 - Model - INFO - Epoch 91/100:
+2024-09-18 02:27:28,642 - Model - INFO - Accuracy: 0.92778
+2024-09-18 02:27:28,642 - Model - INFO - Average Loss: 0.18840
+2024-09-18 02:27:28,642 - Model - INFO - Train accuracy: 0.92778
+2024-09-18 02:27:31,541 - Model - INFO - Test accuracy: 0.88853
+2024-09-18 02:27:31,541 - Model - INFO - Test loss: 0.05316
+2024-09-18 02:27:31,616 - Model - INFO - Precision: 0.73332
+2024-09-18 02:27:31,616 - Model - INFO - Recall: 0.47891
+2024-09-18 02:27:31,616 - Model - INFO - F1 Score: 0.57942
+2024-09-18 02:27:31,617 - Model - INFO - Epoch 92/100:
+2024-09-18 02:27:42,789 - Model - INFO - Accuracy: 0.92762
+2024-09-18 02:27:42,790 - Model - INFO - Average Loss: 0.18702
+2024-09-18 02:27:42,790 - Model - INFO - Train accuracy: 0.92762
+2024-09-18 02:27:45,701 - Model - INFO - Test accuracy: 0.87564
+2024-09-18 02:27:45,701 - Model - INFO - Test loss: 0.06722
+2024-09-18 02:27:45,781 - Model - INFO - Precision: 0.58759
+2024-09-18 02:27:45,781 - Model - INFO - Recall: 0.75255
+2024-09-18 02:27:45,781 - Model - INFO - F1 Score: 0.65992
+2024-09-18 02:27:45,781 - Model - INFO - Epoch 93/100:
+2024-09-18 02:27:57,116 - Model - INFO - Accuracy: 0.93390
+2024-09-18 02:27:57,116 - Model - INFO - Average Loss: 0.17701
+2024-09-18 02:27:57,116 - Model - INFO - Train accuracy: 0.93390
+2024-09-18 02:28:00,042 - Model - INFO - Test accuracy: 0.87893
+2024-09-18 02:28:00,042 - Model - INFO - Test loss: 0.05987
+2024-09-18 02:28:00,119 - Model - INFO - Precision: 0.60337
+2024-09-18 02:28:00,119 - Model - INFO - Recall: 0.71466
+2024-09-18 02:28:00,119 - Model - INFO - F1 Score: 0.65432
+2024-09-18 02:28:00,119 - Model - INFO - Epoch 94/100:
+2024-09-18 02:28:11,319 - Model - INFO - Accuracy: 0.92622
+2024-09-18 02:28:11,319 - Model - INFO - Average Loss: 0.19046
+2024-09-18 02:28:11,320 - Model - INFO - Train accuracy: 0.92622
+2024-09-18 02:28:14,331 - Model - INFO - Test accuracy: 0.88276
+2024-09-18 02:28:14,331 - Model - INFO - Test loss: 0.06067
+2024-09-18 02:28:14,407 - Model - INFO - Precision: 0.69889
+2024-09-18 02:28:14,407 - Model - INFO - Recall: 0.47229
+2024-09-18 02:28:14,407 - Model - INFO - F1 Score: 0.56367
+2024-09-18 02:28:14,407 - Model - INFO - Epoch 95/100:
+2024-09-18 02:28:25,532 - Model - INFO - Accuracy: 0.92566
+2024-09-18 02:28:25,532 - Model - INFO - Average Loss: 0.18669
+2024-09-18 02:28:25,532 - Model - INFO - Train accuracy: 0.92566
+2024-09-18 02:28:28,416 - Model - INFO - Test accuracy: 0.88372
+2024-09-18 02:28:28,416 - Model - INFO - Test loss: 0.05791
+2024-09-18 02:28:28,496 - Model - INFO - Precision: 0.65690
+2024-09-18 02:28:28,496 - Model - INFO - Recall: 0.57527
+2024-09-18 02:28:28,496 - Model - INFO - F1 Score: 0.61338
+2024-09-18 02:28:28,496 - Model - INFO - Epoch 96/100:
+2024-09-18 02:28:39,739 - Model - INFO - Accuracy: 0.92904
+2024-09-18 02:28:39,739 - Model - INFO - Average Loss: 0.18667
+2024-09-18 02:28:39,739 - Model - INFO - Train accuracy: 0.92904
+2024-09-18 02:28:42,759 - Model - INFO - Test accuracy: 0.89871
+2024-09-18 02:28:42,760 - Model - INFO - Test loss: 0.05373
+2024-09-18 02:28:42,835 - Model - INFO - Precision: 0.78644
+2024-09-18 02:28:42,835 - Model - INFO - Recall: 0.50557
+2024-09-18 02:28:42,835 - Model - INFO - F1 Score: 0.61548
+2024-09-18 02:28:42,835 - Model - INFO - Epoch 97/100:
+2024-09-18 02:28:53,939 - Model - INFO - Accuracy: 0.93002
+2024-09-18 02:28:53,939 - Model - INFO - Average Loss: 0.18125
+2024-09-18 02:28:53,939 - Model - INFO - Train accuracy: 0.93002
+2024-09-18 02:28:56,866 - Model - INFO - Test accuracy: 0.88147
+2024-09-18 02:28:56,866 - Model - INFO - Test loss: 0.08315
+2024-09-18 02:28:56,942 - Model - INFO - Precision: 0.62177
+2024-09-18 02:28:56,942 - Model - INFO - Recall: 0.66578
+2024-09-18 02:28:56,942 - Model - INFO - F1 Score: 0.64302
+2024-09-18 02:28:56,942 - Model - INFO - Epoch 98/100:
+2024-09-18 02:29:08,185 - Model - INFO - Accuracy: 0.92814
+2024-09-18 02:29:08,185 - Model - INFO - Average Loss: 0.18962
+2024-09-18 02:29:08,185 - Model - INFO - Train accuracy: 0.92814
+2024-09-18 02:29:11,130 - Model - INFO - Test accuracy: 0.74768
+2024-09-18 02:29:11,130 - Model - INFO - Test loss: 0.13519
+2024-09-18 02:29:11,211 - Model - INFO - Precision: 0.37596
+2024-09-18 02:29:11,211 - Model - INFO - Recall: 0.86949
+2024-09-18 02:29:11,212 - Model - INFO - F1 Score: 0.52495
+2024-09-18 02:29:11,212 - Model - INFO - Epoch 99/100:
+2024-09-18 02:29:21,673 - Model - INFO - Accuracy: 0.93094
+2024-09-18 02:29:21,673 - Model - INFO - Average Loss: 0.18432
+2024-09-18 02:29:21,673 - Model - INFO - Train accuracy: 0.93094
+2024-09-18 02:29:24,287 - Model - INFO - Test accuracy: 0.88017
+2024-09-18 02:29:24,288 - Model - INFO - Test loss: 0.06108
+2024-09-18 02:29:24,364 - Model - INFO - Precision: 0.60095
+2024-09-18 02:29:24,364 - Model - INFO - Recall: 0.75209
+2024-09-18 02:29:24,364 - Model - INFO - F1 Score: 0.66807
+2024-09-18 02:29:24,364 - Model - INFO - Epoch 100/100:
+2024-09-18 02:29:34,385 - Model - INFO - Accuracy: 0.92920
+2024-09-18 02:29:34,385 - Model - INFO - Average Loss: 0.18422
+2024-09-18 02:29:34,386 - Model - INFO - Train accuracy: 0.92920
+2024-09-18 02:29:37,004 - Model - INFO - Test accuracy: 0.88835
+2024-09-18 02:29:37,004 - Model - INFO - Test loss: 0.05858
+2024-09-18 02:29:37,087 - Model - INFO - Precision: 0.67328
+2024-09-18 02:29:37,087 - Model - INFO - Recall: 0.58993
+2024-09-18 02:29:37,087 - Model - INFO - F1 Score: 0.62885
