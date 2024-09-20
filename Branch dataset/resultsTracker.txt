@@ -1,0 +1,2670 @@
+Working on tree: tree_1_V_0000
+	 Spajanje: 0
+		 Iteracija: 0
+ 			 Fitness: 0.8528959324580546	 Inlier_RMSE: 0.03187015610778281	 Correspondence set: 71523
+		 Iteracija: 1
+ 			 Fitness: 0.8535637200539	 Inlier_RMSE: 0.03197750403283554	 Correspondence set: 71579
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 1
+		 Iteracija: 0
+ 			 Fitness: 0.8539111434814275	 Inlier_RMSE: 0.021880766262960157	 Correspondence set: 58621
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Fitness: 0.8540568099053168	 Inlier_RMSE: 0.021919444096051753	 Correspondence set: 58631
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 2
+		 Iteracija: 0
+ 			 Fitness: 1.0	 Inlier_RMSE: 0.010431887780806766	 Correspondence set: 41819
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+
+	Za drvo tree_1_V_0000 najbolja preklapanja su bila u iteracijama: [1, 2, 0]
+
+Working on tree: tree_1_V_0001
+	 Spajanje: 0
+		 Iteracija: 0
+ 			 Fitness: 0.7808569056892919	 Inlier_RMSE: 0.03516498410391016	 Correspondence set: 36687
+		 Iteracija: 1
+ 			 Fitness: 0.7811123172211225	 Inlier_RMSE: 0.03520449692502022	 Correspondence set: 36699
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Fitness: 0.7894344762999382	 Inlier_RMSE: 0.0364878976654507	 Correspondence set: 37090
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 1
+		 Iteracija: 0
+ 			 Fitness: 0.9714716302680979	 Inlier_RMSE: 0.016340910196078234	 Correspondence set: 36743
+		 Iteracija: 1
+ 			 Fitness: 0.9716038284596267	 Inlier_RMSE: 0.016381153344310923	 Correspondence set: 36748
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 2
+		 Iteracija: 0
+ 			 Fitness: 0.7842801658876967	 Inlier_RMSE: 0.05704122821579704	 Correspondence set: 23828
+		 Iteracija: 1
+ 			 Fitness: 0.9413139358830886	 Inlier_RMSE: 0.02240650096945598	 Correspondence set: 28599
+		 Iteracija: 2
+ 			 Fitness: 0.9420380488447107	 Inlier_RMSE: 0.022570132897589912	 Correspondence set: 28621
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+
+	Za drvo tree_1_V_0001 najbolja preklapanja su bila u iteracijama: [3, 1, 2]
+
+Working on tree: tree_1_V_0002
+	 Spajanje: 0
+		 Iteracija: 0
+ 			 Fitness: 0.5092170682401792	 Inlier_RMSE: 0.06205127462440684	 Correspondence set: 46601
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Fitness: 0.6803256296781949	 Inlier_RMSE: 0.036693712093735106	 Correspondence set: 62260
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 1
+		 Iteracija: 0
+ 			 Fitness: 0.9016264625784437	 Inlier_RMSE: 0.01806829290686368	 Correspondence set: 83762
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 2
+		 Iteracija: 0
+ 			 Fitness: 0.9079563571143882	 Inlier_RMSE: 0.04346397874517371	 Correspondence set: 36449
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Fitness: 0.9270874850538063	 Inlier_RMSE: 0.049215064308219314	 Correspondence set: 37217
+		 Iteracija: 4
+ 			 Nema promjene
+
+	Za drvo tree_1_V_0002 najbolja preklapanja su bila u iteracijama: [2, 0, 3]
+
+Working on tree: tree_1_V_0003
+	 Spajanje: 0
+		 Iteracija: 0
+ 			 Fitness: 0.8748876553000264	 Inlier_RMSE: 0.025220173098872523	 Correspondence set: 33097
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Fitness: 0.8750462595823421	 Inlier_RMSE: 0.02525454122392579	 Correspondence set: 33103
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 1
+		 Iteracija: 0
+ 			 Fitness: 0.894958162568306	 Inlier_RMSE: 0.02062824590849225	 Correspondence set: 41927
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 2
+		 Iteracija: 0
+ 			 Fitness: 0.773769397630569	 Inlier_RMSE: 0.05097718658193451	 Correspondence set: 23186
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Fitness: 0.852461204738862	 Inlier_RMSE: 0.02864471893969989	 Correspondence set: 25544
+		 Iteracija: 3
+ 			 Fitness: 0.8524945770065075	 Inlier_RMSE: 0.028650933538984364	 Correspondence set: 25545
+		 Iteracija: 4
+ 			 Nema promjene
+
+	Za drvo tree_1_V_0003 najbolja preklapanja su bila u iteracijama: [2, 0, 3]
+
+Working on tree: tree_1_V_0004
+	 Spajanje: 0
+		 Iteracija: 0
+ 			 Fitness: 0.8253165771297007	 Inlier_RMSE: 0.027376979811979483	 Correspondence set: 86031
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 1
+		 Iteracija: 0
+ 			 Fitness: 0.8600770627010158	 Inlier_RMSE: 0.04995341607946204	 Correspondence set: 27009
+		 Iteracija: 1
+ 			 Fitness: 0.8707129892048531	 Inlier_RMSE: 0.0455030612899699	 Correspondence set: 27343
+		 Iteracija: 2
+ 			 Fitness: 0.9395917587491641	 Inlier_RMSE: 0.012412015442757924	 Correspondence set: 29506
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 2
+		 Iteracija: 0
+ 			 Fitness: 0.8165856622114216	 Inlier_RMSE: 0.049991990260278986	 Correspondence set: 40323
+		 Iteracija: 1
+ 			 Fitness: 0.9912717699473471	 Inlier_RMSE: 0.014633156701801963	 Correspondence set: 48949
+		 Iteracija: 2
+ 			 Fitness: 0.9913122721749696	 Inlier_RMSE: 0.014646333767181408	 Correspondence set: 48951
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+
+	Za drvo tree_1_V_0004 najbolja preklapanja su bila u iteracijama: [0, 2, 2]
+
+Working on tree: tree_1_V_0005
+	 Spajanje: 0
+		 Iteracija: 0
+ 			 Fitness: 0.7382315120647488	 Inlier_RMSE: 0.021342372302797858	 Correspondence set: 58558
+		 Iteracija: 1
+ 			 Fitness: 0.7382567257507375	 Inlier_RMSE: 0.021350262133874538	 Correspondence set: 58560
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 1
+		 Iteracija: 0
+ 			 Fitness: 0.7464205644061161	 Inlier_RMSE: 0.053739105107447796	 Correspondence set: 62924
+		 Iteracija: 1
+ 			 Fitness: 0.7644986417717465	 Inlier_RMSE: 0.045303139119856325	 Correspondence set: 64448
+		 Iteracija: 2
+ 			 Fitness: 0.7674286188775934	 Inlier_RMSE: 0.04545461383366011	 Correspondence set: 64695
+		 Iteracija: 3
+ 			 Fitness: 0.7793145988778306	 Inlier_RMSE: 0.02962410865620482	 Correspondence set: 65697
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 2
+		 Iteracija: 0
+ 			 Fitness: 0.9998008325200661	 Inlier_RMSE: 0.009243540417290173	 Correspondence set: 50199
+		 Iteracija: 1
+ 			 Fitness: 0.9998207492680595	 Inlier_RMSE: 0.009263075960856378	 Correspondence set: 50200
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+
+	Za drvo tree_1_V_0005 najbolja preklapanja su bila u iteracijama: [1, 3, 1]
+
+Working on tree: tree_1_V_0006
+	 Spajanje: 0
+		 Iteracija: 0
+ 			 Fitness: 0.9913456089291032	 Inlier_RMSE: 0.011426673952589964	 Correspondence set: 103208
+		 Iteracija: 1
+ 			 Fitness: 0.9913552142466069	 Inlier_RMSE: 0.011430121190952852	 Correspondence set: 103209
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 1
+		 Iteracija: 0
+ 			 Fitness: 0.7523316739825237	 Inlier_RMSE: 0.053326968647707404	 Correspondence set: 92038
+		 Iteracija: 1
+ 			 Fitness: 0.7674783589592683	 Inlier_RMSE: 0.05248438539070748	 Correspondence set: 93891
+		 Iteracija: 2
+ 			 Fitness: 0.7968562250177788	 Inlier_RMSE: 0.051695522373072685	 Correspondence set: 97485
+		 Iteracija: 3
+ 			 Fitness: 0.808398113408045	 Inlier_RMSE: 0.051123244422337136	 Correspondence set: 98897
+		 Iteracija: 4
+ 			 Fitness: 0.8413317312015172	 Inlier_RMSE: 0.05195454266016258	 Correspondence set: 102926
+			 Nastao je problem 4 (broj pokušaja: 1)
+		 Iteracija: 4
+ 			 Nema promjene
+			 Nastao je problem 4 (broj pokušaja: 2)
+		 Iteracija: 4
+ 			 Nema promjene
+			 Nastao je problem 4 (broj pokušaja: 3)
+		 Iteracija: 4
+ 			 Nema promjene
+			 Nastao je problem 4 (broj pokušaja: 4)
+		 Iteracija: 4
+ 			 Nema promjene
+			 Nastao je problem 4 (broj pokušaja: 5)
+			Previše ponavljanja zbog problema 4
+	 Spajanje: 2
+		 Iteracija: 0
+ 			 Fitness: 0.8870997531776281	 Inlier_RMSE: 0.04146271887478234	 Correspondence set: 52833
+		 Iteracija: 1
+ 			 Fitness: 0.9003475661970886	 Inlier_RMSE: 0.022458494530023725	 Correspondence set: 53622
+		 Iteracija: 2
+ 			 Nastao je problem 3
+		 Iteracija: 3
+ 			 Nastao je problem 3
+		 Iteracija: 4
+ 			 Nema promjene
+			 Nastao je problem 4 (broj pokušaja: 1)
+		 Iteracija: 4
+ 			 Nastao je problem 3
+			 Nastao je problem 4 (broj pokušaja: 2)
+		 Iteracija: 4
+ 			 Nastao je problem 3
+			 Nastao je problem 4 (broj pokušaja: 3)
+		 Iteracija: 4
+ 			 Nastao je problem 3
+			 Nastao je problem 4 (broj pokušaja: 4)
+		 Iteracija: 4
+ 			 Nastao je problem 3
+			 Nastao je problem 4 (broj pokušaja: 5)
+			Previše ponavljanja zbog problema 4
+
+	Za drvo tree_1_V_0006 najbolja preklapanja su bila u iteracijama: [1, 4, 1]
+
+Working on tree: tree_1_V_0007
+	 Spajanje: 0
+		 Iteracija: 0
+ 			 Fitness: 0.7385879067661228	 Inlier_RMSE: 0.03297412526702973	 Correspondence set: 58717
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Fitness: 0.7386004855406986	 Inlier_RMSE: 0.03297650263994655	 Correspondence set: 58718
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 1
+		 Iteracija: 0
+ 			 Fitness: 0.7692037223693772	 Inlier_RMSE: 0.046461641516028176	 Correspondence set: 32815
+		 Iteracija: 1
+ 			 Fitness: 0.79388668807576	 Inlier_RMSE: 0.05475536819303208	 Correspondence set: 33868
+		 Iteracija: 2
+ 			 Fitness: 0.8145144276974285	 Inlier_RMSE: 0.053508328935775035	 Correspondence set: 34748
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+			 Nastao je problem 4 (broj pokušaja: 1)
+		 Iteracija: 4
+ 			 Nema promjene
+			 Nastao je problem 4 (broj pokušaja: 2)
+		 Iteracija: 4
+ 			 Nema promjene
+			 Nastao je problem 4 (broj pokušaja: 3)
+		 Iteracija: 4
+ 			 Nema promjene
+			 Nastao je problem 4 (broj pokušaja: 4)
+		 Iteracija: 4
+ 			 Nema promjene
+			 Nastao je problem 4 (broj pokušaja: 5)
+			Previše ponavljanja zbog problema 4
+	 Spajanje: 2
+		 Iteracija: 0
+ 			 Fitness: 0.9104459466031221	 Inlier_RMSE: 0.045825977331812776	 Correspondence set: 37443
+		 Iteracija: 1
+ 			 Fitness: 0.963988717599572	 Inlier_RMSE: 0.028305427755111034	 Correspondence set: 39645
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+
+	Za drvo tree_1_V_0007 najbolja preklapanja su bila u iteracijama: [2, 2, 1]
+
+Working on tree: tree_1_V_0008
+	 Spajanje: 0
+		 Iteracija: 0
+ 			 Fitness: 0.8788377078866848	 Inlier_RMSE: 0.025361423119722466	 Correspondence set: 42222
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Fitness: 0.8788585225735279	 Inlier_RMSE: 0.025365800671247846	 Correspondence set: 42223
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 1
+		 Iteracija: 0
+ 			 Fitness: 0.9442244858735345	 Inlier_RMSE: 0.02198360793924575	 Correspondence set: 49128
+		 Iteracija: 1
+ 			 Fitness: 0.9442437055544878	 Inlier_RMSE: 0.02198842207095699	 Correspondence set: 49129
+		 Iteracija: 2
+ 			 Fitness: 0.9442821449163944	 Inlier_RMSE: 0.021996916894735104	 Correspondence set: 49131
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 2
+		 Iteracija: 0
+ 			 Fitness: 0.9775557684412207	 Inlier_RMSE: 0.01702730929897897	 Correspondence set: 50001
+		 Iteracija: 1
+ 			 Fitness: 0.9778881307552445	 Inlier_RMSE: 0.017123129612153815	 Correspondence set: 50018
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Fitness: 0.9779076814795988	 Inlier_RMSE: 0.017128744724596284	 Correspondence set: 50019
+
+	Za drvo tree_1_V_0008 najbolja preklapanja su bila u iteracijama: [2, 2, 4]
+
+Working on tree: tree_1_V_0009
+	 Spajanje: 0
+		 Iteracija: 0
+ 			 Fitness: 0.9327648766328012	 Inlier_RMSE: 0.021652405515708795	 Correspondence set: 25707
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Fitness: 0.9328737300435413	 Inlier_RMSE: 0.021679661940552302	 Correspondence set: 25710
+	 Spajanje: 1
+		 Iteracija: 0
+ 			 Fitness: 0.9563023808531043	 Inlier_RMSE: 0.02606673938017109	 Correspondence set: 45870
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 2
+		 Iteracija: 0
+ 			 Fitness: 0.8962050962362659	 Inlier_RMSE: 0.026891373794783822	 Correspondence set: 46004
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Fitness: 0.896321982389153	 Inlier_RMSE: 0.0269137976157024	 Correspondence set: 46010
+		 Iteracija: 4
+ 			 Nema promjene
+
+	Za drvo tree_1_V_0009 najbolja preklapanja su bila u iteracijama: [4, 0, 3]
+
+Working on tree: tree_1_V_0010
+	 Spajanje: 0
+		 Iteracija: 0
+ 			 Fitness: 0.8485761023124396	 Inlier_RMSE: 0.027339261194367564	 Correspondence set: 22825
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Fitness: 0.8487619897390141	 Inlier_RMSE: 0.027375186058059792	 Correspondence set: 22830
+	 Spajanje: 1
+		 Iteracija: 0
+ 			 Fitness: 0.9130111721465913	 Inlier_RMSE: 0.02487632877951397	 Correspondence set: 34405
+		 Iteracija: 1
+ 			 Fitness: 0.9130907836424913	 Inlier_RMSE: 0.024893000946732694	 Correspondence set: 34408
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 2
+		 Iteracija: 0
+ 			 Fitness: 0.9087051938551572	 Inlier_RMSE: 0.01826531321860796	 Correspondence set: 43477
+		 Iteracija: 1
+ 			 Fitness: 0.9087260946807398	 Inlier_RMSE: 0.01827177381374082	 Correspondence set: 43478
+		 Iteracija: 2
+ 			 Fitness: 0.9087469955063225	 Inlier_RMSE: 0.01827834042167665	 Correspondence set: 43479
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+
+	Za drvo tree_1_V_0010 najbolja preklapanja su bila u iteracijama: [4, 1, 2]
+
+Working on tree: tree_1_V_0012
+	 Spajanje: 0
+		 Iteracija: 0
+ 			 Fitness: 0.5712373910570602	 Inlier_RMSE: 0.03740931139373427	 Correspondence set: 34148
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nastao je problem 3
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nastao je problem 3
+	 Spajanje: 1
+		 Iteracija: 0
+ 			 Fitness: 0.7425714217523092	 Inlier_RMSE: 0.050538778932102256	 Correspondence set: 31113
+		 Iteracija: 1
+ 			 Fitness: 0.8083247810210268	 Inlier_RMSE: 0.05239344592219558	 Correspondence set: 33868
+		 Iteracija: 2
+ 			 Fitness: 0.8663213919186615	 Inlier_RMSE: 0.02242460670200715	 Correspondence set: 36298
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 2
+		 Iteracija: 0
+ 			 Fitness: 0.9945525452406991	 Inlier_RMSE: 0.01635390762689199	 Correspondence set: 48199
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Fitness: 0.9946557167323525	 Inlier_RMSE: 0.016384683024456365	 Correspondence set: 48204
+
+	Za drvo tree_1_V_0012 najbolja preklapanja su bila u iteracijama: [0, 2, 4]
+
+Working on tree: tree_1_V_0014
+	 Spajanje: 0
+		 Iteracija: 0
+ 			 Fitness: 0.8309987706292143	 Inlier_RMSE: 0.02663937998913037	 Correspondence set: 44613
+		 Iteracija: 1
+ 			 Fitness: 0.8312409194203331	 Inlier_RMSE: 0.02669015351171707	 Correspondence set: 44626
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 1
+		 Iteracija: 0
+ 			 Fitness: 0.91235647601674	 Inlier_RMSE: 0.01926065468012041	 Correspondence set: 34009
+		 Iteracija: 1
+ 			 Fitness: 0.9125979182315699	 Inlier_RMSE: 0.01932701625025867	 Correspondence set: 34018
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 2
+		 Iteracija: 0
+ 			 Fitness: 0.7782491085700234	 Inlier_RMSE: 0.04926419253879783	 Correspondence set: 25318
+		 Iteracija: 1
+ 			 Fitness: 0.8682220582810771	 Inlier_RMSE: 0.010930286119990125	 Correspondence set: 28245
+		 Iteracija: 2
+ 			 Fitness: 0.8682835362105005	 Inlier_RMSE: 0.010961021591336375	 Correspondence set: 28247
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+
+	Za drvo tree_1_V_0014 najbolja preklapanja su bila u iteracijama: [1, 1, 2]
+
+Working on tree: tree_1_V_0015
+	 Spajanje: 0
+		 Iteracija: 0
+ 			 Fitness: 0.7644730924898816	 Inlier_RMSE: 0.02443574381963339	 Correspondence set: 50998
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 1
+		 Iteracija: 0
+ 			 Fitness: 0.8820104533851951	 Inlier_RMSE: 0.021317901926787116	 Correspondence set: 72563
+		 Iteracija: 1
+ 			 Fitness: 0.8822414002674122	 Inlier_RMSE: 0.02137516253797979	 Correspondence set: 72582
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 2
+		 Iteracija: 0
+ 			 Fitness: 0.995958908769304	 Inlier_RMSE: 0.009105357437765865	 Correspondence set: 73198
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+
+	Za drvo tree_1_V_0015 najbolja preklapanja su bila u iteracijama: [0, 1, 0]
+
+Working on tree: tree_1_V_0016
+	 Spajanje: 0
+		 Iteracija: 0
+ 			 Fitness: 0.8357221461738734	 Inlier_RMSE: 0.023580410662224622	 Correspondence set: 62273
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 1
+		 Iteracija: 0
+ 			 Fitness: 0.8750539867491247	 Inlier_RMSE: 0.028163383088724066	 Correspondence set: 95226
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Fitness: 0.8757248008233554	 Inlier_RMSE: 0.028292091070864535	 Correspondence set: 95299
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 2
+		 Iteracija: 0
+ 			 Fitness: 0.9967578250780009	 Inlier_RMSE: 0.01337880835622107	 Correspondence set: 89771
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+
+	Za drvo tree_1_V_0016 najbolja preklapanja su bila u iteracijama: [0, 2, 0]
+
+Working on tree: tree_1_V_0017
+	 Spajanje: 0
+		 Iteracija: 0
+ 			 Fitness: 0.9593521258370971	 Inlier_RMSE: 0.019031768772025223	 Correspondence set: 49280
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 1
+		 Iteracija: 0
+ 			 Fitness: 0.6752112395092689	 Inlier_RMSE: 0.055024772006184594	 Correspondence set: 47387
+		 Iteracija: 1
+ 			 Fitness: 0.717345150396831	 Inlier_RMSE: 0.05173297847091383	 Correspondence set: 50344
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Fitness: 0.7296276770065973	 Inlier_RMSE: 0.051818801785617166	 Correspondence set: 51206
+			 Nastao je problem 4 (broj pokušaja: 1)
+		 Iteracija: 4
+ 			 Nema promjene
+			 Nastao je problem 4 (broj pokušaja: 2)
+		 Iteracija: 4
+ 			 Nema promjene
+			 Nastao je problem 4 (broj pokušaja: 3)
+		 Iteracija: 4
+ 			 Nema promjene
+			 Nastao je problem 4 (broj pokušaja: 4)
+		 Iteracija: 4
+ 			 Nema promjene
+			 Nastao je problem 4 (broj pokušaja: 5)
+			Previše ponavljanja zbog problema 4
+	 Spajanje: 2
+		 Iteracija: 0
+ 			 Fitness: 0.954684667791737	 Inlier_RMSE: 0.02016456376576104	 Correspondence set: 61096
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Fitness: 0.9547784236514782	 Inlier_RMSE: 0.020189477833369232	 Correspondence set: 61102
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+
+	Za drvo tree_1_V_0017 najbolja preklapanja su bila u iteracijama: [0, 4, 2]
+
+Working on tree: tree_1_V_0018
+	 Spajanje: 0
+		 Iteracija: 0
+ 			 Fitness: 0.7795684803001877	 Inlier_RMSE: 0.019534179749407868	 Correspondence set: 41551
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Fitness: 0.7796622889305816	 Inlier_RMSE: 0.019564035650136223	 Correspondence set: 41556
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 1
+		 Iteracija: 0
+ 			 Fitness: 0.9809820291495684	 Inlier_RMSE: 0.011583671926370486	 Correspondence set: 34663
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Fitness: 0.9810952313570115	 Inlier_RMSE: 0.011631928793007028	 Correspondence set: 34667
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 2
+		 Iteracija: 0
+ 			 Fitness: 0.8912522188658092	 Inlier_RMSE: 0.02256559184033337	 Correspondence set: 57238
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Fitness: 0.8916414935691819	 Inlier_RMSE: 0.022659467439185715	 Correspondence set: 57263
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Fitness: 0.8918594874030706	 Inlier_RMSE: 0.022708400545941206	 Correspondence set: 57277
+
+	Za drvo tree_1_V_0018 najbolja preklapanja su bila u iteracijama: [2, 2, 4]
+
+Working on tree: tree_1_V_0019
+	 Spajanje: 0
+		 Iteracija: 0
+ 			 Fitness: 0.8916727806309611	 Inlier_RMSE: 0.02413980707923174	 Correspondence set: 48614
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 1
+		 Iteracija: 0
+ 			 Fitness: 0.883138446320698	 Inlier_RMSE: 0.02448748486746675	 Correspondence set: 49998
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 2
+		 Iteracija: 0
+ 			 Fitness: 0.9970646281445952	 Inlier_RMSE: 0.012500095858179149	 Correspondence set: 79823
+		 Iteracija: 1
+ 			 Fitness: 0.9971645556971196	 Inlier_RMSE: 0.012539447990850768	 Correspondence set: 79831
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+
+	Za drvo tree_1_V_0019 najbolja preklapanja su bila u iteracijama: [0, 0, 1]
+
+Working on tree: tree_1_V_0020
+	 Spajanje: 0
+		 Iteracija: 0
+ 			 Fitness: 0.8172349704653773	 Inlier_RMSE: 0.023550360094002843	 Correspondence set: 44411
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Fitness: 0.8172901753675726	 Inlier_RMSE: 0.023563959237857104	 Correspondence set: 44414
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 1
+		 Iteracija: 0
+ 			 Fitness: 0.8295293430819272	 Inlier_RMSE: 0.04924728298635103	 Correspondence set: 29839
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+			 Nastao je problem 4 (broj pokušaja: 1)
+		 Iteracija: 4
+ 			 Fitness: 0.8955825526118262	 Inlier_RMSE: 0.04187313898847834	 Correspondence set: 32215
+			 Nastao je problem 4 (broj pokušaja: 2)
+		 Iteracija: 4
+ 			 Nema promjene
+			 Nastao je problem 4 (broj pokušaja: 3)
+		 Iteracija: 4
+ 			 Nema promjene
+			 Nastao je problem 4 (broj pokušaja: 4)
+		 Iteracija: 4
+ 			 Nema promjene
+			 Nastao je problem 4 (broj pokušaja: 5)
+			Previše ponavljanja zbog problema 4
+	 Spajanje: 2
+		 Iteracija: 0
+ 			 Fitness: 0.9491435661542186	 Inlier_RMSE: 0.022040577261412782	 Correspondence set: 62727
+		 Iteracija: 1
+ 			 Fitness: 0.9491738288342816	 Inlier_RMSE: 0.02204917707335877	 Correspondence set: 62729
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+
+	Za drvo tree_1_V_0020 najbolja preklapanja su bila u iteracijama: [2, 4, 1]
+
+Working on tree: tree_1_V_0021
+	 Spajanje: 0
+		 Iteracija: 0
+ 			 Fitness: 0.9136200716845878	 Inlier_RMSE: 0.019220962886648534	 Correspondence set: 40784
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 1
+		 Iteracija: 0
+ 			 Fitness: 0.6626499645273669	 Inlier_RMSE: 0.054728434804006375	 Correspondence set: 62580
+		 Iteracija: 1
+ 			 Fitness: 0.9004860280180857	 Inlier_RMSE: 0.03150464934181133	 Correspondence set: 85041
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+			 Nastao je problem 4 (broj pokušaja: 1)
+		 Iteracija: 4
+ 			 Nema promjene
+			 Nastao je problem 4 (broj pokušaja: 2)
+		 Iteracija: 4
+ 			 Nema promjene
+			 Nastao je problem 4 (broj pokušaja: 3)
+		 Iteracija: 4
+ 			 Fitness: 0.9005283834009254	 Inlier_RMSE: 0.03151140979878453	 Correspondence set: 85045
+			 Nastao je problem 4 (broj pokušaja: 4)
+		 Iteracija: 4
+ 			 Fitness: 0.9006130941666048	 Inlier_RMSE: 0.031524894944095064	 Correspondence set: 85053
+			 Nastao je problem 4 (broj pokušaja: 5)
+			Previše ponavljanja zbog problema 4
+	 Spajanje: 2
+		 Iteracija: 0
+ 			 Fitness: 0.9789021216184242	 Inlier_RMSE: 0.013236714762708735	 Correspondence set: 74469
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Fitness: 0.978994137287378	 Inlier_RMSE: 0.01327272836443915	 Correspondence set: 74476
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+
+	Za drvo tree_1_V_0021 najbolja preklapanja su bila u iteracijama: [0, 4, 2]
+
+Working on tree: tree_1_V_0022
+	 Spajanje: 0
+		 Iteracija: 0
+ 			 Fitness: 0.8750395080883832	 Inlier_RMSE: 0.0338376818121245	 Correspondence set: 60908
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Fitness: 0.875068241243571	 Inlier_RMSE: 0.03384200703201965	 Correspondence set: 60910
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 1
+		 Iteracija: 0
+ 			 Fitness: 0.8761072312264828	 Inlier_RMSE: 0.03124888175899561	 Correspondence set: 59839
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 2
+		 Iteracija: 0
+ 			 Fitness: 0.980584816027854	 Inlier_RMSE: 0.014241869756203077	 Correspondence set: 66466
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+
+	Za drvo tree_1_V_0022 najbolja preklapanja su bila u iteracijama: [3, 0, 0]
+
+Working on tree: tree_1_V_0023
+	 Spajanje: 0
+		 Iteracija: 0
+ 			 Fitness: 0.7435658448586892	 Inlier_RMSE: 0.042695756092035755	 Correspondence set: 24731
+		 Iteracija: 1
+ 			 Fitness: 0.8399879735417919	 Inlier_RMSE: 0.047701961127917046	 Correspondence set: 27938
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 1
+		 Iteracija: 0
+ 			 Fitness: 0.8729748231535711	 Inlier_RMSE: 0.032143190215732496	 Correspondence set: 68862
+		 Iteracija: 1
+ 			 Fitness: 0.8730508861337187	 Inlier_RMSE: 0.032155344098684535	 Correspondence set: 68868
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 2
+		 Iteracija: 0
+ 			 Fitness: 0.9859589277100131	 Inlier_RMSE: 0.012870703701167581	 Correspondence set: 57229
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Fitness: 0.9860106126386879	 Inlier_RMSE: 0.012895960784910503	 Correspondence set: 57232
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+
+	Za drvo tree_1_V_0023 najbolja preklapanja su bila u iteracijama: [1, 1, 2]
+
+Working on tree: tree_1_V_0024
+	 Spajanje: 0
+		 Iteracija: 0
+ 			 Fitness: 0.9450758281477065	 Inlier_RMSE: 0.017026324028413677	 Correspondence set: 50726
+		 Iteracija: 1
+ 			 Fitness: 0.945094459142229	 Inlier_RMSE: 0.017031679989557787	 Correspondence set: 50727
+		 Iteracija: 2
+ 			 Fitness: 0.9452807690874538	 Inlier_RMSE: 0.017087380523986388	 Correspondence set: 50737
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 1
+		 Iteracija: 0
+ 			 Fitness: 0.9851942340581481	 Inlier_RMSE: 0.01755920761690494	 Correspondence set: 60486
+		 Iteracija: 1
+ 			 Fitness: 0.9853245378288135	 Inlier_RMSE: 0.017595818256804223	 Correspondence set: 60494
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 2
+		 Iteracija: 0
+ 			 Fitness: 0.8365547985532845	 Inlier_RMSE: 0.05432746512082801	 Correspondence set: 49729
+		 Iteracija: 1
+ 			 Fitness: 0.8981411388678611	 Inlier_RMSE: 0.029202281030119372	 Correspondence set: 53390
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+			 Nastao je problem 4 (broj pokušaja: 1)
+		 Iteracija: 4
+ 			 Nema promjene
+			 Nastao je problem 4 (broj pokušaja: 2)
+		 Iteracija: 4
+ 			 Nema promjene
+			 Nastao je problem 4 (broj pokušaja: 3)
+		 Iteracija: 4
+ 			 Nema promjene
+			 Nastao je problem 4 (broj pokušaja: 4)
+		 Iteracija: 4
+ 			 Nema promjene
+			 Nastao je problem 4 (broj pokušaja: 5)
+			Previše ponavljanja zbog problema 4
+
+	Za drvo tree_1_V_0024 najbolja preklapanja su bila u iteracijama: [2, 1, 1]
+
+Working on tree: tree_1_V_0025
+	 Spajanje: 0
+		 Iteracija: 0
+ 			 Fitness: 0.7647698478646683	 Inlier_RMSE: 0.028054003355740324	 Correspondence set: 74549
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Fitness: 0.7651904512766853	 Inlier_RMSE: 0.02814481071277398	 Correspondence set: 74590
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 1
+		 Iteracija: 0
+ 			 Fitness: 0.8250451482182971	 Inlier_RMSE: 0.04792276797147384	 Correspondence set: 56193
+		 Iteracija: 1
+ 			 Fitness: 0.8250891952605383	 Inlier_RMSE: 0.047928122820072167	 Correspondence set: 56196
+		 Iteracija: 2
+ 			 Fitness: 0.8393898016414865	 Inlier_RMSE: 0.048060817720389136	 Correspondence set: 57170
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+			 Nastao je problem 4 (broj pokušaja: 1)
+		 Iteracija: 4
+ 			 Nema promjene
+			 Nastao je problem 4 (broj pokušaja: 2)
+		 Iteracija: 4
+ 			 Nema promjene
+			 Nastao je problem 4 (broj pokušaja: 3)
+		 Iteracija: 4
+ 			 Nema promjene
+			 Nastao je problem 4 (broj pokušaja: 4)
+		 Iteracija: 4
+ 			 Nema promjene
+			 Nastao je problem 4 (broj pokušaja: 5)
+			Previše ponavljanja zbog problema 4
+	 Spajanje: 2
+		 Iteracija: 0
+ 			 Fitness: 0.2064217826868739	 Inlier_RMSE: 0.041818568480896906	 Correspondence set: 24108
+		 Iteracija: 1
+ 			 Fitness: 0.7471786968062334	 Inlier_RMSE: 0.027734420128607697	 Correspondence set: 87263
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+
+	Za drvo tree_1_V_0025 najbolja preklapanja su bila u iteracijama: [3, 2, 1]
+
+Working on tree: tree_1_V_0026
+	 Spajanje: 0
+		 Iteracija: 0
+ 			 Fitness: 0.8715104943227434	 Inlier_RMSE: 0.02022341971331291	 Correspondence set: 75987
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 1
+		 Iteracija: 0
+ 			 Fitness: 0.9408906804691033	 Inlier_RMSE: 0.016124698818132326	 Correspondence set: 97799
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 2
+		 Iteracija: 0
+ 			 Fitness: 0.9727009762564782	 Inlier_RMSE: 0.01908523522015522	 Correspondence set: 129128
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Fitness: 0.9730022899843317	 Inlier_RMSE: 0.019165208297982777	 Correspondence set: 129168
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+
+	Za drvo tree_1_V_0026 najbolja preklapanja su bila u iteracijama: [0, 0, 2]
+
+Working on tree: tree_1_V_0027
+	 Spajanje: 0
+		 Iteracija: 0
+ 			 Fitness: 0.8449253537100043	 Inlier_RMSE: 0.02266559116844095	 Correspondence set: 45446
+		 Iteracija: 1
+ 			 Fitness: 0.8450926803874542	 Inlier_RMSE: 0.022706113808874457	 Correspondence set: 45455
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Fitness: 0.8451112722405042	 Inlier_RMSE: 0.02271059037841218	 Correspondence set: 45456
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 1
+		 Iteracija: 0
+ 			 Fitness: 0.9629747591368739	 Inlier_RMSE: 0.017046791379317063	 Correspondence set: 36282
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Fitness: 0.963266714441171	 Inlier_RMSE: 0.01713385346780572	 Correspondence set: 36293
+		 Iteracija: 4
+ 			 Fitness: 0.9633197972237705	 Inlier_RMSE: 0.017149608792406873	 Correspondence set: 36295
+	 Spajanje: 2
+		 Iteracija: 0
+ 			 Fitness: 0.8359216745442268	 Inlier_RMSE: 0.05421357467793545	 Correspondence set: 35902
+		 Iteracija: 1
+ 			 Fitness: 0.9419776944748423	 Inlier_RMSE: 0.02130876574686559	 Correspondence set: 40457
+		 Iteracija: 2
+ 			 Fitness: 0.9421406784791264	 Inlier_RMSE: 0.021348131210894447	 Correspondence set: 40464
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+
+	Za drvo tree_1_V_0027 najbolja preklapanja su bila u iteracijama: [3, 4, 2]
+
+Working on tree: tree_1_V_0028
+	 Spajanje: 0
+		 Iteracija: 0
+ 			 Fitness: 0.8626047572606906	 Inlier_RMSE: 0.025437251272496943	 Correspondence set: 52185
+		 Iteracija: 1
+ 			 Fitness: 0.8627039357323504	 Inlier_RMSE: 0.025458747301049574	 Correspondence set: 52191
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 1
+		 Iteracija: 0
+ 			 Fitness: 0.9409749891652337	 Inlier_RMSE: 0.018155186915159823	 Correspondence set: 67307
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Fitness: 0.9410448908834179	 Inlier_RMSE: 0.018174084079887718	 Correspondence set: 67312
+	 Spajanje: 2
+		 Iteracija: 0
+ 			 Fitness: 0.9558798478223838	 Inlier_RMSE: 0.016462737991789697	 Correspondence set: 67336
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Fitness: 0.9559082391687014	 Inlier_RMSE: 0.016471749231874337	 Correspondence set: 67338
+
+	Za drvo tree_1_V_0028 najbolja preklapanja su bila u iteracijama: [1, 4, 4]
+
+Working on tree: tree_1_V_0029
+	 Spajanje: 0
+		 Iteracija: 0
+ 			 Fitness: 0.6615863772068851	 Inlier_RMSE: 0.025591577775686825	 Correspondence set: 35899
+		 Iteracija: 1
+ 			 Fitness: 0.661825955549003	 Inlier_RMSE: 0.025657247331547357	 Correspondence set: 35912
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 1
+		 Iteracija: 0
+ 			 Fitness: 0.8063884880710007	 Inlier_RMSE: 0.04704973766542473	 Correspondence set: 40796
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Fitness: 0.8303848510604653	 Inlier_RMSE: 0.0490814100488327	 Correspondence set: 42010
+		 Iteracija: 3
+ 			 Fitness: 0.8957126761676978	 Inlier_RMSE: 0.050317289595363135	 Correspondence set: 45315
+		 Iteracija: 4
+ 			 Nema promjene
+			 Nastao je problem 4 (broj pokušaja: 1)
+		 Iteracija: 4
+ 			 Nema promjene
+			 Nastao je problem 4 (broj pokušaja: 2)
+		 Iteracija: 4
+ 			 Nema promjene
+			 Nastao je problem 4 (broj pokušaja: 3)
+		 Iteracija: 4
+ 			 Nema promjene
+			 Nastao je problem 4 (broj pokušaja: 4)
+		 Iteracija: 4
+ 			 Nema promjene
+			 Nastao je problem 4 (broj pokušaja: 5)
+			Previše ponavljanja zbog problema 4
+	 Spajanje: 2
+		 Iteracija: 0
+ 			 Fitness: 0.7399669428151014	 Inlier_RMSE: 0.03705689969911156	 Correspondence set: 73421
+		 Iteracija: 1
+ 			 Fitness: 0.9018362863074721	 Inlier_RMSE: 0.03141281904956712	 Correspondence set: 89482
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+
+	Za drvo tree_1_V_0029 najbolja preklapanja su bila u iteracijama: [1, 3, 1]
+
+Working on tree: tree_1_V_0030
+	 Spajanje: 0
+		 Iteracija: 0
+ 			 Fitness: 0.7781206215267392	 Inlier_RMSE: 0.02020614118566718	 Correspondence set: 49427
+		 Iteracija: 1
+ 			 Fitness: 0.7781835928275689	 Inlier_RMSE: 0.02022512961980141	 Correspondence set: 49431
+		 Iteracija: 2
+ 			 Fitness: 0.7782150784779837	 Inlier_RMSE: 0.020235816710994413	 Correspondence set: 49433
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 1
+		 Iteracija: 0
+ 			 Fitness: 0.9632670523999673	 Inlier_RMSE: 0.020579544090937655	 Correspondence set: 47281
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 2
+		 Iteracija: 0
+ 			 Fitness: 0.9904602586128944	 Inlier_RMSE: 0.017460841944556448	 Correspondence set: 65721
+		 Iteracija: 1
+ 			 Fitness: 0.9904753292943906	 Inlier_RMSE: 0.01746676570480108	 Correspondence set: 65722
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+
+	Za drvo tree_1_V_0030 najbolja preklapanja su bila u iteracijama: [2, 0, 1]
+
+Working on tree: tree_1_V_0031
+	 Spajanje: 0
+		 Iteracija: 0
+ 			 Fitness: 0.804214885318524	 Inlier_RMSE: 0.028554485861120648	 Correspondence set: 50105
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 1
+		 Iteracija: 0
+ 			 Fitness: 0.9546096296198556	 Inlier_RMSE: 0.022731345277401876	 Correspondence set: 72347
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Fitness: 0.9546492142451871	 Inlier_RMSE: 0.022738280156885463	 Correspondence set: 72350
+		 Iteracija: 3
+ 			 Fitness: 0.9546756039954082	 Inlier_RMSE: 0.022744866628430727	 Correspondence set: 72352
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 2
+		 Iteracija: 0
+ 			 Fitness: 0.9169757303663219	 Inlier_RMSE: 0.04816478143904818	 Correspondence set: 70465
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Fitness: 0.920840653263062	 Inlier_RMSE: 0.04809100947221013	 Correspondence set: 70762
+		 Iteracija: 4
+ 			 Fitness: 0.9869867915934674	 Inlier_RMSE: 0.013654448549184439	 Correspondence set: 75845
+
+	Za drvo tree_1_V_0031 najbolja preklapanja su bila u iteracijama: [0, 3, 4]
+
+Working on tree: tree_1_V_0032
+	 Spajanje: 0
+		 Iteracija: 0
+ 			 Fitness: 0.9642849829002068	 Inlier_RMSE: 0.018236470692612857	 Correspondence set: 94174
+		 Iteracija: 1
+ 			 Fitness: 0.9643464192828326	 Inlier_RMSE: 0.01825378918353871	 Correspondence set: 94180
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 1
+		 Iteracija: 0
+ 			 Fitness: 1.0	 Inlier_RMSE: 0.010931361237491532	 Correspondence set: 51591
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 2
+		 Iteracija: 0
+ 			 Fitness: 0.9185841417461718	 Inlier_RMSE: 0.01946185287598867	 Correspondence set: 68745
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Fitness: 0.9188112990726636	 Inlier_RMSE: 0.019525168918881668	 Correspondence set: 68762
+		 Iteracija: 4
+ 			 Nema promjene
+
+	Za drvo tree_1_V_0032 najbolja preklapanja su bila u iteracijama: [1, 0, 3]
+
+Working on tree: tree_1_V_0033
+	 Spajanje: 0
+		 Iteracija: 0
+ 			 Fitness: 0.9276540633881354	 Inlier_RMSE: 0.02508032906612674	 Correspondence set: 51572
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Fitness: 0.927761988703817	 Inlier_RMSE: 0.025102263903035427	 Correspondence set: 51578
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 1
+		 Iteracija: 0
+ 			 Fitness: 0.7561099012296795	 Inlier_RMSE: 0.05163836821090157	 Correspondence set: 34372
+		 Iteracija: 1
+ 			 Fitness: 0.7755999912008623	 Inlier_RMSE: 0.04697087833533012	 Correspondence set: 35258
+		 Iteracija: 2
+ 			 Fitness: 0.8043951692734113	 Inlier_RMSE: 0.044206340030335155	 Correspondence set: 36567
+		 Iteracija: 3
+ 			 Fitness: 0.8097626432609605	 Inlier_RMSE: 0.0194995415448164	 Correspondence set: 36811
+		 Iteracija: 4
+ 			 Fitness: 0.8099606238588618	 Inlier_RMSE: 0.019560424504966752	 Correspondence set: 36820
+	 Spajanje: 2
+		 Iteracija: 0
+ 			 Fitness: 0.9634903947242665	 Inlier_RMSE: 0.019804835728561516	 Correspondence set: 60486
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+
+	Za drvo tree_1_V_0033 najbolja preklapanja su bila u iteracijama: [2, 4, 0]
+
+Working on tree: tree_1_V_0034
+	 Spajanje: 0
+		 Iteracija: 0
+ 			 Fitness: 0.8753027909426013	 Inlier_RMSE: 0.027895316217432953	 Correspondence set: 58177
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Fitness: 0.8755886556834425	 Inlier_RMSE: 0.02794929615717199	 Correspondence set: 58196
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 1
+		 Iteracija: 0
+ 			 Fitness: 0.9851102770108882	 Inlier_RMSE: 0.015174411635686147	 Correspondence set: 63514
+		 Iteracija: 1
+ 			 Fitness: 0.9851257871390018	 Inlier_RMSE: 0.015178503425282599	 Correspondence set: 63515
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 2
+		 Iteracija: 0
+ 			 Fitness: 0.9993467031297478	 Inlier_RMSE: 0.008749951353727893	 Correspondence set: 65777
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+
+	Za drvo tree_1_V_0034 najbolja preklapanja su bila u iteracijama: [2, 1, 0]
+
+Working on tree: tree_1_V_0035
+	 Spajanje: 0
+		 Iteracija: 0
+ 			 Fitness: 0.9759165497468432	 Inlier_RMSE: 0.02099126440552823	 Correspondence set: 79991
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 1
+		 Iteracija: 0
+ 			 Fitness: 0.961817578143528	 Inlier_RMSE: 0.02355434547499826	 Correspondence set: 60834
+		 Iteracija: 1
+ 			 Fitness: 0.9619598728833657	 Inlier_RMSE: 0.023584215535645964	 Correspondence set: 60843
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Fitness: 0.9621812202564467	 Inlier_RMSE: 0.023632388972583213	 Correspondence set: 60857
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 2
+		 Iteracija: 0
+ 			 Fitness: 0.9796530820478963	 Inlier_RMSE: 0.015581187822691698	 Correspondence set: 81610
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+
+	Za drvo tree_1_V_0035 najbolja preklapanja su bila u iteracijama: [0, 3, 0]
+
+Working on tree: tree_1_V_0036
+	 Spajanje: 0
+		 Iteracija: 0
+ 			 Fitness: 0.7330476204697837	 Inlier_RMSE: 0.05142516298052495	 Correspondence set: 49090
+		 Iteracija: 1
+ 			 Fitness: 0.7643466184837308	 Inlier_RMSE: 0.05057144135869261	 Correspondence set: 51186
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Fitness: 0.7885824361252557	 Inlier_RMSE: 0.049649005507073914	 Correspondence set: 52809
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 1
+		 Iteracija: 0
+ 			 Fitness: 0.802885225916237	 Inlier_RMSE: 0.04561998955950114	 Correspondence set: 63224
+		 Iteracija: 1
+ 			 Fitness: 0.8690854138622914	 Inlier_RMSE: 0.04411334682750622	 Correspondence set: 68437
+		 Iteracija: 2
+ 			 Fitness: 0.8723109745256902	 Inlier_RMSE: 0.03747057415348983	 Correspondence set: 68691
+		 Iteracija: 3
+ 			 Fitness: 0.9067254209737637	 Inlier_RMSE: 0.03730420032605071	 Correspondence set: 71401
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 2
+		 Iteracija: 0
+ 			 Fitness: 0.8847748364521527	 Inlier_RMSE: 0.04319904821334094	 Correspondence set: 93050
+		 Iteracija: 1
+ 			 Fitness: 0.9536455956184391	 Inlier_RMSE: 0.027077963496313064	 Correspondence set: 100293
+		 Iteracija: 2
+ 			 Fitness: 0.9537977331507683	 Inlier_RMSE: 0.027104343650321192	 Correspondence set: 100309
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+
+	Za drvo tree_1_V_0036 najbolja preklapanja su bila u iteracijama: [3, 3, 2]
+
+Working on tree: tree_1_V_0037
+	 Spajanje: 0
+		 Iteracija: 0
+ 			 Fitness: 0.8745426294421332	 Inlier_RMSE: 0.02325950588293674	 Correspondence set: 52344
+		 Iteracija: 1
+ 			 Fitness: 0.874576044642708	 Inlier_RMSE: 0.02326720608602528	 Correspondence set: 52346
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 1
+		 Iteracija: 0
+ 			 Fitness: 0.9245808593300032	 Inlier_RMSE: 0.02700314572975902	 Correspondence set: 88291
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Fitness: 0.9247379389065167	 Inlier_RMSE: 0.027032670463238272	 Correspondence set: 88306
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 2
+		 Iteracija: 0
+ 			 Fitness: 0.933873346086402	 Inlier_RMSE: 0.023424714284379144	 Correspondence set: 93731
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Fitness: 0.9338833094213295	 Inlier_RMSE: 0.02342697147689539	 Correspondence set: 93732
+		 Iteracija: 4
+ 			 Nema promjene
+
+	Za drvo tree_1_V_0037 najbolja preklapanja su bila u iteracijama: [1, 3, 3]
+
+Working on tree: tree_1_V_0038
+	 Spajanje: 0
+		 Iteracija: 0
+ 			 Fitness: 0.9235149199326278	 Inlier_RMSE: 0.029815926052662065	 Correspondence set: 73473
+		 Iteracija: 1
+ 			 Fitness: 0.9236029060559592	 Inlier_RMSE: 0.029830474541480363	 Correspondence set: 73480
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 1
+		 Iteracija: 0
+ 			 Fitness: 0.8397720474796133	 Inlier_RMSE: 0.05442403269475397	 Correspondence set: 53344
+		 Iteracija: 1
+ 			 Fitness: 0.8441642265671736	 Inlier_RMSE: 0.05029720851725623	 Correspondence set: 53623
+		 Iteracija: 2
+ 			 Fitness: 0.8489814552438525	 Inlier_RMSE: 0.054444617489510565	 Correspondence set: 53929
+		 Iteracija: 3
+ 			 Fitness: 0.9891376216114102	 Inlier_RMSE: 0.01614153089866347	 Correspondence set: 62832
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 2
+		 Iteracija: 0
+ 			 Fitness: 0.9781410480466755	 Inlier_RMSE: 0.01591020790006216	 Correspondence set: 72760
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+
+	Za drvo tree_1_V_0038 najbolja preklapanja su bila u iteracijama: [1, 3, 0]
+
+Working on tree: tree_1_V_0039
+	 Spajanje: 0
+		 Iteracija: 0
+ 			 Fitness: 0.7158768858881387	 Inlier_RMSE: 0.03582978306416077	 Correspondence set: 68707
+		 Iteracija: 1
+ 			 Fitness: 0.7158873051596233	 Inlier_RMSE: 0.03583175474917353	 Correspondence set: 68708
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 1
+		 Iteracija: 0
+ 			 Fitness: 0.7175898931000971	 Inlier_RMSE: 0.05242514607323032	 Correspondence set: 36920
+		 Iteracija: 1
+ 			 Fitness: 0.8158989310009718	 Inlier_RMSE: 0.05315384523186555	 Correspondence set: 41978
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 2
+		 Iteracija: 0
+ 			 Fitness: 0.9537908300869044	 Inlier_RMSE: 0.023913758334865327	 Correspondence set: 47742
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+
+	Za drvo tree_1_V_0039 najbolja preklapanja su bila u iteracijama: [1, 1, 0]
+
+Working on tree: tree_1_V_0040
+	 Spajanje: 0
+		 Iteracija: 0
+ 			 Fitness: 0.6035127185842933	 Inlier_RMSE: 0.04064552421354513	 Correspondence set: 86385
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 1
+		 Iteracija: 0
+ 			 Fitness: 0.9452808504525212	 Inlier_RMSE: 0.016288111322061948	 Correspondence set: 65801
+		 Iteracija: 1
+ 			 Fitness: 0.9456543600057463	 Inlier_RMSE: 0.016405502098002653	 Correspondence set: 65827
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 2
+		 Iteracija: 0
+ 			 Fitness: 0.9923582580115037	 Inlier_RMSE: 0.008993572703249254	 Correspondence set: 48308
+		 Iteracija: 1
+ 			 Fitness: 0.9923788003286771	 Inlier_RMSE: 0.009004866312917578	 Correspondence set: 48309
+		 Iteracija: 2
+ 			 Fitness: 0.9925020542317173	 Inlier_RMSE: 0.009075124465023383	 Correspondence set: 48315
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+
+	Za drvo tree_1_V_0040 najbolja preklapanja su bila u iteracijama: [0, 1, 2]
+
+Working on tree: tree_1_V_0041
+	 Spajanje: 0
+		 Iteracija: 0
+ 			 Fitness: 0.9173032539089165	 Inlier_RMSE: 0.02466452589219137	 Correspondence set: 56438
+		 Iteracija: 1
+ 			 Fitness: 0.917482040113123	 Inlier_RMSE: 0.024700620829176408	 Correspondence set: 56449
+		 Iteracija: 2
+ 			 Fitness: 0.9175633065695803	 Inlier_RMSE: 0.024717581554285196	 Correspondence set: 56454
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 1
+		 Iteracija: 0
+ 			 Fitness: 0.9681841967556253	 Inlier_RMSE: 0.019746208706916978	 Correspondence set: 74008
+		 Iteracija: 1
+ 			 Fitness: 0.9686289900575615	 Inlier_RMSE: 0.01985779452777772	 Correspondence set: 74042
+		 Iteracija: 2
+ 			 Fitness: 0.9686682365253794	 Inlier_RMSE: 0.019869399230857163	 Correspondence set: 74045
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 2
+		 Iteracija: 0
+ 			 Fitness: 0.8832092844377079	 Inlier_RMSE: 0.020754810022447827	 Correspondence set: 78081
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+
+	Za drvo tree_1_V_0041 najbolja preklapanja su bila u iteracijama: [2, 2, 0]
+
+Working on tree: tree_1_V_0042
+	 Spajanje: 0
+		 Iteracija: 0
+ 			 Fitness: 0.9184444632720494	 Inlier_RMSE: 0.025676537304197538	 Correspondence set: 54202
+		 Iteracija: 1
+ 			 Fitness: 0.9187155807845463	 Inlier_RMSE: 0.025732150897792183	 Correspondence set: 54218
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 1
+		 Iteracija: 0
+ 			 Fitness: 0.8967724886790867	 Inlier_RMSE: 0.02267751096676801	 Correspondence set: 74659
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Fitness: 0.8968205349957359	 Inlier_RMSE: 0.022688177060279185	 Correspondence set: 74663
+	 Spajanje: 2
+		 Iteracija: 0
+ 			 Fitness: 0.6774387594826722	 Inlier_RMSE: 0.05509608469695756	 Correspondence set: 60813
+		 Iteracija: 1
+ 			 Fitness: 0.7194354398511735	 Inlier_RMSE: 0.05289800840369314	 Correspondence set: 64583
+		 Iteracija: 2
+ 			 Fitness: 0.8848711693346255	 Inlier_RMSE: 0.02139525178637857	 Correspondence set: 79434
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+
+	Za drvo tree_1_V_0042 najbolja preklapanja su bila u iteracijama: [1, 4, 2]
+
+Working on tree: tree_1_V_0043
+	 Spajanje: 0
+		 Iteracija: 0
+ 			 Fitness: 0.6987555164535767	 Inlier_RMSE: 0.03213753729020982	 Correspondence set: 49242
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Fitness: 0.698798087156419	 Inlier_RMSE: 0.03214600095372188	 Correspondence set: 49245
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Fitness: 0.6988832285621036	 Inlier_RMSE: 0.032163158410136956	 Correspondence set: 49251
+	 Spajanje: 1
+		 Iteracija: 0
+ 			 Fitness: 0.8089256827481207	 Inlier_RMSE: 0.051538689336344486	 Correspondence set: 34004
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Fitness: 0.920211247502141	 Inlier_RMSE: 0.0137228476841505	 Correspondence set: 38682
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 2
+		 Iteracija: 0
+ 			 Fitness: 0.7460211483633477	 Inlier_RMSE: 0.04911549780623487	 Correspondence set: 41343
+		 Iteracija: 1
+ 			 Fitness: 0.9576491392688297	 Inlier_RMSE: 0.016092362986894728	 Correspondence set: 53071
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+
+	Za drvo tree_1_V_0043 najbolja preklapanja su bila u iteracijama: [4, 2, 1]
+
+Working on tree: tree_1_V_0044
+	 Spajanje: 0
+		 Iteracija: 0
+ 			 Fitness: 0.8948743158172774	 Inlier_RMSE: 0.023663953115929396	 Correspondence set: 60983
+		 Iteracija: 1
+ 			 Fitness: 0.8950357315802603	 Inlier_RMSE: 0.023700528514826086	 Correspondence set: 60994
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 1
+		 Iteracija: 0
+ 			 Fitness: 0.9203277081436874	 Inlier_RMSE: 0.02613870599350295	 Correspondence set: 65716
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Fitness: 0.9204957636019887	 Inlier_RMSE: 0.026170616821635146	 Correspondence set: 65728
+		 Iteracija: 4
+ 			 Fitness: 0.9208318745185912	 Inlier_RMSE: 0.026235921965747477	 Correspondence set: 65752
+	 Spajanje: 2
+		 Iteracija: 0
+ 			 Fitness: 0.7862118622747738	 Inlier_RMSE: 0.0554608964296993	 Correspondence set: 90629
+		 Iteracija: 1
+ 			 Fitness: 0.927702063796379	 Inlier_RMSE: 0.024521386929770267	 Correspondence set: 106939
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+
+	Za drvo tree_1_V_0044 najbolja preklapanja su bila u iteracijama: [1, 4, 1]
+
+Working on tree: tree_1_V_0045
+	 Spajanje: 0
+		 Iteracija: 0
+ 			 Fitness: 0.8574137747687073	 Inlier_RMSE: 0.025124785707519602	 Correspondence set: 96754
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Fitness: 0.8576619049307008	 Inlier_RMSE: 0.025181152751881264	 Correspondence set: 96782
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 1
+		 Iteracija: 0
+ 			 Fitness: 0.8116088638569534	 Inlier_RMSE: 0.05563033328932911	 Correspondence set: 118740
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Fitness: 0.8244863364820714	 Inlier_RMSE: 0.02872354958811053	 Correspondence set: 120624
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 2
+		 Iteracija: 0
+ 			 Fitness: 0.9635232626619552	 Inlier_RMSE: 0.015973588398933123	 Correspondence set: 78531
+		 Iteracija: 1
+ 			 Fitness: 0.9635355319984296	 Inlier_RMSE: 0.0159739207168008	 Correspondence set: 78532
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+
+	Za drvo tree_1_V_0045 najbolja preklapanja su bila u iteracijama: [2, 3, 1]
+
+Working on tree: tree_1_V_0046
+	 Spajanje: 0
+		 Iteracija: 0
+ 			 Fitness: 0.7016950840350081	 Inlier_RMSE: 0.03522455118288741	 Correspondence set: 126837
+		 Iteracija: 1
+ 			 Fitness: 0.7017227453280076	 Inlier_RMSE: 0.03522809987647133	 Correspondence set: 126842
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 1
+		 Iteracija: 0
+ 			 Fitness: 0.9728114302068313	 Inlier_RMSE: 0.0466082686399318	 Correspondence set: 88377
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 2
+		 Iteracija: 0
+ 			 Fitness: 0.9263930625019496	 Inlier_RMSE: 0.052742507526030026	 Correspondence set: 89094
+		 Iteracija: 1
+ 			 Fitness: 0.9683695007954416	 Inlier_RMSE: 0.02349852508531021	 Correspondence set: 93131
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nastao je problem 3
+
+	Za drvo tree_1_V_0046 najbolja preklapanja su bila u iteracijama: [1, 0, 1]
+
+Working on tree: tree_1_V_0047
+	 Spajanje: 0
+		 Iteracija: 0
+ 			 Fitness: 0.7062185530750819	 Inlier_RMSE: 0.05648028090767782	 Correspondence set: 57828
+		 Iteracija: 1
+ 			 Fitness: 0.8322505007083191	 Inlier_RMSE: 0.02577579104249514	 Correspondence set: 68148
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nastao je problem 3
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 1
+		 Iteracija: 0
+ 			 Fitness: 0.9612806371910217	 Inlier_RMSE: 0.018678463896512797	 Correspondence set: 92207
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Fitness: 0.9613953148945487	 Inlier_RMSE: 0.018712570308995972	 Correspondence set: 92218
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 2
+		 Iteracija: 0
+ 			 Fitness: 0.8425068258950216	 Inlier_RMSE: 0.053338876093693664	 Correspondence set: 33017
+		 Iteracija: 1
+ 			 Fitness: 0.8860904845747531	 Inlier_RMSE: 0.05072927093103094	 Correspondence set: 34725
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Fitness: 0.9138533772232004	 Inlier_RMSE: 0.05117650150563903	 Correspondence set: 35813
+		 Iteracija: 4
+ 			 Nema promjene
+			 Nastao je problem 4 (broj pokušaja: 1)
+		 Iteracija: 4
+ 			 Nema promjene
+			 Nastao je problem 4 (broj pokušaja: 2)
+		 Iteracija: 4
+ 			 Nema promjene
+			 Nastao je problem 4 (broj pokušaja: 3)
+		 Iteracija: 4
+ 			 Nema promjene
+			 Nastao je problem 4 (broj pokušaja: 4)
+		 Iteracija: 4
+ 			 Nema promjene
+			 Nastao je problem 4 (broj pokušaja: 5)
+			Previše ponavljanja zbog problema 4
+
+	Za drvo tree_1_V_0047 najbolja preklapanja su bila u iteracijama: [1, 3, 3]
+
+Working on tree: tree_1_V_0048
+	 Spajanje: 0
+		 Iteracija: 0
+ 			 Fitness: 0.7536889485815924	 Inlier_RMSE: 0.03378236785985855	 Correspondence set: 41526
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 1
+		 Iteracija: 0
+ 			 Fitness: 0.901392095331573	 Inlier_RMSE: 0.0252194692094785	 Correspondence set: 65204
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 2
+		 Iteracija: 0
+ 			 Fitness: 0.9911436751969555	 Inlier_RMSE: 0.013601312876257782	 Correspondence set: 55733
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Fitness: 0.9913926481833863	 Inlier_RMSE: 0.013694590151066484	 Correspondence set: 55747
+
+	Za drvo tree_1_V_0048 najbolja preklapanja su bila u iteracijama: [0, 0, 4]
+
+Working on tree: tree_1_V_0049
+	 Spajanje: 0
+		 Iteracija: 0
+ 			 Fitness: 0.7933243102106935	 Inlier_RMSE: 0.030361942176972898	 Correspondence set: 74440
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 1
+		 Iteracija: 0
+ 			 Fitness: 0.9864125994544929	 Inlier_RMSE: 0.017327476190342153	 Correspondence set: 78478
+		 Iteracija: 1
+ 			 Fitness: 0.9864377380308953	 Inlier_RMSE: 0.01733143500639672	 Correspondence set: 78480
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Fitness: 0.9867771088123279	 Inlier_RMSE: 0.01742914959887937	 Correspondence set: 78507
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 2
+		 Iteracija: 0
+ 			 Fitness: 0.8186045757988204	 Inlier_RMSE: 0.046844078729353936	 Correspondence set: 50521
+		 Iteracija: 1
+ 			 Fitness: 0.9587465163004731	 Inlier_RMSE: 0.013822009026913438	 Correspondence set: 59170
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+
+	Za drvo tree_1_V_0049 najbolja preklapanja su bila u iteracijama: [0, 3, 1]
+
+Working on tree: tree_1_V_0050
+	 Spajanje: 0
+		 Iteracija: 0
+ 			 Fitness: 0.5165291254311596	 Inlier_RMSE: 0.05976865939530973	 Correspondence set: 64093
+		 Iteracija: 1
+ 			 Fitness: 0.708939105767061	 Inlier_RMSE: 0.03717355823086858	 Correspondence set: 87968
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 1
+		 Iteracija: 0
+ 			 Fitness: 0.8077455846704374	 Inlier_RMSE: 0.04768975186244752	 Correspondence set: 83970
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Fitness: 0.9599830697602832	 Inlier_RMSE: 0.020541706275675503	 Correspondence set: 99796
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 2
+		 Iteracija: 0
+ 			 Fitness: 0.9932745825602969	 Inlier_RMSE: 0.012213724025736103	 Correspondence set: 98509
+		 Iteracija: 1
+ 			 Fitness: 0.9933350810680003	 Inlier_RMSE: 0.01223842216554326	 Correspondence set: 98515
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+
+	Za drvo tree_1_V_0050 najbolja preklapanja su bila u iteracijama: [1, 2, 1]
+
+Working on tree: tree_1_V_0051
+	 Spajanje: 0
+		 Iteracija: 0
+ 			 Fitness: 0.89116410388743	 Inlier_RMSE: 0.027227966625422408	 Correspondence set: 58709
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Fitness: 0.8912400006071738	 Inlier_RMSE: 0.027242581516061938	 Correspondence set: 58714
+	 Spajanje: 1
+		 Iteracija: 0
+ 			 Fitness: 0.952826801447234	 Inlier_RMSE: 0.023443966521318728	 Correspondence set: 68998
+		 Iteracija: 1
+ 			 Fitness: 0.9531858480404342	 Inlier_RMSE: 0.023520746672152388	 Correspondence set: 69024
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Fitness: 0.9532410859778496	 Inlier_RMSE: 0.023529884416144776	 Correspondence set: 69028
+	 Spajanje: 2
+		 Iteracija: 0
+ 			 Fitness: 0.9004500532505755	 Inlier_RMSE: 0.017190258255788737	 Correspondence set: 78630
+		 Iteracija: 1
+ 			 Fitness: 0.9004615049872313	 Inlier_RMSE: 0.017193832729224853	 Correspondence set: 78631
+		 Iteracija: 2
+ 			 Fitness: 0.9005531188804782	 Inlier_RMSE: 0.017222575284662468	 Correspondence set: 78639
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+
+	Za drvo tree_1_V_0051 najbolja preklapanja su bila u iteracijama: [4, 4, 2]
+
+Working on tree: tree_1_V_0052
+	 Spajanje: 0
+		 Iteracija: 0
+ 			 Fitness: 0.9162371319042628	 Inlier_RMSE: 0.019670925954892133	 Correspondence set: 63815
+		 Iteracija: 1
+ 			 Fitness: 0.9162514896121983	 Inlier_RMSE: 0.01967489224464311	 Correspondence set: 63816
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Fitness: 0.9164668552312308	 Inlier_RMSE: 0.019731789280570785	 Correspondence set: 63831
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 1
+		 Iteracija: 0
+ 			 Fitness: 0.9813435922892364	 Inlier_RMSE: 0.017128732953281194	 Correspondence set: 71169
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 2
+		 Iteracija: 0
+ 			 Fitness: 0.848587142044377	 Inlier_RMSE: 0.052977356785801136	 Correspondence set: 67119
+		 Iteracija: 1
+ 			 Fitness: 0.8536443517289336	 Inlier_RMSE: 0.05071661431595093	 Correspondence set: 67519
+		 Iteracija: 2
+ 			 Fitness: 0.9689740185852456	 Inlier_RMSE: 0.014622557494869829	 Correspondence set: 76641
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+
+	Za drvo tree_1_V_0052 najbolja preklapanja su bila u iteracijama: [3, 0, 2]
+
+Working on tree: tree_1_V_0053
+	 Spajanje: 0
+		 Iteracija: 0
+ 			 Fitness: 0.9337905829933165	 Inlier_RMSE: 0.021205875384567367	 Correspondence set: 37304
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 1
+		 Iteracija: 0
+ 			 Fitness: 0.7860614008022215	 Inlier_RMSE: 0.050844169707811214	 Correspondence set: 40762
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Fitness: 0.9442108917000925	 Inlier_RMSE: 0.022509336350348897	 Correspondence set: 48963
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 2
+		 Iteracija: 0
+ 			 Fitness: 0.8213110257816786	 Inlier_RMSE: 0.04953709864381998	 Correspondence set: 59890
+		 Iteracija: 1
+ 			 Fitness: 0.9790181020296215	 Inlier_RMSE: 0.018358189819456024	 Correspondence set: 71390
+		 Iteracija: 2
+ 			 Fitness: 0.9792238069116841	 Inlier_RMSE: 0.018414466340089877	 Correspondence set: 71405
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+
+	Za drvo tree_1_V_0053 najbolja preklapanja su bila u iteracijama: [0, 2, 2]
+
+Working on tree: tree_1_V_0054
+	 Spajanje: 0
+		 Iteracija: 0
+ 			 Fitness: 0.8710660965865283	 Inlier_RMSE: 0.025798283925689763	 Correspondence set: 49710
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 1
+		 Iteracija: 0
+ 			 Fitness: 0.8916208770066645	 Inlier_RMSE: 0.03252858078736218	 Correspondence set: 115859
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Fitness: 0.8916747471949024	 Inlier_RMSE: 0.03253709799858713	 Correspondence set: 115866
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 2
+		 Iteracija: 0
+ 			 Fitness: 0.9694251800480128	 Inlier_RMSE: 0.015201275171182079	 Correspondence set: 87225
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Fitness: 0.9695807770961146	 Inlier_RMSE: 0.015251111224206597	 Correspondence set: 87239
+
+	Za drvo tree_1_V_0054 najbolja preklapanja su bila u iteracijama: [0, 3, 4]
+
+Working on tree: tree_1_V_0055
+	 Spajanje: 0
+		 Iteracija: 0
+ 			 Fitness: 0.9870782337535285	 Inlier_RMSE: 0.013746854995295398	 Correspondence set: 96861
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 1
+		 Iteracija: 0
+ 			 Fitness: 0.8583684638710155	 Inlier_RMSE: 0.04846064887560425	 Correspondence set: 69636
+		 Iteracija: 1
+ 			 Fitness: 0.9993343687597072	 Inlier_RMSE: 0.012164070398097578	 Correspondence set: 81072
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 2
+		 Iteracija: 0
+ 			 Fitness: 0.9516005806402322	 Inlier_RMSE: 0.04349780775175736	 Correspondence set: 24911
+		 Iteracija: 1
+ 			 Fitness: 0.987279394911758	 Inlier_RMSE: 0.039742528049344264	 Correspondence set: 25845
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Fitness: 0.9898387959355184	 Inlier_RMSE: 0.03603744704689397	 Correspondence set: 25912
+		 Iteracija: 4
+ 			 Nema promjene
+			 Nastao je problem 4 (broj pokušaja: 1)
+		 Iteracija: 4
+ 			 Nema promjene
+			 Nastao je problem 4 (broj pokušaja: 2)
+		 Iteracija: 4
+ 			 Nema promjene
+			 Nastao je problem 4 (broj pokušaja: 3)
+		 Iteracija: 4
+ 			 Nema promjene
+			 Nastao je problem 4 (broj pokušaja: 4)
+		 Iteracija: 4
+ 			 Fitness: 1.0	 Inlier_RMSE: 0.043109333241025845	 Correspondence set: 26178
+			 Nastao je problem 4 (broj pokušaja: 5)
+			Previše ponavljanja zbog problema 4
+
+	Za drvo tree_1_V_0055 najbolja preklapanja su bila u iteracijama: [0, 1, 4]
+
+Working on tree: tree_1_V_0056
+	 Spajanje: 0
+		 Iteracija: 0
+ 			 Fitness: 0.7483646445538693	 Inlier_RMSE: 0.041398880079693945	 Correspondence set: 51825
+		 Iteracija: 1
+ 			 Fitness: 0.7934325858110353	 Inlier_RMSE: 0.029479903870403168	 Correspondence set: 54946
+		 Iteracija: 2
+ 			 Fitness: 0.793880232776422	 Inlier_RMSE: 0.029566632213358788	 Correspondence set: 54977
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 1
+		 Iteracija: 0
+ 			 Fitness: 0.8337943972781329	 Inlier_RMSE: 0.032197298362316676	 Correspondence set: 104888
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 2
+		 Iteracija: 0
+ 			 Fitness: 0.955906130390697	 Inlier_RMSE: 0.0158394169926966	 Correspondence set: 104644
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Fitness: 0.955915265230061	 Inlier_RMSE: 0.015841963147616853	 Correspondence set: 104645
+
+	Za drvo tree_1_V_0056 najbolja preklapanja su bila u iteracijama: [2, 0, 4]
+
+Working on tree: tree_1_V_0057
+	 Spajanje: 0
+		 Iteracija: 0
+ 			 Fitness: 0.7072195977595727	 Inlier_RMSE: 0.031450577164514555	 Correspondence set: 70961
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 1
+		 Iteracija: 0
+ 			 Fitness: 0.8010684644778153	 Inlier_RMSE: 0.05009093908098262	 Correspondence set: 65827
+		 Iteracija: 1
+ 			 Fitness: 0.9468931778908171	 Inlier_RMSE: 0.016261373164942576	 Correspondence set: 77810
+		 Iteracija: 2
+ 			 Fitness: 0.9470270401830263	 Inlier_RMSE: 0.016304721661324236	 Correspondence set: 77821
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 2
+		 Iteracija: 0
+ 			 Fitness: 0.8674949130198034	 Inlier_RMSE: 0.02011119683126005	 Correspondence set: 60539
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Fitness: 0.8675379015848451	 Inlier_RMSE: 0.02012021843374751	 Correspondence set: 60542
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+
+	Za drvo tree_1_V_0057 najbolja preklapanja su bila u iteracijama: [0, 2, 2]
+
+Working on tree: tree_1_V_0058
+	 Spajanje: 0
+		 Iteracija: 0
+ 			 Fitness: 0.8538154357723324	 Inlier_RMSE: 0.019771169084008323	 Correspondence set: 54949
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 1
+		 Iteracija: 0
+ 			 Fitness: 0.9876051538707273	 Inlier_RMSE: 0.022502526562712066	 Correspondence set: 46373
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 2
+		 Iteracija: 0
+ 			 Fitness: 0.9796740332644671	 Inlier_RMSE: 0.01435214817462019	 Correspondence set: 46945
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Fitness: 0.9797575074605063	 Inlier_RMSE: 0.014380566971711702	 Correspondence set: 46949
+
+	Za drvo tree_1_V_0058 najbolja preklapanja su bila u iteracijama: [0, 0, 4]
+
+Working on tree: tree_1_V_0059
+	 Spajanje: 0
+		 Iteracija: 0
+ 			 Fitness: 0.9426025819746652	 Inlier_RMSE: 0.022167208064330222	 Correspondence set: 46656
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 1
+		 Iteracija: 0
+ 			 Fitness: 0.9762999266639241	 Inlier_RMSE: 0.02025108879017534	 Correspondence set: 54582
+		 Iteracija: 1
+ 			 Fitness: 0.976389360902928	 Inlier_RMSE: 0.02027558088282935	 Correspondence set: 54587
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 2
+		 Iteracija: 0
+ 			 Fitness: 0.9535365152386429	 Inlier_RMSE: 0.01709326798557361	 Correspondence set: 41455
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+
+	Za drvo tree_1_V_0059 najbolja preklapanja su bila u iteracijama: [0, 1, 0]
+
+Working on tree: tree_1_V_0060
+	 Spajanje: 0
+		 Iteracija: 0
+ 			 Fitness: 0.6875562860230547	 Inlier_RMSE: 0.03339521329053735	 Correspondence set: 61077
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nastao je problem 3
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 1
+		 Iteracija: 0
+ 			 Fitness: 0.9563663392955987	 Inlier_RMSE: 0.01531071781725474	 Correspondence set: 60472
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Fitness: 0.9564137843779159	 Inlier_RMSE: 0.01533409795868713	 Correspondence set: 60475
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 2
+		 Iteracija: 0
+ 			 Fitness: 0.966384614115823	 Inlier_RMSE: 0.012344567329231514	 Correspondence set: 58589
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+
+	Za drvo tree_1_V_0060 najbolja preklapanja su bila u iteracijama: [0, 3, 0]
+
+Working on tree: tree_1_V_0061
+	 Spajanje: 0
+		 Iteracija: 0
+ 			 Fitness: 0.872871611511018	 Inlier_RMSE: 0.024582844699843162	 Correspondence set: 55416
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Fitness: 0.8728873627671807	 Inlier_RMSE: 0.02458618403860022	 Correspondence set: 55417
+	 Spajanje: 1
+		 Iteracija: 0
+ 			 Fitness: 0.93680725288467	 Inlier_RMSE: 0.021595790210965568	 Correspondence set: 65925
+		 Iteracija: 1
+ 			 Fitness: 0.9368214630819076	 Inlier_RMSE: 0.021599808858881714	 Correspondence set: 65926
+		 Iteracija: 2
+ 			 Fitness: 0.9368498834763826	 Inlier_RMSE: 0.021606476710470734	 Correspondence set: 65928
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 2
+		 Iteracija: 0
+ 			 Fitness: 0.7390508484748458	 Inlier_RMSE: 0.05204126330725867	 Correspondence set: 49257
+		 Iteracija: 1
+ 			 Fitness: 0.9747633122777536	 Inlier_RMSE: 0.019174064198019616	 Correspondence set: 64967
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+
+	Za drvo tree_1_V_0061 najbolja preklapanja su bila u iteracijama: [4, 2, 1]
+
+Working on tree: tree_1_V_0062
+	 Spajanje: 0
+		 Iteracija: 0
+ 			 Fitness: 0.9617079366176496	 Inlier_RMSE: 0.026206627483845585	 Correspondence set: 55655
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Fitness: 0.9617770558656322	 Inlier_RMSE: 0.026219329159852308	 Correspondence set: 55659
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 1
+		 Iteracija: 0
+ 			 Fitness: 0.9301872990020842	 Inlier_RMSE: 0.02333731890297275	 Correspondence set: 67393
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Fitness: 0.9302011014340726	 Inlier_RMSE: 0.02334012894899564	 Correspondence set: 67394
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Fitness: 0.9302287062980498	 Inlier_RMSE: 0.02334708746144188	 Correspondence set: 67396
+	 Spajanje: 2
+		 Iteracija: 0
+ 			 Fitness: 0.9890257596896587	 Inlier_RMSE: 0.0149257875989063	 Correspondence set: 58129
+		 Iteracija: 1
+ 			 Fitness: 0.9890597883417838	 Inlier_RMSE: 0.014938114870347519	 Correspondence set: 58131
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+
+	Za drvo tree_1_V_0062 najbolja preklapanja su bila u iteracijama: [2, 4, 1]
+
+Working on tree: tree_1_V_0063
+	 Spajanje: 0
+		 Iteracija: 0
+ 			 Fitness: 0.6480699783323971	 Inlier_RMSE: 0.05896585037118318	 Correspondence set: 40378
+		 Iteracija: 1
+ 			 Fitness: 0.6730438969585105	 Inlier_RMSE: 0.05601575867861425	 Correspondence set: 41934
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 1
+		 Iteracija: 0
+ 			 Fitness: 0.7338426744759199	 Inlier_RMSE: 0.05252818724364111	 Correspondence set: 50619
+		 Iteracija: 1
+ 			 Fitness: 0.9280060309084056	 Inlier_RMSE: 0.02677601375539071	 Correspondence set: 64012
+		 Iteracija: 2
+ 			 Fitness: 0.9280205282843805	 Inlier_RMSE: 0.026778917365512158	 Correspondence set: 64013
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 2
+		 Iteracija: 0
+ 			 Fitness: 0.8571638375209585	 Inlier_RMSE: 0.03094723259567227	 Correspondence set: 70038
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Fitness: 0.857200553182636	 Inlier_RMSE: 0.03095322549016742	 Correspondence set: 70041
+
+	Za drvo tree_1_V_0063 najbolja preklapanja su bila u iteracijama: [1, 2, 4]
+
+Working on tree: tree_1_V_0064
+	 Spajanje: 0
+		 Iteracija: 0
+ 			 Fitness: 0.8753638409602401	 Inlier_RMSE: 0.027006739887658938	 Correspondence set: 58343
+		 Iteracija: 1
+ 			 Fitness: 0.8756039009752438	 Inlier_RMSE: 0.027055789948192514	 Correspondence set: 58359
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 1
+		 Iteracija: 0
+ 			 Fitness: 0.9337501502945774	 Inlier_RMSE: 0.023637623687902582	 Correspondence set: 54362
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 2
+		 Iteracija: 0
+ 			 Fitness: 0.9944734227521113	 Inlier_RMSE: 0.014124730025386075	 Correspondence set: 64060
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Fitness: 0.9945199950322902	 Inlier_RMSE: 0.014141382917261117	 Correspondence set: 64063
+
+	Za drvo tree_1_V_0064 najbolja preklapanja su bila u iteracijama: [1, 0, 4]
+
+Working on tree: tree_1_V_0065
+	 Spajanje: 0
+		 Iteracija: 0
+ 			 Fitness: 0.8354302029271677	 Inlier_RMSE: 0.02577313998784562	 Correspondence set: 62618
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Fitness: 0.8355102530919376	 Inlier_RMSE: 0.02579108407542292	 Correspondence set: 62624
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 1
+		 Iteracija: 0
+ 			 Fitness: 0.9856546408307462	 Inlier_RMSE: 0.01703095734342963	 Correspondence set: 73656
+		 Iteracija: 1
+ 			 Fitness: 0.9857215501552297	 Inlier_RMSE: 0.01705240346667296	 Correspondence set: 73661
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 2
+		 Iteracija: 0
+ 			 Fitness: 0.8995758802229924	 Inlier_RMSE: 0.025875925713520778	 Correspondence set: 116021
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+
+	Za drvo tree_1_V_0065 najbolja preklapanja su bila u iteracijama: [3, 1, 0]
+
+Working on tree: tree_1_V_0066
+	 Spajanje: 0
+		 Iteracija: 0
+ 			 Fitness: 0.8689387358847274	 Inlier_RMSE: 0.024237802880890186	 Correspondence set: 68024
+		 Iteracija: 1
+ 			 Fitness: 0.8689770578917787	 Inlier_RMSE: 0.02424688927385577	 Correspondence set: 68027
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 1
+		 Iteracija: 0
+ 			 Fitness: 0.9752225162376714	 Inlier_RMSE: 0.017382010784020317	 Correspondence set: 64864
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Fitness: 0.9754781092133751	 Inlier_RMSE: 0.01745638264604913	 Correspondence set: 64881
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 2
+		 Iteracija: 0
+ 			 Fitness: 0.8913316855296821	 Inlier_RMSE: 0.020431586476296348	 Correspondence set: 61665
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Fitness: 0.8916207738895393	 Inlier_RMSE: 0.02050926801923538	 Correspondence set: 61685
+		 Iteracija: 4
+ 			 Nema promjene
+
+	Za drvo tree_1_V_0066 najbolja preklapanja su bila u iteracijama: [1, 2, 3]
+
+Working on tree: tree_1_V_0067
+	 Spajanje: 0
+		 Iteracija: 0
+ 			 Fitness: 0.8211190859118078	 Inlier_RMSE: 0.03523001328717088	 Correspondence set: 34207
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 1
+		 Iteracija: 0
+ 			 Fitness: 0.9334374160623153	 Inlier_RMSE: 0.02231942001650019	 Correspondence set: 55603
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 2
+		 Iteracija: 0
+ 			 Fitness: 0.9898186997190038	 Inlier_RMSE: 0.014681093854031711	 Correspondence set: 51429
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+
+	Za drvo tree_1_V_0067 najbolja preklapanja su bila u iteracijama: [0, 0, 0]
+
+Working on tree: tree_1_V_0068
+	 Spajanje: 0
+		 Iteracija: 0
+ 			 Fitness: 0.9698833256461504	 Inlier_RMSE: 0.016875069268470693	 Correspondence set: 56776
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Fitness: 0.9699858214181998	 Inlier_RMSE: 0.01690533711592928	 Correspondence set: 56782
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Fitness: 0.9700541519328995	 Inlier_RMSE: 0.01692620887765142	 Correspondence set: 56786
+	 Spajanje: 1
+		 Iteracija: 0
+ 			 Fitness: 0.940824187102305	 Inlier_RMSE: 0.014100566148279585	 Correspondence set: 77920
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 2
+		 Iteracija: 0
+ 			 Fitness: 0.9962161361279219	 Inlier_RMSE: 0.012238471668940713	 Correspondence set: 87409
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+
+	Za drvo tree_1_V_0068 najbolja preklapanja su bila u iteracijama: [4, 0, 0]
+
+Working on tree: tree_1_V_0069
+	 Spajanje: 0
+		 Iteracija: 0
+ 			 Fitness: 0.8188205700452027	 Inlier_RMSE: 0.03489550973018734	 Correspondence set: 86587
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Fitness: 0.818943506137348	 Inlier_RMSE: 0.03491454451464061	 Correspondence set: 86600
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 1
+		 Iteracija: 0
+ 			 Fitness: 0.9980588085539714	 Inlier_RMSE: 0.010615257624957897	 Correspondence set: 62726
+		 Iteracija: 1
+ 			 Nema promjene
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Nema promjene
+	 Spajanje: 2
+		 Iteracija: 0
+ 			 Fitness: 0.8624981368311224	 Inlier_RMSE: 0.04732029998039605	 Correspondence set: 46292
+		 Iteracija: 1
+ 			 Fitness: 0.8877068117454167	 Inlier_RMSE: 0.05274130902969782	 Correspondence set: 47645
+		 Iteracija: 2
+ 			 Nema promjene
+		 Iteracija: 3
+ 			 Nema promjene
+		 Iteracija: 4
+ 			 Fitness: 0.8944887464599791	 Inlier_RMSE: 0.0463756656836597	 Correspondence set: 48009
+
+	Za drvo tree_1_V_0069 najbolja preklapanja su bila u iteracijama: [2, 0, 4]
+
